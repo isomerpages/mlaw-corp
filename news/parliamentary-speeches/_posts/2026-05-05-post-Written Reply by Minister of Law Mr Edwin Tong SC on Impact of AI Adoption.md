@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister of Law Mr Edwin Tong SC on Impact of AI Adoption
-permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-impact-of-ai-adoption/
+title: Written Reply by Minister of Law Mr Edwin Tong SC on Impact of AI Adoption on Junior Lawyer Training Pipelines and Addressing Developmental Gaps through One-Year Practice Training Framework
+permalink: /written-reply-by-minister-of-law-edwin-tong-sc-on-impact-of-ai-adoption-on-junior-lawyer-training-pipelines-and-addressing-developmental-gaps-through-practice-training-framework/
 date: 2026-05-05
 layout: post
 description: ""
