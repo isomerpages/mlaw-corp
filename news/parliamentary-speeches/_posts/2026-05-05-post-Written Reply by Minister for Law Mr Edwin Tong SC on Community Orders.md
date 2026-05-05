@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Community Orders
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-community-orders/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Community Orders and Sentences Under Part 17 of Criminal Procedure Code in 2024 and 2025 and Top Five Offence Types
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-community-orders-sentences-under-CPC-in-2024-and-2025-and-top-five-offence-types/
 date: 2026-05-05
 layout: post
 description: ""
