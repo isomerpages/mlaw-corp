@@ -8,24 +8,29 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>&lt;b&gt;&lt;u&gt;Name and Constituency of Member of Parliament&lt;/u&gt;&lt;/b&gt;&lt;br&gt;</p>
-<p>&lt;b&gt;Mr Low Wu Yang Andre (Non-Constituency Member of Parliament)
-&lt;/b&gt;</p>
-<p>&lt;b&gt;&lt;u&gt;Question&lt;/u&gt;&lt;/b&gt;&lt;br&gt;</p>
+<p><strong><u>Name and Constituency of Member of Parliament</u></strong>
+</p>
+<p><strong>Mr Low Wu Yang Andre (Non-Constituency Member of Parliament)</strong>
+</p>
+<p><strong><u>Question</u></strong>
+</p>
 <p>To ask the Minister for Law (a) whether the Ministry has tracked whether
 AI adoption in law firms has reduced workload and improved work-life balance
 for junior lawyers, or whether it has instead raised client expectations
 and billing demands in ways that worsen burnout; and (b) if no such data
 exists, whether the Ministry intends to commission monitoring of AI's net
 impact on lawyer wellbeing.</p>
-<p>&lt;b&gt;&lt;u&gt;Name and Constituency of Member of Parliament&lt;/u&gt;&lt;/b&gt;&lt;br&gt;</p>
-<p>&lt;b&gt;Ms Hany Soh (Member of Parliament for Marsiling - Yew Tee GRC)
-&lt;/b&gt;</p>
-<p>&lt;b&gt;&lt;u&gt;Question&lt;/u&gt;&lt;/b&gt;&lt;br&gt;</p>
+<p><strong><u>Name and Constituency of Member of Parliament</u></strong>
+</p>
+<p><strong>Ms Hany Soh (Member of Parliament for Marsiling - Yew Tee GRC)</strong>
+</p>
+<p><strong><u>Question</u></strong>
+</p>
 <p>To ask the Minister for Law whether the Ministry intends to issue guidelines
 or implement statutory rules on the usage of artificial intelligence (AI)
 tools in legal practice.</p>
-<p>&lt;b&gt;&lt;u&gt;Written Answer:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;</p>
+<p><strong><u>Written Answer</u></strong>
+</p>
 <p>{:start="1"}</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; My response will also address a related Parliamentary
 Question filed by Mr Andre Low for the Sitting on 5 May 2026.</p>
