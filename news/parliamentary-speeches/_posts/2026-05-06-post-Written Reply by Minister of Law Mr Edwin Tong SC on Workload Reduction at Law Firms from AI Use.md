@@ -90,4 +90,5 @@ tools in legal practice.</p>
 
 {:start="20"}
 20. With shared commitment, sustained mentorship and thoughtful use of technology, the Ministry, the Judiciary, the profession, educators and clients can together preserve what defines good lawyering while embracing the tools that will shape its future. I am confident the legal profession will not only adapt, but thrive.
-<p>&lt;p class="right-side-updated"&gt;Last updated on 6 May 2026&lt;/p&gt;</p>
+
+<p class="right-side-updated">Last updated on 6 May 2026</p>
