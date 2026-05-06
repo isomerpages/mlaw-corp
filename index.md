@@ -27,7 +27,7 @@ sections:
         - title: Trusts under Singapore Law
           description: Including Trustees’ AML Duties
           url: /trusts/trusts-and-trust-like-arrangements-in-singapore/
-        - title: Singapore Convention Week 2025
+        - title: Singapore Convention Week 2026
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
         - title: ONEMINLAW PORTAL
