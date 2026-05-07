@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+6 May 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
+
 <p><strong><u>Name and Constituency of Member of Parliament</u></strong>
 </p>
 <p><strong>Mr Low Wu Yang Andre (Non-Constituency Member of Parliament)</strong>
