@@ -11,26 +11,41 @@ description: ""
 <p>The Ministry of Law Services Centre video conferencing counters and the
 Help Centre counter at Basement 1 of the State Courts will be temporarily
 closed for staff event on the following date and time:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Closure Date/Time</p>
+<p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Ministry of Law Services Centre (URA East Wing)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Public Defender's Office Counter (State Courts Help Centre)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resumption Date</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 April 2026 (Monday)</p>
+<p>26 May 2026 (Tuesday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11:30 AM onwards</p>
+<p>Last appointment session: 11:00 AM; closes from 11:30 AM onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closes from 11:30 AM onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 May 2026 (Thursday)</p>
+<p>27 May 2026 (Wednesday) is a public holiday</p>
 </td>
 </tr>
 </tbody>
