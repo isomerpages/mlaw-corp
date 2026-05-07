@@ -8,9 +8,9 @@ description: ""
 <blockquote>
 <h3><strong>Closure of Ministry of Law Services Centre</strong></h3>
 </blockquote>
-<p>The Ministry of Law Services Centre video conferencing counters and the
-Help Centre counter at Basement 1 of the State Courts will be temporarily
-closed for staff event on the following date and time:</p>
+<p>The Ministry of Law Services Centre and the Public Defender's Office Counter
+at the State Courts, Help Centre at Basement 1, will close for a staff
+event on the following date:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
