@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister of Law Mr Edwin Tong SC on Improving Work Conditions for Legal Professionals
+title: Written Reply by Minister of Law Mr Edwin Tong SC on Improving Work
+  Conditions for Legal Professionals
 permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-improving-work-conditions-for-Legal-Professionals/
 date: 2026-05-06
 layout: post
@@ -7,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+6 May 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
+
 <p><strong><u>Name and Constituency of Member of Parliament</u></strong>
 </p><p><strong>Ms Hany Soh (Member of Parliament for Marsiling - Yew Tee GRC)</strong>
 </p>
