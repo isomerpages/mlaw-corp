@@ -1,6 +1,6 @@
 ---
-title: SGLaw200 Youth Forum
-permalink: /sglaw200-youth-forum/
+title: SGLaw200 Youth Forum Underscores Role of Youth in Shaping the Future of the Rule of Law
+permalink: /sglaw200-youth-forum-underscores-role-of-youth-in-shaping-the-future-of-rule-of-law/
 date: 2026-05-13
 layout: post
 description: ""
