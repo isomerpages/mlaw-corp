@@ -1,5 +1,6 @@
 ---
-title: SGLaw200 Youth Forum Underscores Role of Youth in Shaping the Future of the Rule of Law
+title: SGLaw200 Youth Forum Underscores Role of Youth in Shaping the Future of
+  the Rule of Law
 permalink: /sglaw200-youth-forum-underscores-role-of-youth-in-shaping-the-future-of-rule-of-law/
 date: 2026-05-13
 layout: post
@@ -21,22 +22,31 @@ variant: markdown
 {:start=“4”}
 4.&nbsp; The dialogue will explore:
 <p style="margin-left: 40px"> -&nbsp;How the Rule of Law underpins Singapore’s social fabric by maintaining law and order, fostering social harmony and protecting individuals, particularly the vulnerable; 
+	
 </p><p style="margin-left: 40px"> -&nbsp;The importance of promoting access to justice; and
+	
 </p><p style="margin-left: 40px"> -&nbsp;How our legal frameworks can evolve to address emerging social challenges while preserving trust, cohesion and confidence in society.
 
 **Expert and Youth-Led Discussions**
-
+	
 {:start=“5”}
 5.&nbsp; The Forum will also feature a series of breakout discussions led by experts, practitioners and youth leaders. These sessions will examine key facets of Singapore’s legal system, including:
+	
 </p><p style="margin-left: 40px"> -&nbsp;The relationship between the Rule of Law and the upward economic progress;
+	
 </p><p style="margin-left: 40px"> -&nbsp;Legal frameworks governing technology and the digital sphere; and 
+	
 </p><p style="margin-left: 40px"> -&nbsp;Sustainability, diversity, and civic engagement. 
 
 {:start=“6”}
 6.&nbsp; Featured panellists include: 
+	
 </p><p style="margin-left: 40px"> -&nbsp;Ms Tan Su Shan, Chief Executive Officer and Director, DBS Group
+	
 </p><p style="margin-left: 40px"> -&nbsp;Ms Melissa Yoong, Director, Government Affairs, Microsoft Singapore 
+	
 </p><p style="margin-left: 40px"> -&nbsp;Mr David Chua, Chief Executive Officer, National Youth Council
+	
 </p><p style="margin-left: 40px"> -&nbsp;Mr Yuvan Mohan, Country Head, Corporate Affairs, Lalamove Singapore. 
 
 {:start=“7”}
@@ -48,8 +58,8 @@ variant: markdown
 {:start=“9”}
 9.&nbsp; The full programme is available <a href="https://lkyspp.nus.edu.sg/docs/default-source/ips/sglaw200-youth-forum-programme.pdf?sfvrsn=2648040a_1">here</a>.
 
-**MINISTRY OF LAW** <br>
-**INSTITUTE OF POLICY STUDIES** <br>
-**13 MAY 2026**
-
+**MINISTRY OF LAW <br>
+INSTITUTE OF POLICY STUDIES <br>
+13 MAY 2026
+**
 </p><p class="right-side-updated">Last updated on 13 May 2026</p>
