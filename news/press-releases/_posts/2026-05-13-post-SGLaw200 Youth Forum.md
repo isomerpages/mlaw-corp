@@ -19,31 +19,27 @@ variant: markdown
 {:start=“3”}
 3.&nbsp; To conclude the day’s programme, Minister for Law and Second Minister for Home Affairs Edwin Tong SC will helm a dialogue examining the Rule of Law and its role in strengthening Singapore’s social fabric, with Justice Mohamed Faizal Mohamed Abdul Kadir, Judge of the High Court Judiciary, Supreme Court and Mr Goh Yihan SC, Deputy Attorney-General at the Attorney-General’s Chambers. The dialogue will be moderated by Ms Cai Chengying, Deputy Chief Executive Officer, Pro Bono SG.
 
-{:start=“4”}
-4.&nbsp; The dialogue will explore:
-<p style="margin-left: 40px"> -&nbsp;How the Rule of Law underpins Singapore’s social fabric by maintaining law and order, fostering social harmony and protecting individuals, particularly the vulnerable; 
-	
-</p><p style="margin-left: 40px"> -&nbsp;The importance of promoting access to justice; and
-	
-</p><p style="margin-left: 40px"> -&nbsp;How our legal frameworks can evolve to address emerging social challenges while preserving trust, cohesion and confidence in society.
+{:start="4"}
+4.	The dialogue will explore:
+<p style="margin-left: 40px">•	How the Rule of Law underpins Singapore’s social fabric by maintaining law and order, fostering social harmony and protecting individuals, particularly the vulnerable; ;</p>
+<p style="margin-left: 40px">•	The importance of promoting access to justice; and;</p>
+<p style="margin-left: 40px">•	How our legal frameworks can evolve to address emerging social challenges while preserving trust, cohesion and confidence in society.</p>
 
 **Expert and Youth-Led Discussions**
-	
-{:start=“5”}
-5.&nbsp; The Forum will also feature a series of breakout discussions led by experts, practitioners and youth leaders. These sessions will examine key facets of Singapore’s legal system, including:
-	
-</p><p style="margin-left: 40px"> -&nbsp;The relationship between the Rule of Law and the upward economic progress;
-	
-</p><p style="margin-left: 40px"> -&nbsp;Legal frameworks governing technology and the digital sphere; and 
-	
-</p><p style="margin-left: 40px"> -&nbsp;Sustainability, diversity, and civic engagement. 
+
+{:start="5"}
+5.	The Forum will also feature a series of breakout discussions led by experts, practitioners and youth leaders. These sessions will examine key facets of Singapore’s legal system, including:
+<p style="margin-left: 40px">•	The relationship between the Rule of Law and the upward economic progress;</p>
+<p style="margin-left: 40px">•	Legal frameworks governing technology and the digital sphere; and </p>
+<p style="margin-left: 40px">•	Sustainability, diversity, and civic engagement. </p>
+
 
 {:start="6"}
 6.	Featured panellists include:
-</p><p style="margin-left: 40px">•	Ms Tan Su Shan, Chief Executive Officer and Director, DBS Group</p>
+<p></p><p style="margin-left: 40px">•	Ms Tan Su Shan, Chief Executive Officer and Director, DBS Group</p>
 <p style="margin-left: 40px">•	Ms Melissa Yoong, Director, Government Affairs, Microsoft Singapore </p>
 <p style="margin-left: 40px">•	Mr David Chua, Chief Executive Officer, National Youth Council</p>
-<p style="margin-left: 40px">•	Mr Yuvan Mohan, Country Head, Corporate Affairs, Lalamove Singapore </p>
+<p style="margin-left: 40px">•	Mr Yuvan Mohan, Country Head, Corporate Affairs, Lalamove Singapore. </p>
 
 {:start="7"}
 7.	The Forum will also mark the third and final stage of the MinLaw Ideation Challenge.  Launched earlier this year, the Challenge invited students to propose innovative solutions to real-world legal challenges. 
