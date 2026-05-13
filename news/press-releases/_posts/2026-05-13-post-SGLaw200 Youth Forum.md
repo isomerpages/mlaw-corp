@@ -22,11 +22,13 @@ variant: markdown
 {:start=“4”}
 4.&nbsp; The dialogue will explore:
 <p style="margin-left: 40px"> -&nbsp;How the Rule of Law underpins Singapore’s social fabric by maintaining law and order, fostering social harmony and protecting individuals, particularly the vulnerable; 
+	
 </p><p style="margin-left: 40px"> -&nbsp;The importance of promoting access to justice; and
+	
 </p><p style="margin-left: 40px"> -&nbsp;How our legal frameworks can evolve to address emerging social challenges while preserving trust, cohesion and confidence in society.
 
 **Expert and Youth-Led Discussions**
-
+	
 {:start=“5”}
 5.&nbsp; The Forum will also feature a series of breakout discussions led by experts, practitioners and youth leaders. These sessions will examine key facets of Singapore’s legal system, including:
 	
@@ -56,8 +58,8 @@ variant: markdown
 {:start=“9”}
 9.&nbsp; The full programme is available <a href="https://lkyspp.nus.edu.sg/docs/default-source/ips/sglaw200-youth-forum-programme.pdf?sfvrsn=2648040a_1">here</a>.
 
-**MINISTRY OF LAW** <br>
-**INSTITUTE OF POLICY STUDIES** <br>
-**13 MAY 2026**
-
+**MINISTRY OF LAW <br>
+INSTITUTE OF POLICY STUDIES <br>
+13 MAY 2026
+**
 </p><p class="right-side-updated">Last updated on 13 May 2026</p>
