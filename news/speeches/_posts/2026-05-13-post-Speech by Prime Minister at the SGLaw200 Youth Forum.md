@@ -1,5 +1,5 @@
 ---
-title: Speech by Prime Minister at the SGLaw200 Youth Forum
+title: Speech by Prime Minister and Minister for Finance Lawrence Wong at the SGLaw200 Youth Forum
 permalink: /speech-by-prime-minister-at-the-sglaw200-youth-forum/
 date: 2026-05-13
 layout: post
