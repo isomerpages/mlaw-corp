@@ -38,30 +38,25 @@ variant: markdown
 	
 </p><p style="margin-left: 40px"> -&nbsp;Sustainability, diversity, and civic engagement. 
 
-{:start=“6”}
-6.&nbsp; Featured panellists include: 
-	
-</p><p style="margin-left: 40px"> -&nbsp;Ms Tan Su Shan, Chief Executive Officer and Director, DBS Group
-	
-</p><p style="margin-left: 40px"> -&nbsp;Ms Melissa Yoong, Director, Government Affairs, Microsoft Singapore 
-	
-</p><p style="margin-left: 40px"> -&nbsp;Mr David Chua, Chief Executive Officer, National Youth Council
-	
-</p><p style="margin-left: 40px"> -&nbsp;Mr Yuvan Mohan, Country Head, Corporate Affairs, Lalamove Singapore. 
-	
-	
-{:start=“7”} 
-	7. The Forum will also mark the third and final stage of the MinLaw Ideation Challenge.  Launched earlier this year, the Challenge invited students to propose innovative solutions to real-world legal challenges. 
+{:start="6"}
+6.	Featured panellists include:
+</p><p style="margin-left: 40px">•	Ms Tan Su Shan, Chief Executive Officer and Director, DBS Group</p>
+<p style="margin-left: 40px">•	Ms Melissa Yoong, Director, Government Affairs, Microsoft Singapore </p>
+<p style="margin-left: 40px">•	Mr David Chua, Chief Executive Officer, National Youth Council</p>
+<p style="margin-left: 40px">•	Mr Yuvan Mohan, Country Head, Corporate Affairs, Lalamove Singapore </p>
 
-	{:start=“8”} 
-	8. The top three teams will present their proposals at the Forum before an esteemed panel of judges, with prizes awarded to most compelling solutions. 
-
-{:start=“9”}
+{:start="7"}
+7.	The Forum will also mark the third and final stage of the MinLaw Ideation Challenge.  Launched earlier this year, the Challenge invited students to propose innovative solutions to real-world legal challenges. 
 	
-9. The full programme is available <a href="https://lkyspp.nus.edu.sg/docs/default-source/ips/sglaw200-youth-forum-programme.pdf?sfvrsn=2648040a_1">here</a>.
+{:start="8"}
+8.	The top three teams will present their proposals at the Forum before an esteemed panel of judges, with prizes awarded to most compelling solutions. 
+
+{:start="9"}
+9.	The full programme is available <a href="https://lkyspp.nus.edu.sg/docs/default-source/ips/sglaw200-youth-forum-programme.pdf?sfvrsn=2648040a_1">here</a>.
+
 
 **MINISTRY OF LAW <br>
 INSTITUTE OF POLICY STUDIES <br>
-13 MAY 2026
-**
-</p><p class="right-side-updated">Last updated on 13 May 2026</p>
+13 MAY 2026**
+
+<p></p><p class="right-side-updated">Last updated on 13 May 2026</p>
