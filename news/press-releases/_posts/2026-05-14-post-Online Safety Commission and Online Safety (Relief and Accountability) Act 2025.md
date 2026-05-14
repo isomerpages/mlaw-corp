@@ -74,7 +74,7 @@ The remaining categories will be progressively implemented.
 {:start=“14”}
 14.&nbsp;More information on OSRAA can be found at this <a href="https://www.gov.sg/explainers/parliament-nov2025/">link</a>.
 
-<b>MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATIONA</b><br>
+<b>MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION</b><br>
 <b>MINISTRY OF LAW</b><br>
 <b>14 MAY 2026</b>
 
