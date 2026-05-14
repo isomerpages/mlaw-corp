@@ -1,6 +1,6 @@
 ---
-title: Online Safety Commission and Online Safety (Relief and Accountability) Act 2025
-permalink: /online-safety-commission-and-online-safety-relief-and-accountability-act-2025/
+title: Online Safety Commission and Online Safety (Relief and Accountability) Act 2025 to Start on 29 June 2026
+permalink: /online-safety-commission-and-online-safety-relief-and-accountability-act-2025-to-start-on-29-june-2026/
 date: 2026-05-14
 layout: post
 description: ""
