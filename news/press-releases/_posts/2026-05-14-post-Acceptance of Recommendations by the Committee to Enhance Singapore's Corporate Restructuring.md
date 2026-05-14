@@ -30,7 +30,7 @@ variant: markdown
 <p style="margin-left: 40px">d. Adopting the UNCITRAL Model Law on Enterprise Group Insolvency and the UNCITRAL Model Law on Recognition and Enforcement of Insolvency-Related Judgments.</p>
 
 {:start=“5”}
-5.&nbsp;The Committee’s Report setting out its recommendations can be found at https://www.mlaw.gov.sg/files/RI_Committee_Report__11Mar2025_.pdf.
+5.&nbsp;The Committee’s Report setting out its recommendations can be found at <a href="https://www.mlaw.gov.sg/files/RI_Committee_Report__11Mar2025_.pdf">https://www.mlaw.gov.sg/files/RI_Committee_Report__11Mar2025_.pdf</a>.
 
 <b>Public Consultation</b>
 
