@@ -42,7 +42,7 @@ b.&nbsp;&nbsp; For Rajah &amp; Tann, I joined the firm in 2004. I was there for 
 c.&nbsp;&nbsp; For the lawyers and staff of Rajah &amp; Tann, it is not just about giving, it is also about receiving. It helps build a culture of respect within the firm too. Lawyers and staff find more meaning in their work, and I recall vividly an occasion where the firm provided one on one support, not unlike today, for children with physical disabilities for a visit to the Botanic Gardens.
 </p><p style="margin-left: 40px">
 d.&nbsp;&nbsp; So, you see now I speak of decades past. But there are today with us, many children - with decades to come. We can and will make a difference to these decades starting today.
- 
+
 **Early intervention and families**
 
 {:start="6"}
