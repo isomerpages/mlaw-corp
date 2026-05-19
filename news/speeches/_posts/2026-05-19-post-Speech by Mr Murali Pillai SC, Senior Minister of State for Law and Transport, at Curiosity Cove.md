@@ -35,13 +35,13 @@ and most importantly, the children and families here with us today.
 {:start="5"}
 5.&nbsp;&nbsp;After 2016, when I became MP and Grassroots Adviser of Bukit Batok, I worked closely with Fei Yue, particularly its Family Service Centre. I still meet and correspond with them regularly to deal with social welfare cases involving Bukit Batok families.
 <p style="margin-left: 40px">
-a.&nbsp;&nbsp; I also had a hand in setting up the EIPIC Centre in Bukit Batok. I petitioned ECDA for the establishment of an Early Intervention Programme for Infants and Children Centre, or EIPIC Centre. This led to me to secure the centre at Blk 103 Bukit Batok Central, a former NKF dialysis centre.
-</p><p style="margin-left: 40px">
-b.&nbsp;&nbsp; For Rajah &amp; Tann, I joined the firm in 2004. I was there for 20 years, until I joined the Government full time. Rebecca, the R &amp; T Foundation Chairperson, is a dear old friend of mine. I need little introduction to Rajah &amp; Tann Foundation when it was set up some years back. I was in fact a “pro bono” partner of Rajah &amp; Tann doing Foundation work in the past.
-</p><p style="margin-left: 40px">
-c.&nbsp;&nbsp; For the lawyers and staff of Rajah &amp; Tann, it is not just about giving, it is also about receiving. It helps build a culture of respect within the firm too. Lawyers and staff find more meaning in their work, and I recall vividly an occasion where the firm provided one on one support, not unlike today, for children with physical disabilities for a visit to the Botanic Gardens.
-</p><p style="margin-left: 40px">
-d.&nbsp;&nbsp; So, you see now I speak of decades past. But there are today with us, many children - with decades to come. We can and will make a difference to these decades starting today.
+a.&nbsp;&nbsp; I also had a hand in setting up the EIPIC Centre in Bukit Batok. I petitioned ECDA for the establishment of an Early Intervention Programme for Infants and Children Centre, or EIPIC Centre. This led to me to secure the centre at Blk 103 Bukit Batok Central, a former NKF dialysis centre.</p>
+<p></p><p style="margin-left: 40px">
+b.&nbsp;&nbsp; For Rajah &amp; Tann, I joined the firm in 2004. I was there for 20 years, until I joined the Government full time. Rebecca, the R &amp; T Foundation Chairperson, is a dear old friend of mine. I need little introduction to Rajah &amp; Tann Foundation when it was set up some years back. I was in fact a “pro bono” partner of Rajah &amp; Tann doing Foundation work in the past.</p>
+<p></p><p style="margin-left: 40px">
+c.&nbsp;&nbsp; For the lawyers and staff of Rajah &amp; Tann, it is not just about giving, it is also about receiving. It helps build a culture of respect within the firm too. Lawyers and staff find more meaning in their work, and I recall vividly an occasion where the firm provided one on one support, not unlike today, for children with physical disabilities for a visit to the Botanic Gardens.</p>
+<p></p><p style="margin-left: 40px">
+d.&nbsp;&nbsp; So, you see now I speak of decades past. But there are today with us, many children - with decades to come. We can and will make a difference to these decades starting today.</p>
 
 **Early intervention and families**
 
@@ -101,4 +101,4 @@ d.&nbsp;&nbsp; So, you see now I speak of decades past. But there are today with
 
 
 
-</p><p class="right-side-updated">Last updated on 16 May 2026</p>
+<p></p><p class="right-side-updated">Last updated on 16 May 2026</p>
