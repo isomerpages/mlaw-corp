@@ -1,5 +1,7 @@
 ---
-title: Keynote Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC at the Opening of the SCCA Asia Pacific (APAC) Legal Congress 2026
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs,
+  Mr Edwin Tong SC at the Opening of the SCCA Asia Pacific (APAC) Legal Congress
+  2026
 permalink: /keynote-by-minister-at-scca-apac-legal-congress-2026/
 date: 2026-04-08
 layout: post
@@ -130,12 +132,14 @@ Ladies and Gentlemen,
 {:start="33"}
 33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Third — and perhaps most importantly in these times, I think in-house counsel can be the conscience of the organisation.**
 
-{:start="34"} 34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI will make most lawyers work faster, there is no doubt about that, but it will not necessarily make them wiser. What organisations need from their legal function, now more than ever, is that willingness to ask the hard questions, and the courage to insist on a different path when commercial pressure says just look away. No algorithm produces that judgment. No model generates that integrity. But I think in-house counsel sitting again, as I said earlier, at the intersection of law and commercial principles and judgment and intuition, I think you are uniquely placed to do.
+{:start="34"} 
+34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI will make most lawyers work faster, there is no doubt about that, but it will not necessarily make them wiser. What organisations need from their legal function, now more than ever, is that willingness to ask the hard questions, and the courage to insist on a different path when commercial pressure says just look away. No algorithm produces that judgment. No model generates that integrity. But I think in-house counsel sitting again, as I said earlier, at the intersection of law and commercial principles and judgment and intuition, I think you are uniquely placed to do.
 
 **D.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Our Commitment to You**
 
 
-{:start="35"} 35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My ministry, MinLaw, is committed to supporting in-house counsel in Singapore — not as a throwaway line, or as a courtesy, but because we see it deeply as a conviction.&nbsp; We believe that when you do well, MNCs do well, they either come to or stay in Singapore, as I illustrated earlier, and that overall, it means that the Singapore economy benefits.
+{:start="35"} 
+35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My ministry, MinLaw, is committed to supporting in-house counsel in Singapore — not as a throwaway line, or as a courtesy, but because we see it deeply as a conviction.&nbsp; We believe that when you do well, MNCs do well, they either come to or stay in Singapore, as I illustrated earlier, and that overall, it means that the Singapore economy benefits.
 
 {:start="36"}
 36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are therefore working closely with the in-house counsel community to understand the challenges you face and try as far as possible to work with you to co-develop better support, for example on your AI adoption journey, which you heard from earlier speakers, will be the topic of the day for some time to come.
