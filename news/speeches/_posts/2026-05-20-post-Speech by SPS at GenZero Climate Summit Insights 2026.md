@@ -1,5 +1,5 @@
 ---
-title: Speech by SPS at GenZero Climate Summit Insights 2026
+title: Keynote Address by Senior Parliamentary Secretary for Law and Social and Family Development, Mr Eric Chua at the Opening of GenZero Climate Summit Insights 2026 – Legal and Accounting Forum
 permalink: /speech-by-sps-at-genzero-climate-summit-insights-2026/
 date: 2026-05-20
 layout: post
