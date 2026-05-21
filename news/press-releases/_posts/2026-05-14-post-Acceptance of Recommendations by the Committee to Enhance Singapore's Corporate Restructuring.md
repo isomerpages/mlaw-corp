@@ -25,7 +25,7 @@ variant: markdown
 4.&nbsp;The Committee’s Recommendations address four broad categories:
 
 <p style="margin-left: 40px">a.	Strengthening the judicial management regime;</p>
-<p style="margin-left: 40px">b.	Refining the cross-class cramdown in schemes of arrangements;</p>
+<p style="margin-left: 40px">b.	Refining the cross-class cramdown in schemes of arrangement;</p>
 <p style="margin-left: 40px">c. Refining the framework and tools for efficient debt restructurings; and</p>
 <p style="margin-left: 40px">d. Adopting the UNCITRAL Model Law on Enterprise Group Insolvency and the UNCITRAL Model Law on Recognition and Enforcement of Insolvency-Related Judgments.</p>
 
