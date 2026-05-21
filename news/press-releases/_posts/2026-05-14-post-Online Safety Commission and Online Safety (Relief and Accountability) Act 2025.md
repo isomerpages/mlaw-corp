@@ -22,7 +22,7 @@ variant: markdown
 3.&nbsp;The OSC supports the office of the Commissioner of Online Safety (the Commissioner), a key feature of OSRAA, which was passed in Parliament on 5 November 2025. Headed by the Commissioner, the OSC will begin its operations on 29 June 2026, providing victims of online harms with a more accessible avenue to seek relief.
 
 {:start=“4”}
-4.&nbsp;OSRAA addresses 13 categories of online harms (see Annex). In the first phase of operationalisation, the OSC will focus on five of the most prevalent and severe harms:
+4.&nbsp;OSRAA addresses 13 categories of online harms (see <u>Annex</u>). In the first phase of operationalisation, the OSC will focus on five of the most prevalent and severe harms:
 
 <p style="margin-left: 40px">a.	Intimate image abuse;</p>
 <p style="margin-left: 40px">b.	Image-based child abuse;</p>
@@ -44,6 +44,8 @@ The remaining categories will be progressively implemented.
 
 {:start=“7”}
 7.&nbsp;Beyond providing relief, the OSC will also promote a safer online environment through public education, such as helping the public recognise what constitutes online harm, and providing guidance on reporting harmful content.
+
+<b>New legal remedies under OSRAA</b>
 
 {:start=“8”}
 8.&nbsp;From 29 June 2026, specified statutory tort provisions under OSRAA will also take effect. These provisions provide a clear legal basis to hold those responsible for online harms accountable, and allow victims to seek remedies from the court.
