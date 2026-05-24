@@ -1,6 +1,5 @@
 ---
-title: Official Visit to China by Minister for Law and Second Minister for Home
-  Affairs Edwin Tong SC
+title: Minister for Law and Second Minister for Home Affairs Edwin Tong SC to Visit China to Mark SIAC Milestones and Deepen Singapore–China Legal Cooperation
 permalink: /official-visit-to-china-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc/
 date: 2026-05-24
 layout: post
