@@ -11,10 +11,10 @@ variant: markdown
 19 March 2026 Posted in [Press releases](/news/press-releases)
 
 {:start=“1”}
-1.&nbsp;Minister for Law and Second Minister for Home Affairs Edwin Tong SC will make an official visit to China from 24 to 29 May 2026.
+1. Minister for Law and Second Minister for Home Affairs Edwin Tong SC will make an official visit to China from 24 to 29 May 2026.
 
 {:start=“2”}
-2.&nbsp;Spanning four cities – Beijing, Tianjin, Shanghai and Shenzhen – key highlights of the visit include the opening of the Singapore International Arbitration Centre (SIAC) Beijing Representative Office, SIAC’s second representative office in China, and the 10th anniversary celebration of the SIAC Shanghai Representative Office.
+2. Spanning four cities – Beijing, Tianjin, Shanghai and Shenzhen – key highlights of the visit include the opening of the Singapore International Arbitration Centre (SIAC) Beijing Representative Office, SIAC’s second representative office in China, and the 10th anniversary celebration of the SIAC Shanghai Representative Office.
 
 {:start=“3”}
 3. Minister Tong will pay a courtesy call on Shanghai Mayor Gong Zheng, with whom he co-chairs the Singapore-Shanghai Comprehensive Cooperation Council (SSCCC). He will also meet Ren Hongbin, Chairman of the China Council for the Promotion of International Trade (CCPIT).
