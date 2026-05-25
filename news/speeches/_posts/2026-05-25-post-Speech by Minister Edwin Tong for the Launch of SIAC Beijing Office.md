@@ -1,5 +1,6 @@
 ---
-title: Speech by Minister Edwin Tong for the Launch of SIAC Beijing Office
+title:Speech by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, for the Launch Ceremony of the SIAC Beijing Representative Office 
+
 permalink: /speech-by-minister-edwin-tong-for-the-launch-of-siac-beijing-office/
 date: 2026-05-25
 layout: post
