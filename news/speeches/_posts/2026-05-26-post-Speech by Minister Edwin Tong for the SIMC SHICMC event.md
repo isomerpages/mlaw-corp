@@ -1,6 +1,6 @@
 ---
-title: Speech by Minister Edwin Tong for the SIMC SHICMC event
-permalink: /speech-by-minister-edwin-tong-for-the-simc-shicmc-event/
+title: Keynote Speech by by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the SIMC-SHICMC event
+permalink: /keynote-speech-by-minister-edwin-tong-for-the-simc-shicmc-event/
 date: 2026-05-26
 layout: post
 description: ""
