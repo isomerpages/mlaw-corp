@@ -5,55 +5,6 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<h3><strong>Closure of Ministry of Law Services Centre</strong></h3>
-</blockquote>
-<p>The Ministry of Law Services Centre and the Public Defender's Office Counter
-at the State Courts, Help Centre at Basement 1, will close for a staff
-event on the following date:</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ministry of Law Services Centre (URA East Wing)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Public Defender's Office Counter (State Courts Help Centre)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Resumption Date</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 May 2026 (Tuesday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Last appointment session: 11:00 AM; closes from 11:30 AM onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Closes from 11:30 AM onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 May 2026 (Thursday)</p>
-<p>27 May 2026 (Wednesday) is a public holiday</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Please make an<strong> </strong>appointment via the OneMinLaw Portal at
-<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/omp </u>
-</a>before visiting us.
-<br>Thank you for your understanding.</p>
 <p></p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
