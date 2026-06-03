@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by Minister Edwin Tong at SIAC China Conference 2026 (Shanghai)
+title: Opening Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at SIAC China Conference 2026 (Shanghai)
 permalink: /opening-remarks-by-minister-edwin-tong-at-siac-china-conference-2026-shanghai/
 date: 2026-05-27
 layout: post
