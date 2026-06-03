@@ -1,6 +1,6 @@
 ---
-title: Minister Edwin Tong and Minister Azalina witness signing of MOUs
-permalink: /minister-edwin-tong-and-minister-azalina-witness-signing-of-mous/
+title: Minister for Law and Second Minister for Home Affairs Edwin Tong SC and Malaysia Minister in the Prime Minister’s Office (Law and Institutional Reform) Dato’ Sri Azalina Othman Said witness signing of MOUs between Singapore and Malaysia dispute resolution institutions
+permalink: /minister-edwin-tong-and-minister-azalina-witness-signing-of-mous-between-singapore-and-malaysia-dispute-resolution-institutions/
 date: 2026-06-03
 layout: post
 description: ""
