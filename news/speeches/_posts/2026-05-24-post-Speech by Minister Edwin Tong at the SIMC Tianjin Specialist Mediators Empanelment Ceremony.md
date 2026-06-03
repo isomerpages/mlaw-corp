@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister Edwin Tong at the SIMC Tianjin Specialist Mediators
+title: Speech by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the SIMC Tianjin Specialist Mediators
   Empanelment Ceremony
 permalink: /speech-by-minister-edwin-tong-at-the-simc-tianjin-specialist-mediators-empanelment-ceremony/
 date: 2026-05-24
