@@ -1,6 +1,6 @@
 ---
-title: Singapore Republic of Korea Mutual Legal Assistance Treaty
-permalink: /singapore-republic-of-korea-mutual-legal-assistance-treaty/
+title: Singapore-Republic of Korea Mutual Legal Assistance Treaty and Extradition Treaty Will Come Into Force on 7 June 2026
+permalink: /singapore-republic-of-korea-mutual-legal-assistance-treaty-extradition-treaty-come-into-force-7-june-2026/
 date: 2026-06-05
 layout: post
 description: ""
