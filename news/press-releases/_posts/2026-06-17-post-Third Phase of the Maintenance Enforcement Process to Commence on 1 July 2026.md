@@ -25,68 +25,48 @@ variant: markdown
 <p style="margin-left: 40px">d) Increase access to justice for applicants, especially those who are self-represented.</p>
 
 {:start=“3”}
-3.&nbsp;The OSC supports the office of the Commissioner of Online Safety (the Commissioner), a key feature of OSRAA, which was passed in Parliament on 5 November 2025. Headed by the Commissioner, the OSC will begin its operations on 29 June 2026, providing victims of online harms with a more accessible avenue to seek relief.
+3.&nbsp;The MEP is being implemented in phases. In Phase 1, the MEP was made available to eligible repeat maintenance enforcement applications<sup><a href="#fn1" id="ref1">1</a></sup>. In Phase 2, the MEP was made available to eligible first-time applications involving maintenance arrears of at least $10,000<sup><a href="#fn2" id="ref2">2</a></sup>.
 
 {:start=“4”}
-4.&nbsp;OSRAA addresses 13 categories of online harms (see <u>Annex</u>). In the first phase of operationalisation, the OSC will focus on five of the most prevalent and severe harms:
-
-<p style="margin-left: 40px">a.	Intimate image abuse;</p>
-<p style="margin-left: 40px">b.	Image-based child abuse;</p>
-<p style="margin-left: 40px">c. Doxxing;</p>
-<p style="margin-left: 40px">d. Online harassment (including online sexual harassment); and</p>
-<p style="margin-left: 40px">e. Online stalking.</p>
-
-The remaining categories will be progressively implemented.
+4.&nbsp;As of 31 May 2026, 1,320 cases have been referred to the MED.
 
 {:start=“5”}
-5.&nbsp;Where online harm has occurred, the Commissioner can direct action to stop the harm. This includes requiring that harmful content be taken down or restricting the perpetrator's online account. Such directions may be issued to:
+5.&nbsp;The MEP will be expanded to cover the remaining forms of maintenance enforcement applications in the next and final phase of implementation.
 
-<p style="margin-left: 40px">a.	Communicators – the person who posted the harmful content;</p>
-<p style="margin-left: 40px">b.	Administrators of relevant groups or pages which host the harmful content; and</p>
-<p style="margin-left: 40px">c.	Platforms which host the harmful content.</p>
+<b>How the MEP works</b>
 
 {:start=“6”}
-6.&nbsp;The framework also provides tools to help victims when perpetrators hide behind anonymous accounts. Where appropriate, the Commissioner can require platforms to provide identity information of end-users who have committed online harms, such as their name or contact details. A victim may apply to the Commissioner for disclosure of information, if available, but only for specified purposes such as bringing a claim in court against the communicator who posted the harmful content. Conditions will be imposed to ensure that the victim does not misuse any identity information disclosed to them.
+6.&nbsp;Under the MEP, maintenance enforcement applications made at the Family Justice Courts (FJC) are referred to Maintenance Enforcement Officers (MEOs) from the Maintenance
+Enforcement Division (MED) sited in MinLaw. MEOs will conduct conciliation to facilitate amicable and sustainable settlement between parties. In conciliation, which replaces mediation, MEOs play a more active role in seeking information and recommending solutions to the parties. The MEOs are also empowered to obtain information from the parties and, if necessary, banks and other third parties such as public agencies<sup><a href="#fn3" id="ref3">3</a></sup>. This will ensure the resolution of the maintenance enforcement application is based on parties’ true financial circumstances.
 
 {:start=“7”}
-7.&nbsp;Beyond providing relief, the OSC will also promote a safer online environment through public education, such as helping the public recognise what constitutes online harm, and providing guidance on reporting harmful content.
+7.&nbsp;The MEOs will then submit a report to the FJC. With the information provided by the MEOs, the FJC can more accurately determine the parties’ financial circumstances. This will help the FJC to make more targeted and effective enforcement orders to recover maintenance arrears.
 
-<b>New legal remedies under OSRAA</b>
+<b>Applications</b>
 
 {:start=“8”}
-8.&nbsp;From 29 June 2026, specified statutory tort provisions under OSRAA will also take effect. These provisions provide a clear legal basis to hold those responsible for online harms accountable, and allow victims to seek remedies from the court.
+8.&nbsp;Applicants who wish to enforce any of the above-mentioned maintenance orders can file their applications directly with the Family Justice Courts (FJC) or through an authorised
+agency<sup><a href="#fn4" id="ref4">4</a></sup>. The FJC will refer eligible cases to the MED. If the application is not eligible for the MEP, FJC’s existing maintenance enforcement process will apply.
 
 {:start=“9”}
-9.&nbsp;These statutory torts clarify the duties of those who post content (Communicators), those who run groups or pages (Administrators) and Platforms.
-
-<p style="margin-left: 40px">a.	Communicators: A person must not communicate, publish or engage in any conduct relating to any specified online harm in Singapore.</p>
-
-<p style="margin-left: 40px">b.	Administrators: An administrator must not create, set up or administer an online location in a manner that facilitates or permits the conduct of any online harm, intending or knowing that harm would occur. An administrator must also take reasonable measures to address specified online harms at their online location upon receiving notice of such harm.</p>
-
-<p style="margin-left: 40px">c.	Platforms: A platform must take reasonable measures to address specified online harms upon receiving notice of such harm. Certain platforms, such as those with greater reach, will be subject to additional requirements, for example, on the time taken to respond to such notices.</p>
+9.&nbsp;As with previous phases, Respondents referred to the MEP because of their failure to pay maintenance as ordered by the Courts will have to pay a fee of $180 for the follow-up undertaken by the MEO.
 
 {:start=“10”}
-10.&nbsp;Where these duties have been breached, victims can apply to court for remedies, including damages for losses suffered and injunctions to stop the harm.
+10.&nbsp;More information on the MEP and MED can be found on the MED’s website at <a href="https://go.gov.sg/meo">https://go.gov.sg/meo</a>.
 
-{:start=“11”}
-11.&nbsp;The statutory tort provisions will be implemented in phases. In the first phase, victims of the harms listed at paragraph 4 may hold Communicators, Administrators or Platforms to account for their statutory duties under the OSRAA. 
-
-<b>Appointment of Commissioner-Designate</b>
-
-{:start=“12”}
-12.&nbsp;Mr Francis Ng (黄永吉), 50, will be appointed as Commissioner-Designate of Online Safety from 1 June 2026 to 28 June 2026, ahead of the OSC's commencement of operations. He will assume the role of Commissioner on 29 June 2026. 
-
-{:start=“13”}
-13.&nbsp;Mr Ng has over 25 years’ expertise in public sector legal roles. He has held key positions such as Director (Legal Policy) in MinLaw and Deputy Chief Prosecutor in the Crime Division of the Attorney-General’s Chambers. Mr Ng is currently the Official Assignee and Public Trustee, Official Receiver, Licensing Officer, Registrar of Moneylenders, Registrar of Pawnbrokers and Chief Maintenance Enforcement Officer under MinLaw.  
-
-<b>Further Information</b>
-
-{:start=“14”}
-14.&nbsp;More information on OSRAA can be found at this <a href="https://www.gov.sg/explainers/parliament-nov2025/">link</a>.
-
-<b>MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION</b><br>
 <b>MINISTRY OF LAW</b><br>
-<b>14 MAY 2026</b>
+<b>MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT</b><br>
+<b>17 JUNE 2026</b>
 
+<p><sup id="fn1">1. An eligible repeat maintenance enforcement application is an application to enforce specified categories of maintenance orders in respect of which (a) there is at least one concluded maintenance enforcement application (i.e. the application and any appeal have been disposed of, and/or the time for appeal has lapsed); and (b) there is no pending maintenance enforcement application. The specified categories of maintenance orders were maintenance orders made under the Women’s Charter 1961, the Guardianship of Infants Act 1934, the Administration of Muslim Law Act 1966, and the Maintenance
+of Parents Act 1995. For more information on Phase 1 of the MEP, please refer to <a href="https://go.gov.sg/mep-phase-1">https://go.gov.sg/mep-phase-1</a>.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p></p><p class="right-side-updated">Last updated on 14 May 2026</p>
+<p><sup id="fn2">2. An eligible first-time maintenance enforcement application is an application to enforce specified
+categories of maintenance orders which involved maintenance arrears of at least $10,000, and where there is no pending appeal against the maintenance order, or the time for appeal has already lapsed. For more information on Phase 2 of the MEP, please refer to <a href="https://go.gov.sg/mep-phase-2">https://go.gov.sg/mep-phase-2</a>.</sup><a href="#ref2" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+
+<p><sup id="fn3">3. This includes the Central Provident Fund Board, the Housing &amp; Development Board, the Inland Revenue Authority of Singapore, the Singapore Land Authority and the Land Transport Authority.</sup><a href="#ref3" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+
+<p><sup id="fn4">4. Eligible applicants can file applications for maintenance order enforcement at: (i) Singapore Council
+of Women’s Organisations, and (ii) ServiceSG Centres at Our Tampines Hub and OnePunggol.</sup><a href="#ref4" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+
+<p class="right-side-updated">Last updated on 17 June 2026</p>
