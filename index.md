@@ -6,12 +6,7 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br><br>The
-  Ministry of Law (MinLaw) has commissioned Nexus Link Pte Ltd to conduct a
-  survey on the legal needs and experiences of Singapore residents from Aug to
-  Apr 2026. The survey does not require respondents to transfer money or
-  disclose any bank details. If in doubt, please contact MinLaw at 1800 2255
-  529.
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br>
 sections:
   - hero:
       title: Ministry of Law Singapore
