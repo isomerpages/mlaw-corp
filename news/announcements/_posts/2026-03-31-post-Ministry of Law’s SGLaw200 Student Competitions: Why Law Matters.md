@@ -5,13 +5,23 @@ date: 2026-03-31
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentcompetition.png">
-</div>
+<table>
+	<colgroup> <col style="width: 25%"> <col style="width: 75%"></colgroup>
+  <tbody><tr>
+    <td><img src="/images/SGLaw200_formatted.png" alt="sglaw200" title="sglaw200"></td>
+		<td><b>Why Law Matters</b><br>Ministry of Law's SGLaw200 Student Competitions</td>
+  </tr>
+</tbody></table>
+
+<table style="background-color: #FFE5D0">
+  <tbody><tr>
+    <td>Open to all Singapore Citizen or Permanent Resident students in upper primary, secondary, and pre-university!<br><b>Submit your entry by 31 July 2026.</b></td>
+  </tr>
+</tbody></table>
 <p><strong><u>About SGLaw200</u></strong>
 </p>
 <p>The Ministry of Law advances access to justice, the rule of law, the economy
