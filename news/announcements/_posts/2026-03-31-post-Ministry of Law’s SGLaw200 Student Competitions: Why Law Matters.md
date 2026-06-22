@@ -43,7 +43,7 @@ Secondary categories, and up to $1,000 for group entries for the Pre-University
 category, are up for grab!</p>
 <p><strong>Submit your entry now!</strong>
 </p>
-<p><strong>Deadline: 30 June 2026</strong>
+<p><strong>Deadline: 31 July 2026</strong>
 </p>
 <p>Upper Primary – <a href="https://go.gov.sg/whylawmattersupperpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whylawmattersupperpri</a>
 </p>
