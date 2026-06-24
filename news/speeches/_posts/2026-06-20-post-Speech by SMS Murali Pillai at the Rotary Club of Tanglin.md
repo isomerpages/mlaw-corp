@@ -1,6 +1,6 @@
 ---
-title: Speech by SMS Murali Pillai at the Rotary Club of Tanglin
-permalink: /speech-by-sms-murali-pillai-at-the-rotary-club-of-tanglin/
+title: Speech by SMS Murali Pillai SC, Senior Minister of State for Law and Transport at the Rotary Club of Tanglin
+permalink: /speech-by-sms-murali-pillai-sc-at-the-rotary-club-of-tanglin/
 date: 2026-06-20
 layout: post
 description: ""
