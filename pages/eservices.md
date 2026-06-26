@@ -49,7 +49,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 June 2026 (Sat) 1400 hrs to 22 June 2026 (Mon) 0800 hrs</p>
+<p>26 June 2026 (Fri) 1800 hrs to 26 June 2026 (Fri) 2359 hrs</p>
 </td>
 </tr>
 <tr>
