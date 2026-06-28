@@ -92,7 +92,7 @@ variant: markdown
 18.&nbsp;The duty of an administrator or platform to respond reasonably when notified of harm is triggered upon the victim sending an <b>Online Harm Notice</b> to them in the prescribed form and manner. Victims may access this form on the <a href="https://onlinesafety.mlaw.gov.sg">MinLaw Online Safety website</a>. The form may also be hosted on a platform’s online service as a webform. For such platforms, MinLaw’s Online Safety website will provide the link to the webform.
 
 {:start=“19”}
-19.&nbsp;Whether an administrator or platform has responded reasonably to such a notice will depend on the facts of each case. Platforms that are prescribed for purposes of the statutory torts must take steps to address the harm within specified time periods, unless they show to the Court that it was not reasonable to do so within that time. Please see Annex E for the list of platforms prescribed for purposes of the statutory torts.
+19.&nbsp;Whether an administrator or platform has responded reasonably to such a notice will depend on the facts of each case. Platforms that are prescribed for purposes of the statutory torts must take steps to address the harm within specified time periods, unless they show to the Court that it was not reasonable to do so within that time. Please see the [Annex](/files/Online_Safety_Commission_Launch___Annex.pdf) for the list of platforms prescribed for purposes of the statutory torts.
 
 {:start=“20”}
 20.&nbsp;The statutory torts are designed with the realities of online harm in mind. For example, where losses may be difficult to prove, OSRAA provides for minimum damages for the most serious image-based harms. For intimate image abuse and image-based child abuse, the Court will award at least $5,000 for each image or recording if the claim is made out.
@@ -113,12 +113,12 @@ variant: markdown
 <b>MINISTRY OF LAW</b><br>
 <b>28 JUNE 2026</b>
 
-<p><sup id="fn1">1. The descriptions of the five online harms can be found in the Annex.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn1">1. The descriptions of the five online harms can be found in the [Annex](/files/Online_Safety_Commission_Launch___Annex.pdf).</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn2">2. See Annex for the full list of online harms.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn2">2. See [Annex](/files/Online_Safety_Commission_Launch___Annex.pdf) for the full list of online harms.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
 
 <p><sup id="fn3">3. These may include, but not limited to, a description of what happened and supporting information such as URLs, screenshots, images and videos.</sup><a href="#ref3" title="Jump back to footnote 3 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn4">4. The contact information of the OSC’s current partner organisations can be found on OSC’s website at <a href="https://www.osc.gov.sg">(https://www.osc.gov.sg)</a>.</sup><a href="#ref4" title="Jump back to footnote 4 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn4">4. The contact information of the OSC’s current partner organisations can be found on OSC’s website at <a href="https://www.osc.gov.sg">https://www.osc.gov.sg</a>.</sup><a href="#ref4" title="Jump back to footnote 4 in the text." style="font-size: 12px">↩</a></p>
 
 <p class="right-side-updated">Last updated on 28 June 2026</p>
