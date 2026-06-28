@@ -18,7 +18,7 @@ variant: markdown
 <b>More support for five online harms in first phase of operations</b>
 
 {:start=“3”}
-3.&nbsp;In its first phase of operations, the OSC will support victims affected by five of the most prevalent and severe online harms1 faced by Singapore citizens and residents: (i) online harassment (including online sexual harassment), (ii) doxxing, (iii) online stalking, (iv) intimate image abuse, and (v) image-based child abuse. The remaining eight categories2 of online harms under OSRAA will be progressively implemented.
+3.&nbsp;In its first phase of operations, the OSC will support victims affected by five of the most prevalent and severe online harms<sup><a href="#fn1" id="ref1">1</a></sup> faced by Singapore citizens and residents: (i) online harassment (including online sexual harassment), (ii) doxxing, (iii) online stalking, (iv) intimate image abuse, and (v) image-based child abuse. The remaining eight categories<sup><a href="#fn2" id="ref2">2</a></sup> of online harms under OSRAA will be progressively implemented.
 
 {:start=“4”}
 4.&nbsp;Those who have experienced any of the aforesaid five online harms and wish to make a report to the OSC should take the following steps:
@@ -30,7 +30,7 @@ variant: markdown
 <b>Reporting to the OSC</b>
 
 {:start=“5”}
-5.&nbsp;When victims make reports via the OSC’s website, they will be guided through the reporting process. Victims will need to provide information3 of the online harm that had occurred to them.
+5.&nbsp;When victims make reports via the OSC’s website, they will be guided through the reporting process. Victims will need to provide information<sup><a href="#fn3" id="ref3">3</a></sup> of the online harm that had occurred to them.
 
 {:start=“6”}
 6.&nbsp;Parents and guardians may file reports on behalf of victims who are under 18 years of age. A report may also be submitted by another individual on behalf of a victim, with the victim's written authorisation. There is no fee required to make a report to the OSC.
@@ -49,7 +49,7 @@ variant: markdown
 <b>Providing support beyond content removal</b>
 
 {:start=“10”}
-10.&nbsp;The OSC recognises that experiencing online harms can be deeply distressing, and that victims may need support beyond the removal of harmful content. Victims and their families are encouraged to seek help from the OSC’s current community partners4 – Fei Yue Community Services, Samaritans of Singapore, SHE - SG Her Empowerment, Singapore Children’s Society, and TOUCH Community Services. These community partners can guide victims on how to make a report to the OSC and provide other forms of assistance such as counselling. 
+10.&nbsp;The OSC recognises that experiencing online harms can be deeply distressing, and that victims may need support beyond the removal of harmful content. Victims and their families are encouraged to seek help from the OSC’s current community partners<sup><a href="#fn4" id="ref4">4</a></sup> – Fei Yue Community Services, Samaritans of Singapore, SHE - SG Her Empowerment, Singapore Children’s Society, and TOUCH Community Services. These community partners can guide victims on how to make a report to the OSC and provide other forms of assistance such as counselling. 
 
 {:start=“11”}
 11.&nbsp;The OSC's website also provides victims and the public with resources on online harms, including information on the different types of online harms, what to do when you experience them, and how to keep yourself safe online.
@@ -113,15 +113,12 @@ variant: markdown
 <b>MINISTRY OF LAW</b><br>
 <b>28 JUNE 2026</b>
 
-<p><sup id="fn1">1. An eligible repeat maintenance enforcement application is an application to enforce specified categories of maintenance orders in respect of which (a) there is at least one concluded maintenance enforcement application (i.e. the application and any appeal have been disposed of, and/or the time for appeal has lapsed); and (b) there is no pending maintenance enforcement application. The specified categories of maintenance orders were maintenance orders made under the Women’s Charter 1961, the Guardianship of Infants Act 1934, the Administration of Muslim Law Act 1966, and the Maintenance
-of Parents Act 1995. For more information on Phase 1 of the MEP, please refer to <a href="https://go.gov.sg/mep-phase-1">https://go.gov.sg/mep-phase-1</a>.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn1">1. The descriptions of the five online harms can be found in the Annex.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn2">2. An eligible first-time maintenance enforcement application is an application to enforce specified
-categories of maintenance orders which involved maintenance arrears of at least $10,000, and where there is no pending appeal against the maintenance order, or the time for appeal has already lapsed. For more information on Phase 2 of the MEP, please refer to <a href="https://go.gov.sg/mep-phase-2">https://go.gov.sg/mep-phase-2</a>.</sup><a href="#ref2" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn2">2. See Annex for the full list of online harms.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn3">3. This includes the Central Provident Fund Board, the Housing &amp; Development Board, the Inland Revenue Authority of Singapore, the Singapore Land Authority and the Land Transport Authority.</sup><a href="#ref3" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn3">3. These may include, but not limited to, a description of what happened and supporting information such as URLs, screenshots, images and videos.</sup><a href="#ref3" title="Jump back to footnote 3 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn4">4. Eligible applicants can file applications for maintenance order enforcement at: (i) Singapore Council
-of Women’s Organisations, and (ii) ServiceSG Centres at Our Tampines Hub and OnePunggol.</sup><a href="#ref4" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn4">4. The contact information of the OSC’s current partner organisations can be found on OSC’s website at <a href="https://www.osc.gov.sg">(https://www.osc.gov.sg)</a>.</sup><a href="#ref4" title="Jump back to footnote 4 in the text." style="font-size: 12px">↩</a></p>
 
-<p class="right-side-updated">Last updated on 17 June 2026</p>
+<p class="right-side-updated">Last updated on 28 June 2026</p>
