@@ -113,9 +113,9 @@ variant: markdown
 <b>MINISTRY OF LAW</b><br>
 <b>28 JUNE 2026</b>
 
-<p><sup id="fn1">1. The descriptions of the five online harms can be found in the [Annex](/files/Online_Safety_Commission_Launch___Annex.pdf).</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn1">1. The descriptions of the five online harms can be found in the <a href="https://www.mlaw.gov.sg/files/Online_Safety_Commission_Launch___Annex.pdf">Annex</a>.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p><sup id="fn2">2. See [Annex](/files/Online_Safety_Commission_Launch___Annex.pdf) for the full list of online harms.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn2">2. See the <a href="https://www.mlaw.gov.sg/files/Online_Safety_Commission_Launch___Annex.pdf">Annex</a> for the full list of online harms.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
 
 <p><sup id="fn3">3. These may include, but not limited to, a description of what happened and supporting information such as URLs, screenshots, images and videos.</sup><a href="#ref3" title="Jump back to footnote 3 in the text." style="font-size: 12px">↩</a></p>
 
