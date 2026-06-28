@@ -88,13 +88,30 @@ variant: markdown
 
 <p style="margin-left: 40px">c) <u>Platforms</u>: Platforms must take reasonable steps to address online harm when properly notified, and do so within a reasonable time.</p>
 
-{:start=“17”}
-17.&nbsp;
+{:start=“18”}
+18.&nbsp;The duty of an administrator or platform to respond reasonably when notified of harm is triggered upon the victim sending an <b>Online Harm Notice</b> to them in the prescribed form and manner. Victims may access this form on the <a href="https://onlinesafety.mlaw.gov.sg">MinLaw Online Safety website</a>. The form may also be hosted on a platform’s online service as a webform. For such platforms, MinLaw’s Online Safety website will provide the link to the webform.
 
+{:start=“19”}
+19.&nbsp;Whether an administrator or platform has responded reasonably to such a notice will depend on the facts of each case. Platforms that are prescribed for purposes of the statutory torts must take steps to address the harm within specified time periods, unless they show to the Court that it was not reasonable to do so within that time. Please see Annex E for the list of platforms prescribed for purposes of the statutory torts.
 
+{:start=“20”}
+20.&nbsp;The statutory torts are designed with the realities of online harm in mind. For example, where losses may be difficult to prove, OSRAA provides for minimum damages for the most serious image-based harms. For intimate image abuse and image-based child abuse, the Court will award at least $5,000 for each image or recording if the claim is made out.
+
+{:start=“21”}
+21.&nbsp;OSRAA’s court-based remedies complement existing remedies under the Protection from Harassment Act (“POHA”). Victims of online harassment, doxxing or stalking may continue to seek remedies against communicators under POHA, including Protection Orders. OSRAA provides additional remedies for other specified online harms, such as intimate image abuse and image-based child abuse, and for victims who wish to hold administrators or platforms accountable for failing to act reasonably after receiving an Online Harm Notice. For more information, please visit MinLaw’s Online Safety website.
+
+<b>Continuing efforts to build a safer online space in Singapore</b>
+
+{:start=“22”}
+22.&nbsp;With the establishment of the OSC, Singapore becomes one of only a few countries worldwide to have a government agency dedicated to providing timely relief to victims of online harms.
+
+{:start=“23”}
+23.&nbsp;The operationalisation of OSRAA is part of the continuing efforts by the Singapore Government to ensure Singaporeans are safe online. In the past two years, IMDA has issued the Code of Practice for Online Safety - App Distribution Services and published the Online Safety Assessment Reports on Designated Social Media Services to hold online platforms accountable for the services they provide, while keeping Singaporeans informed so that they can in turn protect their families and loved ones.
+
+<b>ONLINE SAFETY COMMISSION</b><br>
+<b>MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION</b><br>
 <b>MINISTRY OF LAW</b><br>
-<b>MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT</b><br>
-<b>17 JUNE 2026</b>
+<b>28 JUNE 2026</b>
 
 <p><sup id="fn1">1. An eligible repeat maintenance enforcement application is an application to enforce specified categories of maintenance orders in respect of which (a) there is at least one concluded maintenance enforcement application (i.e. the application and any appeal have been disposed of, and/or the time for appeal has lapsed); and (b) there is no pending maintenance enforcement application. The specified categories of maintenance orders were maintenance orders made under the Women’s Charter 1961, the Guardianship of Infants Act 1934, the Administration of Muslim Law Act 1966, and the Maintenance
 of Parents Act 1995. For more information on Phase 1 of the MEP, please refer to <a href="https://go.gov.sg/mep-phase-1">https://go.gov.sg/mep-phase-1</a>.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
