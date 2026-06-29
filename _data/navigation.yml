@@ -81,8 +81,10 @@ links:
         external: true
       - title: Maintenance Enforcement Div
         url: https://eservices.mlaw.gov.sg/stream/
+        external: true
       - title: Online Safety Resources
         url: https://onlinesafety.mlaw.gov.sg/
+        external: true
   - title: Trusts
     url: https://www.mlaw.gov.sg/trusts/trusts-and-trust-like-arrangements-in-singapore/
     sublinks:
