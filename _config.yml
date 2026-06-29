@@ -1,0 +1,48 @@
+title: Ministry of Law
+description: Description
+url: https://www.mlaw.gov.sg
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+future: true
+paginate: 12
+custom_css_path: /misc/custom.css
+facebook-pixel: "2270612979901608"
+google-tag-manager: GTM-WBM6PL5
+include:
+  - _redirects
+resources_name: news
+favicon: /images/favicon-minlaw.ico
+google_analytics: UA-10405444-20
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging.d3txmprwlgxy68.amplifyapp.com/
+prod: https://master.d3txmprwlgxy68.amplifyapp.com
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: "#a40935"
+  secondary-color: "#a40935"
+  media-colors:
+    - title: media-color-one
+      color: "#696969"
+    - title: media-color-two
+      color: "#800000"
+    - title: media-color-three
+      color: "#A0522D"
+    - title: media-color-four
+      color: "#866633"
+    - title: media-color-five
+      color: "#505050"
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
