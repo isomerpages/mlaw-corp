@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-2 July 2026 Posted in \[Press releases\](/news/press-releases)
+2 July 2026 Posted in [Press releases](/news/press-releases)
 
 {:start=“1”}
 1.&nbsp;The Ministry of Law (MinLaw) has announced three new community initiatives – a heritage trail, roving exhibition and commemorative stamps – to commemorate SGLaw200, which marks 200 years since Singapore’s modern judicial and legal system was established via the Second Charter of Justice in 1826. The heritage trail and roving exhibition were developed in collaboration with HeritageSG, and are aimed at deepening public appreciation of the Rule of Law and its role in shaping Singapore’s development and the everyday lives of Singaporeans. The commemorative stamps were launched by MinLaw and SingPost to mark this milestone too by depicting key institutions and milestones in Singapore’s legal history.
@@ -59,8 +59,7 @@ variant: markdown
 
 {:start=“13”}
 13.&nbsp;For more information, please refer to:
-
-<p style="margin-left: 40px">- <b>Annex A</b>: Factsheet on guided walking tour of heritage trail[](/files/Annex_A_Media_Factsheet___Guided_Walking_Tour_of_Heritage_Trail.pdf)</p>
+<p style="margin-left: 40px">- <b>Annex A</b>: <a href="https://www.mlaw.gov.sg/files/Annex_A_Media_Factsheet___Guided_Walking_Tour_of_Heritage_Trail.pdf">Factsheet on guided walking tour of heritage trail</a></p>
 
 <p style="margin-left: 40px">- <b>Annex B</b>: <a href="https://www.mlaw.gov.sg/ministry-of-law-and-singpost-commemorate-sglaw200-with-special-stamp-issue/">Press release – “Ministry of Law and SingPost Commemorate Bicentennial of Singapore’s Legal System with Special Stamp Issue”</a></p>
 
