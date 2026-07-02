@@ -1,5 +1,6 @@
 ---
-title: MinLaw Takes SGLaw200 to the Community with Heritage Trail, Roving Exhibition and Commemorative Stamps
+title: MinLaw Takes SGLaw200 to the Community with Heritage Trail, Roving
+  Exhibition and Commemorative Stamps
 permalink: /minlaw-sglaw200-heritage-trail-roving-exhibition-and-commemorative-stamps/
 date: 2026-07-02
 layout: post
@@ -32,9 +33,10 @@ variant: markdown
 {:start=“7”}
 7.&nbsp;Members of the public can experience the heritage trail in two ways: 
 
-<p style="margin-left: 40px">-  <b>Guided Walking Tours</b> – Members of the public can join a free guided walking tour covering 9 of the 20 locations. The guided tours will run from 11 July 2026 to December 2026. Registration and more details can be found at [https://sglaw200explore.sg/](https://sglaw200explore.sg/)</p>
+<p style="margin-left: 40px">-  <b>Guided Walking Tours</b> – Members of the public can join a free guided walking tour covering 9 of the 20 locations. The guided tours will run from 11 July 2026 to December 2026. Registration and more details can be found at <a href="https://sglaw200explore.sg.">https://sglaw200explore.sg.</a></p>
+
  
-<p style="margin-left: 40px">-  <b>Virtual Tour</b> – Members of the public can also explore all 20 locations through an interactive virtual guide at [https://sglaw200explore.sg/](https://sglaw200explore.sg/)</p>
+<p style="margin-left: 40px">-  <b>Virtual Tour</b> – Members of the public can also explore all 20 locations through an interactive virtual guide at <a href="https://sglaw200explore.sg.">https://sglaw200explore.sg.</a></p>
 
 <b>Roving Exhibition: “In Practice: The Rule of Law in Our Singapore Story”</b>
 
@@ -58,8 +60,8 @@ variant: markdown
 {:start=“13”}
 13.&nbsp;For more information, please refer to:
 
-<p style="margin-left: 40px">- Annex A: Factsheet on guided walking tour of heritage trail[](/files/Annex_A_Media_Factsheet___Guided_Walking_Tour_of_Heritage_Trail.pdf)</p>
+<p style="margin-left: 40px">- <b>Annex A</b>: Factsheet on guided walking tour of heritage trail[](/files/Annex_A_Media_Factsheet___Guided_Walking_Tour_of_Heritage_Trail.pdf)</p>
 
-<p style="margin-left: 40px">- Annex B: [Press release – “Ministry of Law and SingPost Commemorate Bicentennial of Singapore’s Legal System with Special Stamp Issue”](https://www.mlaw.gov.sg/ministry-of-law-and-singpost-commemorate-sglaw200-with-special-stamp-issue/)</p>
+<p style="margin-left: 40px">- <b>Annex B</b>: <a href="https://www.mlaw.gov.sg/ministry-of-law-and-singpost-commemorate-sglaw200-with-special-stamp-issue/">Press release – “Ministry of Law and SingPost Commemorate Bicentennial of Singapore’s Legal System with Special Stamp Issue”</a></p>
 
 <p class="right-side-updated">Last updated on 2 July 2026</p>
