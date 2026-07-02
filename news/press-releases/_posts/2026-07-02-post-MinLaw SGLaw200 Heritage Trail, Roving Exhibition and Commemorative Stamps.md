@@ -32,9 +32,9 @@ variant: markdown
 {:start=“7”}
 7.&nbsp;Members of the public can experience the heritage trail in two ways: 
 
-<p style="margin-left: 40px">-  <b>Guided Walking Tours</b> – Members of the public can join a free guided walking tour covering 9 of the 20 locations. The guided tours will run from 11 July 2026 to December 2026. Registration and more details can be found at www.sglaw200explore.sg.</p>
+<p style="margin-left: 40px">-  <b>Guided Walking Tours</b> – Members of the public can join a free guided walking tour covering 9 of the 20 locations. The guided tours will run from 11 July 2026 to December 2026. Registration and more details can be found at [https://sglaw200explore.sg/](https://sglaw200explore.sg/)</p>
  
-<p style="margin-left: 40px">-  <b>Virtual Tour</b> – Members of the public can also explore all 20 locations through an interactive virtual guide at www.sglaw200explore.sg.</p>
+<p style="margin-left: 40px">-  <b>Virtual Tour</b> – Members of the public can also explore all 20 locations through an interactive virtual guide at [https://sglaw200explore.sg/](https://sglaw200explore.sg/)</p>
 
 <b>Roving Exhibition: “In Practice: The Rule of Law in Our Singapore Story”</b>
 
