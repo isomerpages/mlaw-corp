@@ -58,8 +58,8 @@ variant: markdown
 {:start=“13”}
 13.&nbsp;For more information, please refer to:
 
-<p style="margin-left: 40px">- Annex A: Factsheet on guided walking tour of heritage trail</p>
+<p style="margin-left: 40px">- Annex A: Factsheet on guided walking tour of heritage trail[](/files/Annex_A_Media_Factsheet___Guided_Walking_Tour_of_Heritage_Trail.pdf)</p>
 
-<p style="margin-left: 40px">- Annex Bcentennial of Singapore’s Legal System with Special Stamp Issue”[Press release – “Ministry of Law and SingPost Commemorate Bicentennial of Singapore’s Legal System with Special Stamp Issue”](https://www.mlaw.gov.sg/ministry-of-law-and-singpost-commemorate-sglaw200-with-special-stamp-issue/)</p>
+<p style="margin-left: 40px">- Annex B: [Press release – “Ministry of Law and SingPost Commemorate Bicentennial of Singapore’s Legal System with Special Stamp Issue”](https://www.mlaw.gov.sg/ministry-of-law-and-singpost-commemorate-sglaw200-with-special-stamp-issue/)</p>
 
 <p class="right-side-updated">Last updated on 2 July 2026</p>
