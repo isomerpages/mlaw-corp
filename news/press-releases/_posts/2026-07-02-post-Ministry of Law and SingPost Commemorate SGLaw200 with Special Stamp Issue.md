@@ -25,13 +25,13 @@ variant: markdown
 
 <b>Stamp Designs</b>
 
-<p style="margin-left: 40px">Pillars of Justice (1st Local): Set against the backdrop of the Supreme Court, State Courts, and Family Justice Courts, this stamp highlights the integral roles of Singapore’s Judiciary, Public Prosecutor, and the broader legal profession. It signifies their commitment to uphold the Rule of Law, ensuring equality, and safeguarding the rights of all.</p>
+<p style="margin-left: 40px">a) <b>Pillars of Justice (1st Local):</b> Set against the backdrop of the Supreme Court, State Courts, and Family Justice Courts, this stamp highlights the integral roles of Singapore’s Judiciary, Public Prosecutor, and the broader legal profession. It signifies their commitment to uphold the Rule of Law, ensuring equality, and safeguarding the rights of all.</p>
 
-<p style="margin-left: 40px">Access to Justice (85₵): Featuring the Legal Aid Bureau and the Public Defender’s Office, this stamp highlights the dedicated work of public officers and volunteer lawyers who provide civil and criminal legal aid to financially needy Singaporeans. It signifies the Government’s commitment to ensure that the less privileged can have access to justice.</p>
+<p style="margin-left: 40px">b) <b>Access to Justice (85₵):</b> Featuring the Legal Aid Bureau and the Public Defender’s Office, this stamp highlights the dedicated work of public officers and volunteer lawyers who provide civil and criminal legal aid to financially needy Singaporeans. It signifies the Government’s commitment to ensure that the less privileged can have access to justice.</p>
 
-<p style="margin-left: 40px">Alternative Dispute Resolution (90₵): Showcasing the breadth of alternative dispute resolution (ADR) services available in Singapore, this stamp juxtaposes two complementary aspects of our vibrant ADR ecosystem. It features Maxwell Chambers—Singapore’s premier hub for international arbitration and mediation—alongside volunteer community mediators who facilitate conversations to resolve disputes amicably and preserve social harmony.</p>
+<p style="margin-left: 40px">c) <b>Alternative Dispute Resolution (90₵): </b>Showcasing the breadth of alternative dispute resolution (ADR) services available in Singapore, this stamp juxtaposes two complementary aspects of our vibrant ADR ecosystem. It features Maxwell Chambers—Singapore’s premier hub for international arbitration and mediation—alongside volunteer community mediators who facilitate conversations to resolve disputes amicably and preserve social harmony.</p>
 
-<p style="margin-left: 40px">Future of Justice ($2): Highlighting the intersection of technology and the law, this stamp reflects Singapore’s commitment to innovation. It showcases how digital tools empower the legal system to deliver more efficient and accessible justice for future generations while keeping the human element at its heart.</p>
+<p style="margin-left: 40px">d) <b>Future of Justice ($2):</b> Highlighting the intersection of technology and the law, this stamp reflects Singapore’s commitment to innovation. It showcases how digital tools empower the legal system to deliver more efficient and accessible justice for future generations while keeping the human element at its heart.</p>
 
 <b>Sales Channels</b>
 
