@@ -1,5 +1,5 @@
 ---
-title: Speech by SPS at Launch of Heritage Trail
+title: Opening Remarks by Senior Parliamentary Secretary for Law Eric Chua at Launch Event for SGLaw200 Heritage Trail, Roving Exhibition and Commemorative Stamps
 permalink: /speech-by-sps-at-launch-of-heritage-trail/
 date: 2026-07-02
 layout: post
