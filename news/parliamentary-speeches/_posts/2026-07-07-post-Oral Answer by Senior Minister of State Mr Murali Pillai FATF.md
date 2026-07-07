@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by Senior Minister of State Mr Murali Pillai FATF
+title: Oral Answer by Senior Minister of State for Law Mr Murali Pillai on Addressing Gaps Identified in Financial Action Task Force's Recent Assessment of Singapore 
 permalink: /oral-answer-by-senior-minister-of-state-mr-murali-pillai-fatf/
 date: 2026-07-07
 layout: post
