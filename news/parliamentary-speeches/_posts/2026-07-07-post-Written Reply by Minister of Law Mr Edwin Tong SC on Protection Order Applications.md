@@ -1,7 +1,7 @@
 ---
 title: Written Reply by Minister of Law Mr Edwin Tong SC on Protection Order
-  Applications
-permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-protection-order-applications/
+  Applications by Public Service Workers and Amending Legislation for Employers to Apply for Such Orders for Public Service Workers
+permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-protection-order-applications-by-public-service-workers-and-amending-legislation-for-employers-to-apply-such-orders-for-public-service-workers/
 date: 2026-07-07
 layout: post
 description: ""
