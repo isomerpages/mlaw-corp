@@ -10,7 +10,7 @@ variant: markdown
 7 July 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <b><u>Name and Constituency of Member of Parliament</u></b><br>
-<b>Ms Gerald Giam Yean Song (Member of Parliament for Aljunied GRC) </b>
+<b>Mr Gerald Giam Yean Song (Member of Parliament for Aljunied GRC) </b>
 
 <b><u>Question</u></b><br>
 To ask the Minister for Law (a) whether the Ministry has data on the number of Singapore Citizens and Permanent Residents who have died intestate in each of the last five years and if so, what is the number; and (b) whether the Ministry plans to integrate artificial intelligence tools to enhance the accessibility of will-writing services.
