@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong on Workplace Harrassment
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Workplace Harrassment, Unhealthy Workplace Culture and Retention of Young Lawyers Through Formal Frameworks and Measures 
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-on-workplace-harrassment/
 date: 2026-07-07
 layout: post
