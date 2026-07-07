@@ -24,7 +24,7 @@ necessary safeguards in place to ensure transparency, fairness, responsibility a
 
 31     <b>Ms Hany Soh</b> asked the Minister for Law in light of the findings in the Legal Profession Sustainability Study, whether the Ministry will consider commissioning an independent audit on interactions between the Bench and the Bar during legal proceedings.
 
-<b><u>Oral Answer</u></b><br>
+<b><u>Written Answer</u></b><br>
 
 {:start="1"}
 1. My response will address Questions 26 to 31 on today’s Order Paper together, as they raise interconnected issues arising from the release of the Legal Profession Sustainability Study, that was commissioned by the Law Society of Singapore. I will also address Written Questions 57 and 58 on today’s Order Paper by honourable Members Ms Diana Pang and Dr Wan Rizal, as well as PQ 1684 filed by Ms Diana Pang for written answer and PQ 2359 filed by Assoc Prof Kenneth Goh for oral answer for subsequent sittings. The honourable Members may wish to withdraw the PQs if their queries are answered today.
