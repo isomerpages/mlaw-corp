@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Issues Identified in the Legal Profession Sustainability Study
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Issues Identified
+  in the Legal Profession Sustainability Study
 permalink: /written-reply-by-minister-edwin-tong-on-issues-identified-in-legal-profession-sustainability-study/
 date: 2026-07-07
 layout: post
@@ -32,7 +33,7 @@ necessary safeguards in place to ensure transparency, fairness, responsibility a
 2. The Members' questions raise important issues that are deeply relevant to the legal profession. A strong legal profession underpins the rule of law, access to justice and confidence in Singapore as a trusted place to do business.
 
 {:start="3"}
-3.The Ministry of Law's (MinLaw) vision is for Singapore to have a first-class legal system powered by a top-class legal profession that is internationally respected and highly capable. At the same time, we must also ensure that our lawyers can build careers that are sustainable, meaningful, and fulfilling.
+3. The Ministry of Law's (MinLaw) vision is for Singapore to have a first-class legal system powered by a top-class legal profession that is internationally respected and highly capable. At the same time, we must also ensure that our lawyers can build careers that are sustainable, meaningful, and fulfilling.
 
 {:start="4"}
 4. These goals are not in tension, but are complementary.
