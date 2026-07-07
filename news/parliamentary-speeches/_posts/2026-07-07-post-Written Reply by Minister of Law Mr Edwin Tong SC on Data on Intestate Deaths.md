@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister of Law Mr Edwin Tong SC on Data on Intestate Deaths
-permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-data-on-intestate-deaths/
+title: Written Reply by Minister of Law Mr Edwin Tong SC on Data on Intestate Deaths among Singapore Citizens and Permanent Residents over Past Five Years and AI Tools Integration to Improve Will-Writing Services Accessibility
+permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-data-on-intestate-deaths-among-singapore-citizens-permanent-residents-past-five-years-ai-tools-integration-improve-will-writing-services-accessibility/
 date: 2026-07-07
 layout: post
 description: ""
