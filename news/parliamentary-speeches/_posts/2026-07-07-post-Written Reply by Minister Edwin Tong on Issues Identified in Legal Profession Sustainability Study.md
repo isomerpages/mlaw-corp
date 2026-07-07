@@ -1,6 +1,5 @@
 ---
-title: Written Reply by Minister Edwin Tong on Issues Identified in Legal
-  Profession Sustainability Study
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Issues Identified in the Legal Profession Sustainability Study
 permalink: /written-reply-by-minister-edwin-tong-on-issues-identified-in-legal-profession-sustainability-study/
 date: 2026-07-07
 layout: post
