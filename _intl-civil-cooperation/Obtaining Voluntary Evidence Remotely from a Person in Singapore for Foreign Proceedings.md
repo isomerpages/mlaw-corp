@@ -74,10 +74,9 @@ to take voluntary evidence remotely from witnesses in Singapore. This is
 subject to the following conditions:</p>
 <p>(a) the witness is not giving evidence from Singapore government or court
 premises;</p>
-<p>(b)&nbsp;&nbsp; the witness is giving evidence voluntarily and is not
-under compulsion to do so; and</p>
-<p>(c)&nbsp;&nbsp; the foreign court or tribunal proceedings in question
-–</p>
+<p>(b) the witness is giving evidence voluntarily and is not under compulsion
+to do so; and</p>
+<p>(c) the foreign court or tribunal proceedings in question –</p>
 <p>(i) are not criminal proceedings;</p>
 <p>(ii) are not (1) proceedings where a direct outcome contemplated is the
 imposition of public penalties or other sanctions, or the imposition or
@@ -109,16 +108,16 @@ or</p>
 <p>(i) is (1) one where a direct outcome contemplated is the imposition of
 public penalties or other sanctions, or the imposition or recovery of taxes;
 or (2) directly linked to such proceedings; or</p>
-<p>(ii) &nbsp;involves a State, a government, a governmental agency, or any
-person acting for a State, a government or a governmental agency, as a
-party to the proceedings.</p>
+<p>(ii) involves a State, a government, a governmental agency, or any person
+acting for a State, a government or a governmental agency, as a party to
+the proceedings.</p>
 <p>In cases where prior permission is required, a formal request for prior
 permission should be made by the relevant authorities of the jurisdiction
 to the <strong>Ministry of Law of the Republic of Singapore</strong> via
 the following link: [<strong>link</strong>]. Requests made by persons other
 than the relevant authorities of the jurisdiction will not be accepted.
 These requests should contain the following information:</p>
-<p>(a)&nbsp;&nbsp; the case name and identifying number (if any);</p>
+<p>(a) the case name and identifying number (if any);</p>
 <p>(b)&nbsp;&nbsp; a description of the proceedings;</p>
 <p>(c)&nbsp;&nbsp; regarding the witness in Singapore to whom the request
 relates:</p>
