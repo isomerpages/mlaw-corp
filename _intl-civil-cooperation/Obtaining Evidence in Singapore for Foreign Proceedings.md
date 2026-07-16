@@ -27,7 +27,7 @@ to be obtained, without legal compulsion, from a person in Singapore through
 remote means (i<em>.e</em>. via video and/or audio link), for the purpose
 of foreign court or tribunal proceedings in non-criminal matters, judicial
 assistance from the Singapore courts may not be required. For further information,
-please refer to the page “<strong>Obtaining Voluntary Evidence Remotely from a Person in Singapore for Foreign Proceedings”</strong>.</p>
+please refer to the page “<strong><a href="" rel="noopener nofollow" target="_blank">Obtaining Voluntary Evidence Remotely from a Person in Singapore for Foreign Proceedings</a>”</strong>.</p>
 <p><strong><u>Seeking Judicial Assistance</u></strong>
 </p>
 <p>The procedures for seeking judicial assistance to obtain evidence in Singapore
