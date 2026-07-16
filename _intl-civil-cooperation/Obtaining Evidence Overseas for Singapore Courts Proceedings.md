@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Witnesses physically located in foreign jurisdictions may give evidence
 in Singapore court proceedings through both non-remote and remote means
-&nbsp;(i.e. through live video link or live television link). Such evidence-taking
+(i.e. through live video link or live television link). Such evidence-taking
 must comply with the requirements under Singapore law (including the Evidence
 Act 1893 and the applicable Rules of Court) and any applicable practice
 directions issued by the Singapore courts.</p>
