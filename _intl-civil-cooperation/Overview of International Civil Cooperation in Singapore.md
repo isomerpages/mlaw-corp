@@ -12,12 +12,16 @@ information on international criminal cooperation, please see <a href="https://w
 (a) obtaining evidence across borders, and (b) serving legal documents
 across borders.</p>
 <p>More information is available at the following pages:</p>
-<p>(a)&nbsp;&nbsp; Obtaining evidence across borders:</p>
-<p>i. Obtaining Evidence in Singapore for Foreign Proceedings</p>
-<p>ii. Obtaining Voluntary Evidence Remotely from a Person in Singapore for
-Foreign Proceedings</p>
-<p>iii. Obtaining Evidence Overseas for Singapore Court Proceedings</p>
-<p>(b)&nbsp;&nbsp; Serving legal documents across borders:</p>
+<p><strong>(a)   Obtaining evidence across borders:</strong>
+</p>
+<p>i. <a href="" rel="noopener nofollow" target="_blank">Obtaining Evidence in Singapore for Foreign Proceedings</a>
+</p>
+<p>ii. <a href="https://mlaw.gov.sg/intl-civil-coop/obtaining-voluntary-evidence-remotely-from-singapore-for-foreign-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Voluntary Evidence Remotely from a Person in Singapore for Foreign Proceedings</a>
+</p>
+<p>iii. <a href="https://mlaw.gov.sg/intl-civil-coop/obtaining-evidence-overseas-for-singapore-courts-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Evidence Overseas for Singapore Court Proceedings</a>
+</p>
+<p><strong>(b)&nbsp;&nbsp; Serving legal documents across borders:</strong>
+</p>
 <p>i. Service of Foreign Legal Documents in Singapore</p>
 <p>ii. Service of Singapore Court Documents Overseas</p>
 <p>All Singapore legislation referred to on this site may be found at <a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Statutes Online</a>.</p>
