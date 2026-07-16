@@ -56,7 +56,7 @@ please refer to: <a href="https://www.hcch.net/en/states/authorities/details3/?a
 <li>
 <p>The bilateral Civil Procedure Conventions set out in the <a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO70-Sc3-#P12-PO70-Sc3-" rel="noopener nofollow" target="_blank">Third Schedule of the Rules of Court 2021</a>.
 Online copies of these bilateral Civil Procedure Conventions can be found
-here.</p>
+<a href="" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 </ol>
 <p></p>
