@@ -72,8 +72,8 @@ more information.</p>
 to be sought from the Singapore Government for a foreign court or tribunal
 to take voluntary evidence remotely from witnesses in Singapore. This is
 subject to the following conditions:</p>
-<p>(a)&nbsp;&nbsp; the witness is not giving evidence from Singapore government
-or court premises;</p>
+<p>(a) the witness is not giving evidence from Singapore government or court
+premises;</p>
 <p>(b)&nbsp;&nbsp; the witness is giving evidence voluntarily and is not
 under compulsion to do so; and</p>
 <p>(c)&nbsp;&nbsp; the foreign court or tribunal proceedings in question
