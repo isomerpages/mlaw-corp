@@ -2,7 +2,6 @@ collections:
   intl-civil-cooperation:
     output: true
     order:
-      - Bilateral Civil Procedures Conventions.md
       - Overview of International Civil Cooperation in Singapore.md
       - Obtaining Evidence in Singapore for Foreign Proceedings.md
       - Obtaining Voluntary Evidence Remotely from a Person in Singapore for
@@ -10,3 +9,4 @@ collections:
       - Obtaining Evidence Overseas for Singapore Courts Proceedings.md
       - Service of Foreign Process in Singapore.md
       - Service out of Singapore of Singapore Court Documents.md
+      - Bilateral Civil Procedures Conventions.md
