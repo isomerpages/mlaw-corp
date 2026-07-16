@@ -64,8 +64,8 @@ has entered a reservation to disapply Chapter II of the Hague Evidence
 Convention.</p>
 <p>If evidence is to be obtained under legal compulsion (i.e. it is not voluntary),
 judicial assistance from the Singapore courts must be sought and the procedure
-set out in this section would not apply. Please see [Webpage 2] for more
-information.</p>
+set out in this section would not apply. Please see <a href="" rel="noopener nofollow" target="_blank">Obtaining Evidence in Singapore for Foreign Proceedings</a> for
+more information.</p>
 <p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp; <u>Listed jurisdictions</u></strong>
 </p>
 <p>For listed jurisdictions, Singapore will not require prior permission
