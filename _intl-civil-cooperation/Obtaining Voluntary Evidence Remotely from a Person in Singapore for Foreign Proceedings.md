@@ -83,7 +83,7 @@ under compulsion to do so; and</p>
 imposition of public penalties or other sanctions, or the imposition or
 recovery of taxes; and are not (2) proceedings that are directly linked
 to such proceedings; and</p>
-<p>(iii)&nbsp;do not involve a State, a government, a governmental agency,
+<p>(iii)&nbsp; do not involve a State, a government, a governmental agency,
 or any person acting for a State, a government or a governmental agency,
 as a party to the proceedings.</p>
 <p>Where the above conditions are met, the said foreign court or tribunal,
