@@ -118,9 +118,8 @@ the following link: [<strong>link</strong>]. Requests made by persons other
 than the relevant authorities of the jurisdiction will not be accepted.
 These requests should contain the following information:</p>
 <p>(a) the case name and identifying number (if any);</p>
-<p>(b)&nbsp;&nbsp; a description of the proceedings;</p>
-<p>(c)&nbsp;&nbsp; regarding the witness in Singapore to whom the request
-relates:</p>
+<p>(b)&nbsp;a description of the proceedings;</p>
+<p>(c)&nbsp;regarding the witness in Singapore to whom the request relates:</p>
 <p>(i) the full name, nationality and address of the witness;</p>
 <p>(ii) the relevance of the witness to the case, including whether he or
 she is a witness of fact or an expert witness;</p>
