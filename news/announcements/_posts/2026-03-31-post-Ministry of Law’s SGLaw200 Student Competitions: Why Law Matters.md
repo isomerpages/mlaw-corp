@@ -48,8 +48,8 @@ do <u>not</u> need to have prior legal knowledge to participate.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary (Secondary 1 to 5); and</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pre-University (Institute of Technical
 Education, Junior College, Polytechnic).</p>
-<p>Prizes worth up to $250 for individual entries for the Upper Primary and
-Secondary categories, and up to $1,000 for group entries for the Pre-University
+<p>Prizes worth up to $300 for individual entries for the Upper Primary and
+Secondary categories, and up to $1,400 for group entries for the Pre-University
 category, are up for grab!</p>
 <p><strong>Submit your entry now!</strong>
 </p>
