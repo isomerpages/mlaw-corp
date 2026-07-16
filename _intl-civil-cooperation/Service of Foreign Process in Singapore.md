@@ -51,7 +51,7 @@ channels. These declarations may be found here: <a href="https://www.hcch.net/en
 <p><sup>[2] </sup>The list of Civil Procedure Conventions that Singapore
 is a party to is set out in the Third Schedule of the Rules of Court 2021.
 Online copies of the bilateral Civil Procedure Conventions can be found
-here: [insert link to webpage 7].</p>
+<a href="" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><sup>[3] </sup>Where both the Hague Service Convention and another Civil
 Procedure Convention are applicable, the relevant party may elect to use
 channels prescribed in either Convention.</p>
