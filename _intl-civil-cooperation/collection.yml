@@ -2,6 +2,5 @@ collections:
   intl-civil-cooperation:
     output: true
     order:
-      - Service of Foreign Process in Singapore.md
       - Service out of Singapore of Singapore Court Documents.md
       - Bilateral Civil Procedures Conventions.md
