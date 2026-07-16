@@ -48,8 +48,8 @@ do <u>not</u> need to have prior legal knowledge to participate.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary (Secondary 1 to 5); and</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pre-University (Institute of Technical
 Education, Junior College, Polytechnic).</p>
-<p>Prizes worth up to $250 for individual entries for the Upper Primary and
-Secondary categories, and up to $1,000 for group entries for the Pre-University
+<p>Prizes worth up to $300 for individual entries for the Upper Primary and
+Secondary categories, and up to $1,400 for group entries for the Pre-University
 category, are up for grab!</p>
 <p><strong>Submit your entry now!</strong>
 </p>
@@ -75,7 +75,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_1.jpg">
 </div>
 </th>
 </tr>
@@ -83,7 +83,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_2.jpg">
 </div>
 </td>
 </tr>
@@ -91,7 +91,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_3.jpg">
 </div>
 </td>
 </tr>
@@ -99,7 +99,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_4.jpg">
 </div>
 </td>
 </tr>
