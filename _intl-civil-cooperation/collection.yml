@@ -2,9 +2,9 @@ collections:
   intl-civil-cooperation:
     output: true
     order:
-      - Service of Foreign Process in Singapore.md
       - Overview of International Civil Cooperation in Singapore.md
       - Obtaining Evidence in Singapore for Foreign Proceedings.md
       - Obtaining Voluntary Evidence Remotely from a Person in Singapore for
         Foreign Proceedings.md
       - Obtaining Evidence Overseas for Singapore Courts Proceedings.md
+      - Service of Foreign Process in Singapore.md
