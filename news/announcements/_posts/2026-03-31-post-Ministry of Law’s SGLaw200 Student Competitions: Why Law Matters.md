@@ -75,7 +75,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_1.jpg">
 </div>
 </th>
 </tr>
@@ -83,7 +83,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_2.jpg">
 </div>
 </td>
 </tr>
@@ -91,7 +91,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_3.jpg">
 </div>
 </td>
 </tr>
@@ -99,7 +99,7 @@ posters below for the competition topics, tasks, and further details.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_whylawmatters_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sglaw200_wlm_4.jpg">
 </div>
 </td>
 </tr>
