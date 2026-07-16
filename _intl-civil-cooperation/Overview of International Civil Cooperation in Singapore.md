@@ -12,7 +12,7 @@ information on international criminal cooperation, please see <a href="https://w
 (a) obtaining evidence across borders, and (b) serving legal documents
 across borders.</p>
 <p>More information is available at the following pages:</p>
-<p><strong>(a)   Obtaining evidence across borders:</strong>
+<p><strong>(a) Obtaining evidence across borders:</strong>
 </p>
 <p>i. <a href="" rel="noopener nofollow" target="_blank">Obtaining Evidence in Singapore for Foreign Proceedings</a>
 </p>
