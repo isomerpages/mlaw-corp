@@ -4,6 +4,8 @@ permalink: /intl-civil-coop/service-of-foreign-process-in-singapore/
 variant: tiptap
 description: ""
 ---
+<p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp; <u>Service in Singapore where the Hague Service Convention applies</u></strong>
+</p>
 <p>Singapore is a party to the <em><a href="https://www.hcch.net/en/instruments/conventions/full-text/?cid=17" rel="noopener noreferrer nofollow" target="_blank">Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters 1965</a> </em>(“<strong>Hague Service Convention</strong>”).
 The Hague Service Convention simplifies and streamlines processes for service
 of judicial and extrajudicial documents in civil or commercial matters
@@ -28,7 +30,7 @@ Supreme Court of Singapore. The procedure and requirements for utilising
 this channel are set out in Order 64 rule 4 of the Rules of Court 2021.</p>
 <p>(c) If there are exceptional circumstances, the indirect diplomatic channel
 referred to in Article 9, paragraph 2 of the Hague Service Convention.</p>
-<p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp; <u>Service in Singapore where the Hague Service Convention does not apply</u></strong>
+<p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp; <u>Service in Singapore where the Hague Service Convention does not apply</u></strong>
 </p>
 <p>If the document to be served in Singapore is not from a jurisdiction that
 is a party to the Hague Service Convention, or falls outside the scope
