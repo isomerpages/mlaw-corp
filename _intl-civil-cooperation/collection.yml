@@ -2,5 +2,7 @@ collections:
   intl-civil-cooperation:
     output: true
     order:
+      - Obtaining Voluntary Evidence Remotely from a Person in Singapore for
+        Foreign Proceedings.md
       - Overview of International Civil Cooperation in Singapore.md
       - Obtaining Evidence in Singapore for Foreign Proceedings.md
