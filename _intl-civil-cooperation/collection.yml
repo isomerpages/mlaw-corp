@@ -2,5 +2,4 @@ collections:
   intl-civil-cooperation:
     output: true
     order:
-      - Service out of Singapore of Singapore Court Documents.md
       - Bilateral Civil Procedures Conventions.md
