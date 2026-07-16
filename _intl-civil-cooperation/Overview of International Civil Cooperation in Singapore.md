@@ -20,10 +20,12 @@ across borders.</p>
 </p>
 <p>iii. <a href="https://mlaw.gov.sg/intl-civil-coop/obtaining-evidence-overseas-for-singapore-courts-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Evidence Overseas for Singapore Court Proceedings</a>
 </p>
-<p><strong>(b)   Serving legal documents across borders:</strong>
+<p><strong>(b) Serving legal documents across borders:</strong>
 </p>
-<p>i. Service of Foreign Legal Documents in Singapore</p>
-<p>ii. Service of Singapore Court Documents Overseas</p>
+<p>i. <a href="" rel="noopener nofollow" target="_blank">Service of Foreign Legal Documents in Singapore</a>
+</p>
+<p>ii. <a href="" rel="noopener nofollow" target="_blank">Service of Singapore Court Documents Overseas</a>
+</p>
 <p>All Singapore legislation referred to on this site may be found at <a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Statutes Online</a>.</p>
 <p>Please note that the Singapore Government is not in a position to provide
 legal advice, including in relation to any underlying proceedings.</p>
