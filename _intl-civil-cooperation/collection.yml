@@ -1,5 +1,4 @@
 collections:
   intl-civil-cooperation:
     output: true
-    order:
-      - Bilateral Civil Procedures Conventions.md
+    order: []
