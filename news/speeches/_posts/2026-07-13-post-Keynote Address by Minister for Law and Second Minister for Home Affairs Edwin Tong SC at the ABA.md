@@ -53,7 +53,7 @@ To our distinguished guests, ladies and gentlemen,
 10.&nbsp;Singapore is a small city-state. We are tiny compared to most countries that all of you come from, with no natural resources. 
 
 {:start="11"}
-11.&nbsp;After we became a sovereign nation in 1965 – 61 years ago – trust and the rule of law became the foundational pieces of our nation-building exercise. Everything that we have done since then is founded on and anchored by the rule of law. This, in my view, has enabled Singapore to become a thriving global economy, and hopefully continue to be a relatively low-crime society.  
+11.&nbsp;After we became a sovereign nation in 1965 – 61 years ago – trust and the rule of law became the foundational pieces of our nation-building exercise. Everything that we have done since then is founded on and anchored by the rule of law. This, in my view, has enabled Singapore to become a thriving global economy, and hopefully continue to be a relatively low-crime society<sup><a href="#fn1" id="ref1">1</a></sup>.  
 
 {:start="12"}
 12.&nbsp;Our laws and our institutions had to continually evolve and reinvent themselves, to seize opportunities and deal with evolving threats as we saw them, and stay relevant in the face of new challenges. 
@@ -100,7 +100,7 @@ To our distinguished guests, ladies and gentlemen,
 25.&nbsp;The threat of course has only grown with the adventof AI, and AI is developing at a breakneck speed. We all saw ChatGPT, and we were wowed by it some four years ago. But today, if you look at the first version, you would think it is so antiquated and so archaic. I hazard to think that in 5 to 10 years' time, the system will be extremely sophisticated. 
 
 {:start="26"}
-26.&nbsp;By using AI, today’s scammers can create convincing deceptions at scale with increasing believability. They can weaponise data to identify potential targets. Unfortunately, cybercrime is very lucrative. Interpol estimates that AI-enhanced fraud is 4.5 times more profitable than the traditional methods. It’s a little wonder that you can do so and you can do so in the comfort of your own home, your own bedroom, sitting in a different country.
+26.&nbsp;By using AI, today’s scammers can create convincing deceptions at scale with increasing believability. They can weaponise data to identify potential targets. Unfortunately, cybercrime is very lucrative. INTERPOL estimates that AI-enhanced fraud is 4.5 times more profitable than the traditional methods. It’s a little wonder that you can do so and you can do so in the comfort of your own home, your own bedroom, sitting in a different country.
 
 {:start="27"}
 27.&nbsp;Collectively, this gives rise to what I think is the central paradox of us in Singapore and of our age. Singapore’s greatest strengths – openness, a digitally advanced society and a globally interconnected economy – today are also our biggest vulnerabilities. The same technology that powers our economy is the very same technology that bad actors to weaponise against us.   
@@ -173,135 +173,169 @@ To our distinguished guests, ladies and gentlemen,
 46.&nbsp;Prosecutors faced real evidential hurdles. Money mules would simply say they did not know they were handling criminal proceeds. In many cases, you can see it is fairly obvious: somebody who has a monthly income of a couple of thousands suddenly gets lots of money coming through into the account. They say, I did not know, I knew that these were the sums coming in, I thought I was doing someone a favour, but I did not know what the proceeds were or where the money came from. The other hurdle that we face: it is often difficult to prove a foreign offence in court. 
 
 {:start="47"}
-47.&nbsp;
+47.&nbsp;So, a few years ago, largely lessons from what we do as we surveil developments around the world and also lessons from the number of money-laundering cases that we have apprehended in the last few years, we introduced new offences of "rash" and "negligent" money-laundering. 
 
 {:start="48"}
-48.&nbsp;
+48.&nbsp;If the predicate offence occurred abroad, prosecutors need not now prove a causal direct link between the monies and the foreign offence, which is often a big hurdle. We only needed to prove that the accused knew, or had reason to believe, that the money was tainted.
 
 {:start="49"}
-49.&nbsp;
+49.&nbsp;The accused person can still come to Court to persuade the Court that, for example, any suspicions he might have had were dispelled after he made reasonable further inquiries, or that there were no red flags that an ordinary, reasonable person would have noticed. But he can no longer avoid prosecution by simply claiming ignorance. This was something that we put in place a couple of years ago.
 
 {:start="50"}
-50.&nbsp;
+50.&nbsp;We have also amended our laws, to sharpen our abilities to detect and investigate crime in this new evolving landscape. In 2024, we empowered certain government agencies to share data with the Suspicious Transaction Reporting Office. That was important because you can no longer now look at data in isolation. You have to triangulate data, look at trends, look at different actors. Put them together by time, by geography, and by transaction. And with that, you get a better, more complete picture. We have also tightened due diligence obligations on casino operators, in line with the Financial Action Task Force (FATF) standards.
 
 {:start="51"}
-51.&nbsp;
+51.&nbsp;But in an age where online crimes are rife, investigations and prosecutions are no longer enough. We know that we have got to go further upstream, and disrupt crime upstream, to effectively protect our people. To this end, we introduced several new laws in the last two to three years. 
 
 {:start="52"}
-52.&nbsp;
+52.&nbsp;One was the Online Criminal Harms Act 2023 (<b>OCHA</b>). This Act empowers the Police to order individuals, online services or platforms to take down content, disable accounts, or block access to services, often e-commerce platforms, where their payment, methodologies and payment modules are being used for crime, before the crime materialises. 
 
 {:start="53"}
-53.&nbsp;
+53.&nbsp;This was important because we found that the vast majority of the initial contact points for scammers was online, on one of these platforms. Very often, these platforms also contained advertisements that were of a scam nature. We wanted to have the ability to look at platforms, identify them ahead of time, and be prompt in taking action. So now, we have the ability to tell them to disable and remove access, or bring down the entire website altogether. 
 
 {:start="54"}
-54.&nbsp;
+54.&nbsp;I must say that it has been effective because in Singapore, we have good relations with all the major platforms. So far, every direction that has been given under this Act has been complied with. Close to 99% has been complied with, so it has been effective.
 
 {:start="55"}
-55.&nbsp;
+55.&nbsp;Another new legal innovation just last year was the Protection from Scams Act 2025. Let me explain to you how this works. 
 
 {:start="56"}
-56.&nbsp;
+56.&nbsp;This piece of legislation addresses a concerning trend, which we observed over the years as I mentioned earlier. More than 80% of scam reports involved self-effected transfers. You can understand how scam syndicates work. They lull you into a sense of complacency, sometimes with a distressing message or emotionally charged message; sometimes with the promise of quick gains. But whatever it is, more than 80% of such scam reports that we face came from self-effected transfers – either they gave their own bank account or they allowed their password to be given out. Oftentimes, we found that the victims were socially engineered over months, some even years, to trust the scammers deeply. 
 
 {:start="57"}
-57.&nbsp;
+57.&nbsp;To give you one example: we had a victim. The family member made the report, and the victim was called upon by the police to the station for an interview. The victim was so ensconced and trusted the scammer so much that after the interview, the victim reported the interview to the scammer and said that she was brought into a room by some fictious people. Actually, this person was in a police station. So you can see that the whole psychology really have them wrapped around the scammers. 
 
 {:start="58"}
-58.&nbsp;
+58.&nbsp;In such cases, our officers expend a lot of time and persuasion, to gain the victims’ trust, and stop the scam. 
 
 {:start="59"}
-59.&nbsp;
+59.&nbsp;So, we needed a lever – something that could disrupt and pause the continued victimisation. Many of them transfer not a large sum immediately, but over time: $500 in the first week $1,000 in the second week, next month $2,000 and then $2,000 again for a few months, and then $5,000, $10,000. After a while, it becomes a lot of money. So we needed something that could pause this stream.
 
 {:start="60"}
-60.&nbsp;
+60.&nbsp;The Protection from Scams Act does this. It empowers the Police to issue Restriction Orders, which restrict the victims’ banking and credit facilities for 30 days. Orders can only be extended up to five times. 
 
 {:start="61"}
-61.&nbsp;
+61.&nbsp;This measure is, no doubt, interventionist. It does disrupt the victims’ freedom to deal with their own property – in this case, usually the bank accounts.
 
 {:start="62"}
-62.&nbsp;
+62.&nbsp;But it works. I thought to illustrate it with one other example. There is a case of a lady – let’s call her “Mrs Phua”. 
 
 {:start="63"}
-63.&nbsp;
+63.&nbsp;In April 2025, the Police discovered a scam against this lady who was 75 years old. Scammers used AI over time to cultivate her, to get into her psychology and develop a relationship. They used AI to impersonate Elon Musk, to talk to her, to make friends with her. “Elon Musk” also very generously introduced her to his best friends, “Donald Trump” and “Mark Zuckerberg”. She believed it entirely. Over the years, Mrs Phua transferred in total $600,000 of her savings from a joint account that she had with her 83-year-old husband, to save “Elon Musk’’s company. When the scam was uncovered, and this is the key, Mrs Phua could not be persuaded that it was a scam. She was deeply convinced. Even her own family, her daughters, were unable to persuade her that she had been scammed. 
 
 {:start="64"}
-64.&nbsp;
+64.&nbsp;So, as a last resort, the Police issued a Restriction Order for her accounts in July 2025. This was then extended 5 times, until January of this year. 
 
 {:start="65"}
-65.&nbsp;
+65.&nbsp;Eventually, Mrs Phua was diagnosed with psychosis in late 2025. But the key is that the Restriction Order gave her family time to slow down the transfers, stop the money from being completely drained, and meanwhile, find a way to seek medical help for her. 
 
 {:start="66"}
-66.&nbsp;
+66.&nbsp;That was two of the more recent examples of legislation.
+
+<b><u>Enhancing operational capabilities</u></b>
 
 {:start="67"}
-67.&nbsp;
+67.&nbsp;Let me now turn to how we have enhanced our operational capabilities against white-collar crime. 
 
 {:start="68"}
-68.&nbsp;
+68.&nbsp;First, we need a future-ready force – one that is always looking beyond the horizon to understand how scammers operate, what are their modus operandi, what are their tools, and to see whether those tools can be something we can use as well. 
 
 {:start="69"}
-69.&nbsp;
+69.&nbsp;So we develop our own frontline tech, like the AI-powered recursive Machine-Learning Site Evaluator. It is a bot that trawls the internet every day, continuously, 24/7, to identify potential scam sites, and blocks them at scale. Of course, when we block one, five pop up. But with every one that we block, we manage to block victims in Singapore from accessing them. It is a plus so we keep trying. This bot is quite powerful. Together with other similar tools, the bot can autonomously analyse over 400,000 websites daily. So it is a big-scale exercise.
 
 {:start="70"}
-70.&nbsp;
+70.&nbsp;We have also been building a cyber-ready force, that is capable of responding comprehensively to scams and cybercrime. After we saw the lessons learned and saw the rise in the scale of scam victims and scam amounts in Singapore, we consolidated our anti-scam and cybercrime capabilities under a dedicated Cyber Command. In fact, this Cyber Command just started operations last week. 
 
 {:start="71"}
-71.&nbsp;
+71.&nbsp;The Command will deploy the latest technology, to make sense of cyberspace. As I mentioned, collating all information and triangulating them is most important. The aim being to detect scam infrastructure, malicious campaigns and threat actors – and hopefully disrupt them faster than the scammers can set them up. 
 
 {:start="72"}
-72.&nbsp;
+72.&nbsp;But no enforcement agency, however capable, can combat white-collar crime alone. Evidence of white-collar crime is often scattered across multiple institutions and jurisdictions. Effective enforcement requires us to connect the dots. For this, collaboration is key.
 
 {:start="73"}
-73.&nbsp;
+73.&nbsp;The Anti-Scam Command (<b>ASCom</b>), which is part of the Cyber Command today, is perhaps one of the best examples of our collaborative posture. 
 
 {:start="74"}
-74.&nbsp;
+74.&nbsp;ASCom partners with the private and public sectors to combat scams. If you think of scams, besides the victims with the bank accounts, the perpetrators will likely take advantage of other institutions like banks and telcos. You cannot do the scam without getting the banks involved, and you cannot get the scam without the telco being involved because most of these are transacted through the phones. 
 
 {:start="75"}
-75.&nbsp;
+75.&nbsp;So as of 2025, ASCom has built up a relationship with about 180 partners – financial institutions, fintech companies, cryptocurrency houses, INTERPOL, and of course, overseas law enforcement agencies as well.
 
 {:start="76"}
-76.&nbsp;
+76.&nbsp;But what is novel, and I saw this when I visited the ASCom some months ago, was the co-location at the ASCom of the Police. The cyber-technologists, as well as staff of the seven of the most commonly used banks in Singapore, are physically located at the same space at the ASCom, alongside staff from online platforms like Shopee or Carousell.
 
 {:start="77"}
-77.&nbsp;
+77.&nbsp;So we have a coordinated effort. The Police is literally a shoulder tap away from the banks. Every time they pick up a report, they understand that the scam potentially has been perpetrated, they tap on the shoulder of the bank, and ask if they can freeze the account. It is not failsafe, because sometimes, it is faster than that even, but it is a big disruptor, a bit of sand in the system for the scammers.
 
 {:start="78"}
-78.&nbsp;
+78.&nbsp;Information sharing is therefore as immediate as possible, and action is also as immediate as possible. Once the Police receives a report alleging a scam, the bank staff literally right next to them can then block the transaction, trace the flow of funds in real time, and identify other suspicious accounts. Again, because the threat actor does not just work with one bank but across several different banks, having that coordinated information will be very useful. 
 
 {:start="79"}
-79.&nbsp;
+79.&nbsp;Another facet of collaboration, of course, is international cooperation. Criminals exploit borders. They rely on information asymmetries and regulatory arbitrage, to conceal crimes and to move assets.
 
 {:start="80"}
-80.&nbsp;
+80.&nbsp;Our objective is to deny the criminals this advantage, by closing the information gaps, and strengthening cross-border operational capabilities. Our message is a simple one: crossing a border does not make you – or your assets – untraceable or untouchable. I think that is a very important message because within minutes oftentimes, the proceeds of the scam are transferred to a different country.
 
-{:start="80"}
-80.&nbsp;
+{:start="81"}
+81.&nbsp;Singapore has been an active member of the FATF, and the Asia/Pacific Group on Money Laundering. In fact, we served as FATF President from 2022 to 2024. Such collaboration has been critical, especially to asset recovery, which is a key priority in our anti-money laundering framework<sup><a href="#fn2" id="ref2">2</a></sup>. 
 
-{:start="80"}
-80.&nbsp;
+{:start="82"}
+82.&nbsp;Singapore is also involved in cross-border initiatives, such as Project FRONTIER+, which brings together, as of May 2026, the anti-scam units of 14 jurisdictions. They engage in real-time intelligence-sharing, even in peacetime and outside of the occurrence of a particular scam and joint enforcement operations, to take down syndicates and recover scam-related funds. 
 
-{:start="80"}
-80.&nbsp;
+{:start="83"}
+83.&nbsp;Project FRONTIER+ was only established 2 years ago but has already demonstrated real and tangible success. Last year, the authorities in the framework conducted two joint operations, seizing about S$28 million from about 36,000 different bank accounts, across seven different jurisdictions. More than 2,100 scam perpetrators were then arrested as a result of this collaboration.
 
-{:start="80"}
-80.&nbsp;
+{:start="84"}
+84.&nbsp;Complementing such multilateral initiatives is, of course, the bilateral mutual legal assistance (<b>MLA</b>). Pursuant to MLA requests between 2020 and 2024, Singapore assisted other countries in recovering close to S$800 million and other assets. In one case, our Police seized about US$3.5 million within a day, and following investigations, repatriated another US$3.8 million from four bank accounts in Singapore.
 
 {:start="85"}
-85.&nbsp;
+85.&nbsp;But it is not, as I had emphasised, a one-way street. It is a two-way street. It is collaborative. We have also benefitted from the goodwill and the assistance of other countries. In the same period, we ourselves have made 110 MLA requests, pursuing a total of S$144.5 million in overseas assets. I am quite heartened to say that through such cooperation, we secured the return of almost a third of the amounts that we have put up for assistance, about S$50 million in the recovery.
 
 {:start="86"}
-86.&nbsp;
+86.&nbsp;Such international cooperation is valuable to us, and we want to work hard at making it more effective. As you know today, multilateralism is critically important. I think we need to keep to a global rules-based system that is multilateral in nature. Thus, in 2024, we amended our laws, to allow enforcement agencies to act pre-emptively, to seize or confiscate assets; and expand the situations in which we may assist foreign investigations, or enforce foreign orders. 
 
 {:start="87"}
-87.&nbsp;
+87.&nbsp;We specifically put that into our own domestic legislation to allow us to be more effective, as we play our part in enhancing global international collaborative efforts. At the same time, we maintained robust legal safeguards, to provide sufficient protections for the parties to raise defences in court.
 
 {:start="88"}
-88.&nbsp;
+88.&nbsp;One final point on collaboration: I would say that in fact, what we have today in this room is an example of that collaboration. I think bringing people together –  exchanging thought leadership, networking in person – is particularly important. It is always important to be able to pick up the phone and call another practitioner in a different jurisdiction halfway across the world.
 
 {:start="89"}
-89.&nbsp;
+89.&nbsp;We develop rules consistently so that we preclude, or at least reduce, the disparity or the arbitrage that criminals can take advantage of, and of course, we enhance standards. As we have heard from Melba Pearson (Chair of the ABA Criminal Justice Section) earlier, how do we challenge assumptions, and how do we build something that is global in terms of a rules-based framework that allows us to respond more effectively to such scams?
 
 {:start="90"}
-90.&nbsp;
+90.&nbsp;On that note, I am very happy to see ABA here, and I hope that we can continue with that relationship and anchor that thought leadership in Asia as well.
+
+<b><u>Public education measures against scams and money-laundering</u></b>
+
+{:start="91"}
+91.&nbsp;Finally, a little bit about public education. We believe that for all the efforts that we have put in on laws, on technology, and on collaboration, the public is really our first line of defence, especially when it comes to scams. No legal framework or enforcement agency can eliminate white-collar crime. If the public is not themselves attuned to the risks, it will be very hard to avoid these risks.
+
+{:start="92"}
+92.&nbsp;The scam cases I described earlier remind us that sophisticated criminals succeed when trust is manipulated, and vigilance is lowered. As such, we have undertaken a slew of public education campaigns, to build awareness and, more importantly, vigilance. 
+
+{:start="93"}
+93.&nbsp;One move was the Scam Public Education Office. We literally set up an office to deal with education on scams. We launched this some three years ago in 2023. This Office works with both the private sector as well as community agencies, to tailor anti-scam education to different segments of the population. Sometimes you do need to speak in the vernacular, in different languages. Sometimes you need to reach out and segment your outreach efforts - the elderly different from the younger ones, and to deal with it in a fun way. For the young especially, it can be viral on social media. It has been an effort, one that we are still learning about, but I think it is important. 
+
+{:start="94"}
+94.&nbsp;The Police also publish a weekly Scams Bulletin, providing timely, bite-sized updates on the top five scams each week. We developed in-house an app. We call it the ScamShield. The app is iterative. Every time we pick up reports on scam numbers or scam websites, we feed that into the ScamShield database, and it goes out to all the individuals who have downloaded the app on their phones. The app then actively blocks these websites and numbers on those phones. So those numbers cannot call these individuals, and those websites cannot be accessed. Despite that, we still see many cases, but these are all part of the efforts that we take.
+
+<b><u>Conclusion</u></b>
+
+{:start="95"}
+95.&nbsp;Finally, let me end off the session by underscoring a few things. We have spent our first few decades on nation building. We are a young country, 61 years old, building institutions for trust and stability, anchored on the rule of law. But I think our challenge, and for all of you as well in other countries, is now perhaps shifting and different. In a world where criminals evolve their methods faster than ever before, we must demonstrate that the rule of law, that we have used and relied on, will be capable of adapting to the challenges of the new digital age. It will not, as I had mentioned right at the start, be effective if it is not fit for purpose, or fit for today’s use. After a while, it will lose its salience.
+
+{:start="96"}
+96.&nbsp;In an era where trust in global institutions and the international rules-based order is under strain, our collective commitment to fight this internationally is itself a demonstration that multilateral cooperation really works – there is no better demonstration than in cross-border scams, and that it delivers concrete benefits to individuals.  
+
+{:start="97"}
+97.&nbsp;But before I end, I want to say that I saw the programme, and I understand you are going to be given an optional guided tour of the Rule of Law exhibition. I hope you will not make it optional. This exhibition was specially curated for our bicentennial, organised by the Supreme Court as well as the Singapore Academy of Law, to commemorate this year. It traces our history, how we have evolved over the years, and how Singapore has developed our own jurisprudence, our legal system, and our own form of laws that fit our own society. Because ultimately, the law that we enact is a reflection of the social mores and values of this society, the social compact that we build and want to see for Singapore. This exhibition explains a lot of that. It is a wonderful exhibition. I saw it, and it does aim to convey to our community and engage them on how our legal system has evolved to meet societal needs.
+
+{:start="98"}
+98.&nbsp;So I hope you find some time for this in your schedule. On that note, I wish you a really productive, fruitful and lovely two days. Melba says you are exactly at the right place. I would underscore that. Do not forget to make some time to see a bit of Singapore. Thank you very much.
+
+<p><sup id="fn1">1. Julie Ray, “More People Feel Safe Even As Global Conflict Rise”, Diplomatic Courier (7 October 2025), available at <a href="https://www.diplomaticourier.com/posts/more-people-feel-safe-even-as-global-conflicts-rise">https://www.diplomaticourier.com/posts/more-people-feel-safe-even-as-global-conflicts-rise</a>.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+
+<p><sup id="fn2">2. National Asset Recovery Strategy, at [2.3.1].</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
 
 <p class="right-side-updated">Last updated on 13 July 2026</p>
