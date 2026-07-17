@@ -34,6 +34,14 @@ sections:
         - title: ONEMINLAW PORTAL
           description: Find Out More
           url: https://www.mlaw.gov.sg/e-services/
+  - infopic:
+      title: 200 Years
+      id: infopic
+      description: of Singapore's Legal Heritage
+      button: Join Us!
+      url: https://www.mlaw.gov.sg/sglaw200/
+      image: /images/MinLaw_SGLaw200_FC_Vertical.png
+      alt: SGLaw200
   - resources:
       title: News and Information
       subtitle: Top Stories
