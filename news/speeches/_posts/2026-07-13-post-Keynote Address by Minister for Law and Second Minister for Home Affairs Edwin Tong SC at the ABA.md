@@ -1,7 +1,7 @@
 ---
 title: Keynote Address by Minister for Law and Second Minister for Home Affairs
-  Edwin Tong SC at the ABA
-permalink: /keynote-address-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc-at-the-aba/
+  Edwin Tong SC at the 2026 ABA Global White Collar Crime Institute – Singapore Conference
+permalink: /keynote-address-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc-at-2026-aba-global-white-collar-crime-institute-singapore-conference/
 date: 2026-07-13
 layout: post
 description: ""
