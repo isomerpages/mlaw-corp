@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister for Law Edwin Tong SC at CALC
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the 2026 Commonwealth Association of Legislative Counsel Conference
 permalink: /keynote-address-by-minister-for-law-edwin-tong-sc-at-calc/
 date: 2026-07-15
 layout: post
