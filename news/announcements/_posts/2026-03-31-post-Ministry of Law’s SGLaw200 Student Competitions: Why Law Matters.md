@@ -19,7 +19,7 @@ variant: markdown
 
 <table style="background-color: #FFE5D0">
   <tbody><tr>
-    <td>Open to all Singapore Citizen or Permanent Resident students in upper primary, secondary, and pre-university!<br><b>Submit your entry by 31 July 2026.</b></td>
+    <td>Open to all Singapore Citizen or Permanent Resident students in upper primary, secondary, and pre-university!<br><b>Submit your entry by 7 August 2026.</b></td>
   </tr>
 </tbody></table>
 <p><strong><u>About SGLaw200</u></strong>
@@ -53,7 +53,7 @@ Secondary categories, and up to $1,400 for group entries for the Pre-University
 category, are up for grab!</p>
 <p><strong>Submit your entry now!</strong>
 </p>
-<p><strong>Deadline: 31 July 2026</strong>
+<p><strong>Deadline: 7 August 2026</strong>
 </p>
 <p>Upper Primary – <a href="https://go.gov.sg/whylawmattersupperpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whylawmattersupperpri</a>
 </p>
@@ -62,7 +62,7 @@ category, are up for grab!</p>
 <p>Pre- University – <a href="https://go.gov.sg/whylawmatterspreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whylawmatterspreu</a>
 </p>
 <p>Competition entries will be judged based on content and creativity. See
-posters below for the competition topics, tasks, and further details.</p>
+posters below for the competition topics, tasks, and further details. Deadline has been extended to 7 August 2026.</p>
 <p>For more details, kindly refer to the Frequently Asked Questions (FAQs)
 <a href="/files/SGLaw200/FAQ_for_Why_Law_Matters_Student_competitions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
