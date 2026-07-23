@@ -188,5 +188,4 @@ Ladies and gentlemen
 51.	My warmest congratulations to all our award recipients. I hope you continue to be that light – for many more people, and for many more years to come.
 
 {:start="52"}
-52.	Thank you very much, and have a wonderful evening ahead. 
-
+52.	Thank you very much, and have a wonderful evening ahead.
