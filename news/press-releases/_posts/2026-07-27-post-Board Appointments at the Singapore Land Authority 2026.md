@@ -22,9 +22,9 @@ variant: markdown
 {:start=“3”}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following two members of the Board will be reappointed for a two-year term:
 
-<p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Koh Swee Yen (Head, International Arbitration, Partner, Commercial &amp; Corporate Disputes, WongPartnership)
+<p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Koh Swee Yen (Head, International Arbitration, Partner, Commercial &amp; Corporate Disputes, WongPartnership)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Kenny Tan (Deputy Secretary (Workforce), Ministry of Manpower)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Kenny Tan (Deputy Secretary (Workforce), Ministry of Manpower)</p>
 
 **Outgoing Board Member**
 
@@ -34,34 +34,35 @@ variant: markdown
 {:start=“5”}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MinLaw and SLA extend our deepest gratitude to Mr Lim for his invaluable contributions to SLA during his appointment.
 
+
 **Existing Board Members**
 
 {:start=“6”}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following members will continue to serve on the SLA Board:
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chairman – Mr Loh Lik Peng (Founder and Owner of Unlisted Collection)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chairman – Mr Loh Lik Peng (Founder and Owner of Unlisted Collection) </p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deputy Chairman – Mr Jerry Koh (Managing Partner, Allen &amp; Gledhill)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deputy Chairman – Mr Jerry Koh (Managing Partner, Allen &amp; Gledhill) </p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Jaelle Ang (Founder, The Possible Capital)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Jaelle Ang (Founder, The Possible Capital)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Angelene Chan (Executive Chairman, DP Architects and its Group of Companies)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Angelene Chan (Executive Chairman, DP Architects and its Group of Companies)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Boo Junfeng (Director/Writer, Peanut Pictures Pte Ltd)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Boo Junfeng (Director/Writer, Peanut Pictures Pte Ltd)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Cheung Pui Yuen (Former Chief Executive Officer, Deloitte Singapore)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Cheung Pui Yuen (Former Chief Executive Officer, Deloitte Singapore)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chong Siak Ching (Chairperson, Yong Siew Toh Conservatory of Music Governing Board, National University of Singapore)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chong Siak Ching (Chairperson, Yong Siew Toh Conservatory of Music Governing Board, National University of Singapore)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Colin Chow (Deputy Secretary (Policy), Ministry of Law)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Colin Chow (Deputy Secretary (Policy), Ministry of Law)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Lien Choong Luen (Head of Customer Success, DayOne Data Centers)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Lien Choong Luen (Head of Customer Success, DayOne Data Centers)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Rafiq Mohamad (Founder and Creative &amp; Branding Director, Feral)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Rafiq Mohamad (Founder and Creative &amp; Branding Director, Feral)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Calvin Phua (Chief Executive, SLA)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Calvin Phua (Chief Executive, SLA)</p>
 
-</p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Melvyn Yeo (Founder and Managing Partner, TRIREC Holding Pte Ltd)
+<p></p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Melvyn Yeo (Founder and Managing Partner, TRIREC Holding Pte Ltd)</p>
 
 
 
@@ -70,4 +71,4 @@ variant: markdown
 
 [ANNEX](/files/news/press-releases/Annex_2026_Board_Appointments_at_the_Singapore_Land_Authority.pdf)
 
-</p><p class="right-side-updated">Last updated on 27 July 2026</p>
+<p></p><p class="right-side-updated">Last updated on 27 July 2026</p>
