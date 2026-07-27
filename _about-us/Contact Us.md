@@ -41,7 +41,8 @@ from 6:00 PM to 11:59 PM. For any ad hoc maintenance, please check <a href="http
 <p><strong>Ministry of Law Services Centre</strong> 
 <br>Visits to the Ministry of Law Services Centre are by appointment only.
 Make an appointment via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us.</p>
-<p></p>
+<p>Please note that all counter services and legal advice sessions at the
+Ministry of Law Services Centre are conducted via video conferencing mode.</p>
 <p><strong>Operating Hours</strong>
 <br>Monday to Friday, 8:30 AM to 5:00 PM
 <br>Closed on weekends and public holidays</p>
