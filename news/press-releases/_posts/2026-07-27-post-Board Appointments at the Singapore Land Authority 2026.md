@@ -64,9 +64,10 @@ variant: markdown
 </p><p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Melvyn Yeo (Founder and Managing Partner, TRIREC Holding Pte Ltd)
 
 
+
 <b>MINISTRY OF LAW</b><br>
 <b>27 JULY 2026</b>
 
 [ANNEX](/files/news/press-releases/Annex_2026_Board_Appointments_at_the_Singapore_Land_Authority.pdf)
-	
-</p><p class="right-side-updated">Last updated on  27 July 2026</p>
+
+</p><p class="right-side-updated">Last updated on 27 July 2026</p>
