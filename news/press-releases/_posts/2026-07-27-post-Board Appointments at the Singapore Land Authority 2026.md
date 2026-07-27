@@ -1,6 +1,6 @@
 ---
-title: Board Appointments at the Singapore Land Authority 2026
-permalink: /board-appointments-at-the-singapore-land-authority-2026/
+title: 2026 Board Appointments at the Singapore Land Authority
+permalink: /2026-board-appointments-at-the-singapore-land-authority/
 date: 2026-07-27
 layout: post
 description: ""
