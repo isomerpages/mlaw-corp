@@ -1,5 +1,5 @@
 ---
-title: Keynote Speech by Minister Edwin Tong SC at SIAC Delhi Conference
+title: Keynote Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at SIAC Delhi Conference
 permalink: /keynote-speech-by-minister-edwin-tong-sc-at-siac-delhi-conference/
 date: 2026-07-25
 layout: post
