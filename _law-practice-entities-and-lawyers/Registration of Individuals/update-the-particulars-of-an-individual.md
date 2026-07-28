@@ -77,7 +77,7 @@ Update the Particulars of an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (e.g. involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
+        <li style="text-align: justify">The estimated processing time for applications <b>30 working days</b>. Applications with incomplete supporting documents/information, submitted during the peak period from December to April, and/or that are complex, will take longer to process. Complex applications include those involving concurrent appointments, foreign interests in Singapore law practices and/or collaborations between Singapore law practices and foreign law practice entities. You are therefore advised to apply in good time.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
         <li style="text-align: justify">If a re-issuance of the CoR is requested, a copy of the CoR will be emailed to the Main Contact for the Application. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services.</li>
       </ul>
@@ -90,4 +90,4 @@ Update the Particulars of an Individual
   </tr>
 </tbody></table>
 
-<p class="right-side-updated">Last updated on 23 Jul 2025</p>
+<p class="right-side-updated">Last updated on 28 Jul 2026</p>
