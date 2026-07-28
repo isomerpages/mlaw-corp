@@ -39,6 +39,9 @@ variant: markdown
 
 For more information on SGLaw200 events and initiatives, visit <a href="https://www.mlaw.gov.sg/sglaw200/">https://www.mlaw.gov.sg/sglaw200/.</a>
 
+<b>MINISTRY OF LAW</b><br>
+<b>28 JULY 2026</b>
+
 <b>Annex</b>: <a href="files/Annex_Media_Factsheet__Overview_of_Law_Reform_Book_Series_28July2026.pdf">Factsheet - Overview of Law Reform Book Series</a>
 
 
