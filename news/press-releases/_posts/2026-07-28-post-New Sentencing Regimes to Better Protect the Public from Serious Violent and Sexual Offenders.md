@@ -60,7 +60,7 @@ variant: markdown
 7.&nbsp;The court may impose SPP for a fixed term of between five and 20 years. An offender may be released on licence after serving two-thirds of the sentence.  Unlike the SEPP, he or she must be released after serving the fixed term of the sentence. 
 
 {:start=“8”}
-8.&nbsp;Further details of the SEPP and SPP can be found in the Annex.
+8.&nbsp;Further details of the SEPP and SPP can be found in the [Annex](/files/Annex_Details_of_the_SEPP_and_SPP_Regimes_28July2026.pdf).
 
 <b>MINISTRY OF LAW</b><br>
 <b>MINISTRY OF HOME AFFAIRS</b><br>
