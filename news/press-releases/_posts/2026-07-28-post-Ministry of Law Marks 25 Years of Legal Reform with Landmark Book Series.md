@@ -42,7 +42,7 @@ For more information on SGLaw200 events and initiatives, visit <a href="https://
 <b>MINISTRY OF LAW</b><br>
 <b>28 JULY 2026</b>
 
-<b>Annex</b>: <a href="files/Annex_Media_Factsheet__Overview_of_Law_Reform_Book_Series_28July2026.pdf">Factsheet - Overview of Law Reform Book Series</a>
+<b>Annex</b>: [Factsheet - Overview of Law Reform Book Series](/files/Annex_Media_Factsheet__Overview_of_Law_Reform_Book_Series_28July2026.pdf)
 
 
 <p class="right-side-updated">Last updated on 28 July 2026</p>
