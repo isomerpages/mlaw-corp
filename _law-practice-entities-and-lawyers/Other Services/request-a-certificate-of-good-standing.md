@@ -94,7 +94,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Requests for a Certificate of Good Standing or a Letter of Confirmation may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (e.g. involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process.</li>
+        <li style="text-align: justify">The estimated processing time for requests for a Certificate of Good Standing or a Letter of Confirmation is 30 working days. Applications with incomplete supporting documents/information, submitted during the peak period from December to April, and/or that are complex, will take longer to process. Complex applications include those involving concurrent appointments, foreign interests in Singapore law practices and/or collaborations between Singapore law practices and foreign law practice entities.</li>
         <li style="text-align: justify">Please also note that the LSRA only issues electronic Certificates of Good Standing or Letters of Confirmation.</li>
       </ul>
     </td>
@@ -107,4 +107,4 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 </tbody></table>
 
 
-<p class="right-side-updated">Last updated on 23 Jul 2025</p>
+<p class="right-side-updated">Last updated on 28 Jul 2026</p>
