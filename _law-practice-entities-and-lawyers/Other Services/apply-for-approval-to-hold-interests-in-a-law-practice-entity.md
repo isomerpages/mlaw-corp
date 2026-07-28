@@ -88,7 +88,7 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The estimated processing time for applications is <b>30 days</b>. Applications with incomplete supporting documents/information, submitted during the peak period from December to April, and/or that are complex, will take longer to process. Complex applications include those involving concurrent appointments, foreign interests in Singapore law practices and/or collaborations between Singapore law practices and foreign law practice entities. You are therefore advised to apply in good time.</li>
+        <li style="text-align: justify">The estimated processing time is <b>30 days</b>. Applications with incomplete supporting documents/information, submitted during the peak period from December to April, and/or that are complex, will take longer to process. Complex applications include those involving concurrent appointments, foreign interests in Singapore law practices and/or collaborations between Singapore law practices and foreign law practice entities. You are therefore advised to apply in good time.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
       </ul>
     </td>
