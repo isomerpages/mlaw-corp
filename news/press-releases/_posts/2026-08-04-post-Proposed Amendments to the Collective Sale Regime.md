@@ -1,5 +1,5 @@
 ---
-title: Proposed Amendments to the Collective Sale Regime
+title: Proposed Amendments to the Collective Sale Regime to Support Renewal of Ageing Developments and Strengthen Owner Safeguards
 permalink: /proposed-amendments-to-the-collective-sale-regime/
 date: 2026-08-04
 layout: post
