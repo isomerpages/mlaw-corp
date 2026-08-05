@@ -1,5 +1,5 @@
 ---
-title: Written Reply on Factors Considered During Appointment of a Chief Justice
+title: Written Reply on Factors and Relative Weightings in Recommending Candidates for Appointment as Chief Justice
 permalink: /written-reply-on-factors-considered-during-appointment-of-a-chief-justice/
 date: 2026-08-05
 layout: post
