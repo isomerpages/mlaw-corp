@@ -1,6 +1,6 @@
 ---
-title: Written Reply on Factors for Appointing Chief Justice
-permalink: /written-reply-on-factors-for-appointing-chief-justice/
+title: Written Reply on Factors Considered During Appointment of a Chief Justice
+permalink: /written-reply-on-factors-considered-during-appointment-of-a-chief-justice/
 date: 2026-08-05
 layout: post
 description: ""
