@@ -15,7 +15,7 @@ variant: markdown
 <b><u>Question</u></b><br>
 To ask the Prime Minister and Minister for Finance what factors are typically weighed in recommending a candidate for appointment as Chief Justice, including the relative weight given to litigation experience, judicial experience, and other forms of legal and public service.
 
-<b><u>Written Answer:</u></b><br>
+<b><u>Written Answer by Minister Edwin Tong SC (for the Prime Minister):</u></b><br>
 {:start="1"}1.&nbsp;The Constitution requires the Prime Minister to advise the President on the appointment of a Chief Justice, and the President, after consulting the Council of Presidential Advisers, makes an independent assessment before the appointment is made. 
 
 {:start="2"}2.&nbsp;In assessing a candidate, a range of factors is considered. These include litigation experience, judicial experience where applicable, leadership and management capabilities, contributions to the development of the law, and other forms of legal and public service. The relative weight given to each factor depends on the individual's overall experience and suitability for the office. No single criterion is determinative.   
