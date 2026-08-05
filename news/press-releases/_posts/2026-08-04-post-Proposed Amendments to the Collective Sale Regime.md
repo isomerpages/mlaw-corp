@@ -1,5 +1,6 @@
 ---
-title: Proposed Amendments to the Collective Sale Regime to Support Renewal of Ageing Developments and Strengthen Owner Safeguards
+title: Proposed Amendments to the Collective Sale Regime to Support Renewal of
+  Ageing Developments and Strengthen Owner Safeguards
 permalink: /proposed-amendments-to-the-collective-sale-regime/
 date: 2026-08-04
 layout: post
@@ -57,15 +58,15 @@ The Bill proposes to stratify the consent thresholds as follows:
 9.&nbsp;&nbsp;&nbsp; Most of the collective sale amendments in the Bill will apply to ongoing collective sale exercises where the first signature to the CSA has not been obtained as of the commencement date of the amendments (i.e. the prescribed date when the proposed amendments come into force). The commencement date will be announced, when ready.
 
 {:start=“10”}
-10. Where the first signature to the CSA has already been obtained before the commencement date, the existing framework will continue to apply, to preserve fairness for owners who have already signed CSAs based on considerations under the current thresholds.
+10.&nbsp;&nbsp;&nbsp; Where the first signature to the CSA has already been obtained before the commencement date, the existing framework will continue to apply, to preserve fairness for owners who have already signed CSAs based on considerations under the current thresholds.
 
 {:start=“11”}
-11. To provide flexibility, CSCs which are in the midst of gathering signatures to the CSA as at the commencement date will be allowed to convene general meetings to decide whether to terminate the CSA and, if so, to approve terms for a new CSA which will be subject to the enhanced collective sale regime. Such CSCs will be allowed 7 months from the commencement date to achieve the requisite consent threshold for the new CSA, to ensure collective sale attempts are not prolonged excessively.
+11.&nbsp;&nbsp;&nbsp; To provide flexibility, CSCs which are in the midst of gathering signatures to the CSA as at the commencement date will be allowed to convene general meetings to decide whether to terminate the CSA and, if so, to approve terms for a new CSA which will be subject to the enhanced collective sale regime. Such CSCs will be allowed 7 months from the commencement date to achieve the requisite consent threshold for the new CSA, to ensure collective sale attempts are not prolonged excessively.
 
 **SECOND READING OF THE BILL**
 
 {:start=“12”}
-12. The Bill will be tabled for a Second Reading at the next available Parliament sitting.
+12.&nbsp;&nbsp;&nbsp; The Bill will be tabled for a Second Reading at the next available Parliament sitting.
 
 **MINISTRY OF LAW**
 
@@ -75,4 +76,4 @@ The Bill proposes to stratify the consent thresholds as follows:
 
 * * *
 
-<p><sup id="fn1">Currently, non-strata-titled developments where the flat owners own long leases in their units, but do not own the underlying land, can only undergo collective sale by majority consent if the flat owners own flat leases of at least 850 years. The landowner’s interest in such cases is deemed to be of nominal value, as it is subject to the flat leases of at least 850 years, and the landowner will be deemed to have transferred his/her interest to the purchaser without consideration upon the issuance of a collecti</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p><sup id="fn1">Currently, non-strata-titled developments where the flat owners own long leases in their units, but do not own the underlying land, can only undergo collective sale by majority consent if the flat owners own flat leases of at least 850 years. The landowner’s interest in such cases is deemed to be of nominal value, as it is subject to the flat leases of at least 850 years, and the landowner will be deemed to have transferred his/her interest to the purchaser without consideration upon the issuance of a collective sale order.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
