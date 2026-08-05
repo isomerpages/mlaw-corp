@@ -23,11 +23,11 @@ establishments currently leasing state properties in Gillman Barracks have tenan
 renting the State properties in Gillman Barracks for arts uses. Their tenancies expire between 2026 and 2029. All tenants have been assured that the existing tenancy terms and tenure are unchanged. Tenants can continue to operate at their current location till the end of their tenancies. In addition, those whose tenancies expire before 2029 can also choose to extend their tenancies till end-2029.
 
 {:start="2"}
-The Singapore Land Authority (SLA) has engaged the tenants since 2023 and explained that Gillman Barracks is safeguarded for residential use in the longer term. SLA has also kept tenants informed of the environmental and heritage studies as well
+2. The Singapore Land Authority (SLA) has engaged the tenants since 2023 and explained that Gillman Barracks is safeguarded for residential use in the longer term. SLA has also kept tenants informed of the environmental and heritage studies as well
 as upcoming development works.
 
 {:start="3"}
-SLA is working closely with the National Arts Council (NAC) to advise the tenants of available relocation options, and NAC can also help interested arts tenants connect with suitable alternative spaces and opportunities within Singapore’s arts ecosystem.
+3. SLA is working closely with the National Arts Council (NAC) to advise the tenants of available relocation options, and NAC can also help interested arts tenants connect with suitable alternative spaces and opportunities within Singapore’s arts ecosystem.
 
 
 <p class="right-side-updated">Last updated on 4 August 2026</p>
