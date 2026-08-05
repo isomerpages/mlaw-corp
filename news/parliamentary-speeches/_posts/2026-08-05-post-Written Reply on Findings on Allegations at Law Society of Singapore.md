@@ -18,6 +18,7 @@ informed of the findings and outcomes of the inquiry into allegations made in Se
 
 <b><u>Written Answer by Minister Edwin Tong SC:</u></b><br>
 
+
 {:start="1"}
 1. On 13 September 2025, the Ministry of Law and the Ministry of Manpower received an anonymous email containing a set of concerning allegations and complaints against certain persons and practices within the Law Society of Singapore (LawSoc). This was sent by MinLaw to the then-Council of LawSoc (LawSoc Council), to investigate. LawSoc Council appointed the LawSoc’s Audit Committee to investigate the matter and make the appropriate recommendations. The Audit Committee, which comprised both LawSoc members and non-members, conducted the investigation independent Council.
 
