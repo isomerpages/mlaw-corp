@@ -1,6 +1,6 @@
 ---
-title: Oral Answer by Senior Minister of State for Law Mr Murali Pillai
-permalink: /oral-answer-by-senior-minister-of-state-for-law-mr-murali-pillai/
+title: Oral Answer by Senior Minister of State for Law Mr Murali Pillai on the Singapore Land Authority Data Security Incident
+permalink: /oral-answer-by-senior-minister-of-state-for-law-mr-murali-pillai-on-the-singapore-land-authority-data-security-incident/
 date: 2026-08-05
 layout: post
 description: ""
