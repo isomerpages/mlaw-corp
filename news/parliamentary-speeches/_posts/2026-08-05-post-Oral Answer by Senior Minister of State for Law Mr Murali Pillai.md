@@ -1,5 +1,6 @@
 ---
-title: Oral Answer by Senior Minister of State for Law Mr Murali Pillai on the Singapore Land Authority Data Security Incident
+title: Oral Answer by Senior Minister of State for Law Mr Murali Pillai on the
+  Singapore Land Authority Data Security Incident
 permalink: /oral-answer-by-senior-minister-of-state-for-law-mr-murali-pillai-on-the-singapore-land-authority-data-security-incident/
 date: 2026-08-05
 layout: post
@@ -25,3 +26,5 @@ To ask the Minister for Law regarding unauthorised access to a vendor-managed Si
 
 {:start="3"}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The appropriate contractual action will be determined after the full facts and respective responsibilities have been established. SLA is investigating the matter.
+
+<p class="right-side-updated">Last updated on 5 August 2026</p>
