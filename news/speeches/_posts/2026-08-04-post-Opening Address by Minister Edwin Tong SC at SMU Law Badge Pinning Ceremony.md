@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
- Prof Lee Pey Woan, Dean of SMU Yong Pung How School of Law
+Prof Lee Pey Woan, Dean of SMU Yong Pung How School of Law
 
 Our distinguished guests
 
@@ -110,15 +110,15 @@ Ladies and gentlemen
 {:start="29"}
 29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But let me assure you that we are not standing still. In fact, just last week, the Singapore Academy of Law (SAL) convened the Legal Profession Symposium to discuss many of these issues. After the Symposium, I met with senior members of the judiciary (and that includes the incoming Chief Justice), SAL, the Law Society, the Singapore Corporate Counsel Association (because in-house counsel is a big part of our profession), as well as the senior partners from law firms from around Singapore (including the top four largest law firms in Singapore) and in-house counsel teams, to discuss previous days’ findings and learnings, and to agree on next steps. I can tell you there was a very strong commitment from all parties to work together. Some of the takeaways from that meeting includes the following:
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Giving students a more structured and substantive exposure to legal practice.
+<p style="margin-left: 40px">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Giving students a more structured and substantive exposure to legal practice.
 
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encouraging our law firms to expand overseas, to build more regional offices, to have a stronger ASEAN presence, to serve ASEAN from Singapore, or maybe serve the broader Asia from Singapore. That itself will also give you more opportunities.
+</p><p style="margin-left: 40px">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encouraging our law firms to expand overseas, to build more regional offices, to have a stronger ASEAN presence, to serve ASEAN from Singapore, or maybe serve the broader Asia from Singapore. That itself will also give you more opportunities.
 
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building stronger links between Singapore lawyers and our Singapore companies who venture outside Singapore to expand, to invest, and to build businesses.
+</p><p style="margin-left: 40px">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building stronger links between Singapore lawyers and our Singapore companies who venture outside Singapore to expand, to invest, and to build businesses.
 
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Providing training in AI and leadership. AI is a phenomenon. It will impact the way you study. It will impact your curriculum and pedagogy in law schools. It will also impact the way in which you learn and continue to learn whilst in practice.
+</p><p style="margin-left: 40px">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Providing training in AI and leadership. AI is a phenomenon. It will impact the way you study. It will impact your curriculum and pedagogy in law schools. It will also impact the way in which you learn and continue to learn whilst in practice.
 
-(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developing clearer workplace code of conduct that will govern behaviour and conduct, and set a benchmark and standard that which we must comply with, that we should aspire towards, and that we will work at ensuring that the legal profession will not be tarnished by those who display abusive or demeaning behaviour. Likewise, the judiciary, moving in tandem, made clear that such behaviour will not be tolerated.
+</p><p style="margin-left: 40px">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developing clearer workplace code of conduct that will govern behaviour and conduct, and set a benchmark and standard that which we must comply with, that we should aspire towards, and that we will work at ensuring that the legal profession will not be tarnished by those who display abusive or demeaning behaviour. Likewise, the judiciary, moving in tandem, made clear that such behaviour will not be tolerated.
 
 {:start="30"}
 30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So there is much to do. But I am optimistic, because when I was in the room, there was a very clear and distinct sense of shared commitment and determination to not just address the issues, but to find viable solutions.
@@ -295,4 +295,4 @@ Ladies and gentlemen
 {:start="86"}
 86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So on that note, congratulations once again. Thank you for having me.
 
-<p class="right-side-updated">Last updated on 4 August 2026</p>
+</p><p class="right-side-updated">Last updated on 4 August 2026</p>
