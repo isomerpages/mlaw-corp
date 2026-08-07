@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-        
-
 Honourable Judges,
 
 Fellow Members of the Bar,
@@ -19,17 +17,24 @@ Ladies and Gentlemen
 
 **Introduction**
 
+{:start="1"}
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good evening, everyone.
 
+{:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to start by thanking all of you for your presence. I think that is perhaps the most important and the most significant step that we can take.
 
+{:start="3"}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Earlier on, I heard “What do we do?”, “Where do we go from here?” And so on. The fact that we are present, exchanging ideas frankly with a lot of candour, speaking honestly, looking at ourselves and our own firms – that has been a big step. So thank you very much to all of you for being here.
 
+{:start="4"}
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would also like to start by thanking the Singapore Academy of Law (SAL) for not just inviting me here today, but really organising the entire Symposium. It did not come easy because it took some time – over the course of the last few months to get us – to where we are today. So thank you very much to SAL for today’s event.
 
+{:start="5"}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was not able to join you for today’s discussions and dialogues, but I have been kept informed of what you have been discussing – the points that have come up and the suggestions. I was told that participation was active, with a very open sharing of ideas throughout this Symposium.
 
+{:start="6"}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From what I have heard, there is a broad agreement on the challenges that faces our profession. I think we are less clear on what steps to take, but I think it is a very good first step. More importantly, there has been a genuine determination, not just to understand what the issues are, and understand that there have been problems that have been raised in the past, but there is a determination to fix it. There is a determination to take solid, concrete action and identify practical solutions. That is encouraging, because the future of our profession will be shaped by the choices that we make today.
+{:start="1"}
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of how we see the pipeline of talent coming through, the sustainability of practice as we understand it to be, and how we would like it to be, we are really at a critical inflection point. I think it is important for us to really sit up, pay attention, and not just look at it as a cost or investment, as the panel said earlier, but really as something that defines the future of this profession.
 
