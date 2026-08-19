@@ -1,6 +1,6 @@
 ---
-title: Book Launch Speech by SMS Murali Pillai
-permalink: /book-launch-speech-by-sms-murali-pillai/
+title: Speech by Senior Minister of State Murali Pillai SC at the Book Launch of 'Unspoken Words' and 'Children of Metropolis' by Dr H M Saleem 
+permalink: /book-launch-unspoken-words-children-of-metropolis-speech-by-sms-murali-pillai/
 date: 2026-08-15
 layout: post
 description: ""
