@@ -31,9 +31,9 @@ variant: markdown
 
 * **Capacity-Building Workshops** on 25 and 27 August will offer practical insights and interactive learning designed for the future legal landscape.
 
-<p style="margin-left: 80px">i. Held in partnership with the Singapore International Mediation Centre (SIMC), the **Industry Workshop** will explore how AI tools can support mediators in managing complex, multi-party, and cross-border disputes, alongside key considerations on responsible use, access to justice, and emerging governance frameworks.</p>
+<p style="margin-left: 80px">i. Held in partnership with the Singapore International Mediation Centre (SIMC), the Industry Workshop will explore how AI tools can support mediators in managing complex, multi-party, and cross-border disputes, alongside key considerations on responsible use, access to justice, and emerging governance frameworks.</p>
 
-<p style="margin-left: 80px">ii. The **Government Workshop** will feature a special session with ministers and senior government leaders sharing their jurisdictions’ progress towards adoption of the Convention. Panellists will provide government and institutional perspectives on the Convention's practical implementation, followed by a discussion for invited officials on dispute mitigation and advanced mediation techniques anchored on a hypothetical investor-State scenario.</p>
+<p style="margin-left: 80px">ii. The Government Workshop will feature a special session with ministers and senior government leaders sharing their jurisdictions’ progress towards adoption of the Convention. Panellists will provide government and institutional perspectives on the Convention's practical implementation, followed by a discussion for invited officials on dispute mitigation and advanced mediation techniques anchored on a hypothetical investor-State scenario.</p>
 
 <b>Partner Events</b> 
 
@@ -61,7 +61,6 @@ variant: markdown
 
 
 <b>MINISTRY OF LAW</b><br>
-<b>23 AUGUST 2026
+<b>23 AUGUST 2026</b>
 
 <p class="right-side-updated">Last updated on 23 August 2026</p>
-</b>
