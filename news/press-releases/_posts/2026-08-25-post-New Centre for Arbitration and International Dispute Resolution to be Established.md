@@ -1,6 +1,6 @@
 ---
 title: New Centre for Arbitration and International Dispute Resolution to be
-  Established 
+  Established
 permalink: /new-centre-for-arbitration-and-international-dispute-resolution-to-be-established/
 date: 2026-08-25
 layout: post
@@ -28,7 +28,7 @@ variant: markdown
 5.&nbsp;The Centre will develop a rigorous, research-led and interdisciplinary programme of advanced studies in international arbitration. The programme will combine advanced legal studies and research-led teaching with exposure to business, technology as well as engagement with leading international arbitrators, counsel, institutions and academics. It will strive to set a global benchmark in advanced education and professional development of future leaders in international arbitration. 
 
 {:start=“6”}
-6.&nbsp;Minister Tong said: “Singapore strongly supports multilateralism, and a dispute resolution system which is trusted, is rules based and which applies fairly.  We will do our best to contribute towards the strengthening of a framework to support such a system. This will include innovative research and fresh thinking, in order to evolve the framework, and keep it relevant and fit for purpose. As an international dispute resolution hub in the heart of Asia, we believe that Singapore is well placed to contribute to these efforts, by bringing together global thought leaders with different perspectives from across the region and beyond.”
+6.&nbsp;Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC said: “Singapore strongly supports multilateralism, and a dispute resolution system which is trusted, is rules based and which applies fairly.  We will do our best to contribute towards the strengthening of a framework to support such a system. This will include innovative research and fresh thinking, in order to evolve the framework, and keep it relevant and fit for purpose. As an international dispute resolution hub in the heart of Asia, we believe that Singapore is well placed to contribute to these efforts, by bringing together global thought leaders with different perspectives from across the region and beyond.”
 
 {:start=“7”}
 7.&nbsp;Professor Brekoulakis said: “International arbitration is entering a period of significant change. The challenges facing the field require fresh thinking about how the system can remain effective, credible and responsive to a changing global economy. I look forward to working with colleagues across academia, practice and policymaking to address these challenges and contribute to shaping the future of international arbitration. The Centre will bring together rigorous scholarship and the advanced practical understanding, with the ambition of establishing Singapore as a leading global centre for thought leadership and advanced education in international dispute resolution. I am grateful to the Ministry of Law for their commitment and support in making this important initiative possible.”
