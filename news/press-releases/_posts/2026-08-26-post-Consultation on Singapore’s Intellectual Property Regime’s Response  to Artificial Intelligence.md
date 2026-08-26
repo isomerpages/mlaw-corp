@@ -54,7 +54,7 @@ variant: markdown
 
 
 <b>MINISTRY OF LAW</b><br>
-<b>INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**</b><br>
+<b>INTELLECTUAL PROPERTY OFFICE OF SINGAPORE</b><br>
 <b>26 AUGUST 2026</b>
 
 <p class="right-side-updated">Last updated on 26 August 2026</p>
