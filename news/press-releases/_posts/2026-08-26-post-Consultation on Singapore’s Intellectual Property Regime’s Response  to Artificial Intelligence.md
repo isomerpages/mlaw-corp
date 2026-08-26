@@ -51,10 +51,11 @@ variant: markdown
 
 <p style="margin-left: 40px"><b>By Email:</b></p>
 
-<p style="margin-left: 40px">[MLAW\_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
+<p style="margin-left: 40px">[MLAW\_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)</p>
 
-**MINISTRY OF LAW**
 
-**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
+<b>MINISTRY OF LAW</b><br>
+<b>INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**</b><br>
+<b>26 AUGUST 2026</b>
 
-**26 AUGUST 2026**</p>
+<p class="right-side-updated">Last updated on 26 August 2026</p>
