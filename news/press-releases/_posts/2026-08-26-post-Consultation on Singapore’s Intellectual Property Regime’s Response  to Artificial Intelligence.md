@@ -45,9 +45,9 @@ variant: markdown
 
 <p style="margin-left: 40px"><b>By FormSG:</b></p>
 
-<p style="margin-left: 40px">For copyright-related feedback: [go.gov.sg/ai-ip2026-copyright](https://go.gov.sg/ai-ip2026-copyright)
+<p style="margin-left: 40px">For copyright-related feedback: [go.gov.sg/ai-ip2026-copyright](https://go.gov.sg/ai-ip2026-copyright)</p>
 
-</p><p style="margin-left: 40px">For patents-related feedback: [go.gov.sg/ai-ip2026-patents](https://go.gov.sg/ai-ip2026-patents)</p>
+<p></p><p style="margin-left: 40px">For patents-related feedback: [go.gov.sg/ai-ip2026-patents](https://go.gov.sg/ai-ip2026-patents)</p>
 
 <p style="margin-left: 40px"><b>By Email:</b></p>
 
