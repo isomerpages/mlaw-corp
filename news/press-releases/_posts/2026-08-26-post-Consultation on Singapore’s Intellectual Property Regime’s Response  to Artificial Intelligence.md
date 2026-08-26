@@ -45,13 +45,12 @@ variant: markdown
 
 <p style="margin-left: 40px"><b>By FormSG:</b></p>
 
-<p style="margin-left: 40px">For copyright-related feedback: [go.gov.sg/ai-ip2026-copyright](https://go.gov.sg/ai-ip2026-copyright)</p>
-
-<p></p><p style="margin-left: 40px">For patents-related feedback: [go.gov.sg/ai-ip2026-patents](https://go.gov.sg/ai-ip2026-patents)</p>
+<p style="margin-left: 40px">For copyright-related feedback: <a href="https://go.gov.sg/ai-ip2026-copyright">go.gov.sg/ai-ip2026-copyright</a></p><br>
+<p style="margin-left: 40px">For patents-related feedback: <a href="https://go.gov.sg/ai-ip2026-patents">go.gov.sg/ai-ip2026-patents</a></p>
 
 <p style="margin-left: 40px"><b>By Email:</b></p>
 
-<p style="margin-left: 40px">[MLAW\_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)</p>
+<p style="margin-left: 40px"><a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 <b>MINISTRY OF LAW</b><br>
