@@ -87,12 +87,25 @@ for innovation as AI-generated material becomes more publicly available
 <p>Please provide your feedback by 22 October 2026, 5 PM. Feedback may be
 submitted via either FormSG or via email to MinLaw:</p>
 <p><strong>By FormSG:</strong> 
-<br>For copyright-related feedback: <a href="https://go.gov.sg/ai-ip2026-copyright" rel="noopener nofollow" target="_blank">go.gov.sg/ai-ip2026-copyright</a>
-<br>For patents-related feedback: <a href="https://go.gov.sg/ai-ip2026-patents" rel="noopener nofollow" target="_blank">go.gov.sg/ai-ip2026-patents</a>
 </p>
-<p><strong>By Email: </strong>
-<br><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>For copyright-related feedback: <a href="https://go.gov.sg/ai-ip2026-copyright" rel="noopener nofollow" target="_blank">go.gov.sg/ai-ip2026-copyright</a>
 </p>
+</li>
+<li>
+<p>For patents-related feedback: <a href="https://go.gov.sg/ai-ip2026-patents" rel="noopener nofollow" target="_blank">go.gov.sg/ai-ip2026-patents</a>
+</p>
+</li>
+</ul>
+<p><strong>By Email:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a> 
+</p>
+</li>
+</ul>
 <p>When providing your responses, please include your name, contact number,
 and email address, so that we may contact you if there are any follow-up
 questions.</p>
