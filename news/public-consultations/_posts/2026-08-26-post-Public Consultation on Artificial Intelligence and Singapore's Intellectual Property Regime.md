@@ -90,7 +90,7 @@ submitted via either FormSG or via email to MinLaw:</p>
 <br>For patents-related feedback: <a href="https://go.gov.sg/ai-ip2026-patents" rel="noopener nofollow" target="_blank">go.gov.sg/ai-ip2026-patents</a>
 </p>
 <p>By Email:
-<br><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a> 
+<br><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 <p>When providing your responses, please include your name, contact number,
 and email address, so that we may contact you if there are any follow-up
