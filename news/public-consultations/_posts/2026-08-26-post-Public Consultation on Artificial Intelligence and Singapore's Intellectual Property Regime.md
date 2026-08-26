@@ -86,7 +86,7 @@ for innovation as AI-generated material becomes more publicly available
 <h4><strong>Providing feedback</strong></h4>
 <p>Please provide your feedback by 22 October 2026, 5 PM. Feedback may be
 submitted via either FormSG or via email to MinLaw:</p>
-<p><strong>By FormSG:</strong> 
+<p><strong>By FormSG:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,7 +102,7 @@ submitted via either FormSG or via email to MinLaw:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a> 
+<p><a href="mailto:MLAW_Consultation@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 </li>
 </ul>
