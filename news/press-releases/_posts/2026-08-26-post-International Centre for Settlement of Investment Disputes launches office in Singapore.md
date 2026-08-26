@@ -40,5 +40,4 @@ variant: markdown
 <b>INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES</b><br>
 <b>26 AUGUST 2026</b>
 
-<p class="right-side-updated">Last updated on 28 July 2026</p>
-
+<p class="right-side-updated">Last updated on 28 August 2026</p>
