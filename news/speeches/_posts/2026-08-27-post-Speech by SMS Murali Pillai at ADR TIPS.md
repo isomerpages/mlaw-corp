@@ -1,5 +1,5 @@
 ---
-title: Speech by SMS Murali Pillai at ADR TIPS
+title: Keynote Address by Mr Murali Pillai SC, Senior Minister of State for Law and Transport at the Appropriate Dispute Resolution for Technology and Intellectual Property in Singapore
 permalink: /speech-by-sms-murali-pillai-at-adr-tips/
 date: 2026-08-27
 layout: post
