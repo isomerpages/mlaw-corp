@@ -9,7 +9,7 @@ variant: markdown
 ---
 25 August 2026 Posted in [Speeches](/news/speeches)
 
-Ms** Anna Joubin-Bret**, Secretary of UNCITRAL
+Ms **Anna Joubin-Bret**, Secretary of UNCITRAL
 Excellencies
 Judges
 Distinguished guests
@@ -187,8 +187,8 @@ Ladies and gentlemen
 {:start="52"}
 52.&nbsp;&nbsp;I myself am very pleased that the Centre will be led by Professor Stavros Brekoulakis. Professor Stavros, whom I am sure is known to most of you, if not all of you, has a pre-eminent reputation, and is internationally recognised as one of the world's leaders in international arbitration, combining academic excellence with extensive practical experience as counsel, arbitrator as well as advisor. Above all, in my conversations with Professor Stavros, he is deeply committed to strengthening the international dispute resolution framework, continue to keep it relevant, evolve it, and serve the needs of tomorrow before it becomes outdated and redundant. I can really think of no better individual to lead this very important endeavour.
 
-*Centre’s Programme
-*
+*Centre’s Programme*
+
 {:start="53"}
 53.&nbsp;&nbsp;The Centre will also launch a new programme of advanced studies in international arbitration.
 
