@@ -1,6 +1,6 @@
 ---
-title: Welcome Address by Minister at UNCITRAL Academy Conference
-permalink: /welcome-address-by-minister-at-uncitral-academy-conference/
+title: Welcome Address by Minister Edwin Tong SC at UNCITRAL Academy Conference: "Timeless Principles, Timely Solutions: Nurturing Trust in a Changing World"
+permalink: /welcome-address-by-minister-edwin-tong-sc-at-uncitral-academy-conference/
 date: 2026-08-25
 layout: post
 description: ""
