@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
+**“Future of Commercial Diplomacy:  
+Mediation Amidst Disruptive Technologies and Geopolitics”**
+
 Your Excellencies
 
 **Mr George Lim SC**, Chairman of SIMC
