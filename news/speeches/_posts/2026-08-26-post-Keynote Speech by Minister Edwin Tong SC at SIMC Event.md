@@ -1,5 +1,5 @@
 ---
-title: Keynote Speech by Minister Edwin Tong SC at SIMC Event
+title: Keynote Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at Singapore International Mediation Centre (SIMC) Event
 permalink: /keynote-speech-by-minister-edwin-tong-sc-at-simc-event/
 date: 2026-08-26
 layout: post
