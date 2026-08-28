@@ -1,6 +1,6 @@
 ---
-title: Remarks by Minister for Law and Second Minister for Home Affairs
-permalink: /remarks-by-minister-for-law-and-second-minister-for-home-affairs/
+title: Remarks by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the Launch of the ICSID Singapore Office
+permalink: /remarks-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc-launch-of-icsid-singapore-office/
 date: 2026-08-26
 layout: post
 description: ""
