@@ -212,40 +212,35 @@ Ladies and Gentlemen
 {:start="55"}
 55.&nbsp;&nbsp;And companies who restructure their supply chains, as part of "friend-shoring" or "reshoring" production away from geopolitically exposed suppliers, will likely see:
 
+<p style="margin-left: 40px">1) More disputes relating to early termination of long-term supply contracts;</p>
+<p style="margin-left: 40px">2) Disputes over relocation and requalification costs; and</p>
+<p style="margin-left: 40px">3) Disagreements over whether these relocations count as a force majeure event or a unilateral breach.</p>
+
 {:start="56"}
-56.&nbsp;&nbsp;More disputes relating to early termination of long-term supply contracts;
+56.&nbsp;&nbsp;These shifts can also be seen in the composition of caseloads. Trade disputes dominated the Singapore International Arbitration Centre's (SIAC) entire 2025 caseload, totalling 346 cases, or 39% of all cases.
 
 {:start="57"}
-57.&nbsp;&nbsp;Disputes over relocation and requalification costs; and
+57.&nbsp;&nbsp;Major institutions have already acted to introduce measures to expedite proceedings, given how quickly trade and tariff policy can change. I think we all know that. SIAC's 2025 Rules raised the threshold for its Expedited Procedure from S$6 million to S$10 million, broadening the range of cases that qualify for this process, where an award is rendered within six months.
 
 {:start="58"}
-58.&nbsp;&nbsp;Disagreements over whether these relocations count as a force majeure event or a unilateral breach.
+58.&nbsp;&nbsp;SIAC also introduced a new Streamlined Procedure, for cases where the sum in dispute is below S$1 million. Under this procedure, the sole arbitrator renders a final award within three months.
 
 {:start="59"}
-59.&nbsp;&nbsp;These shifts can also be seen in the composition of caseloads. Trade disputes dominated the Singapore International Arbitration Centre's (SIAC) entire 2025 caseload, totalling 346 cases, or 39% of all cases.
-
-{:start="60"}
-60.&nbsp;&nbsp;Major institutions have already acted to introduce measures to expedite proceedings, given how quickly trade and tariff policy can change. I think we all know that. SIAC's 2025 Rules raised the threshold for its Expedited Procedure from S$6 million to S$10 million, broadening the range of cases that qualify for this process, where an award is rendered within six months.
-
-{:start="61"}
-61.&nbsp;&nbsp;SIAC also introduced a new Streamlined Procedure, for cases where the sum in dispute is below S$1 million. Under this procedure, the sole arbitrator renders a final award within three months.
-
-{:start="62"}
-62.&nbsp;&nbsp;Similarly, the International Chamber of Commerce (ICC) Court of Arbitration's new 2026 Rules, which took effect in June, raised the threshold for automatic expedited procedure from US$3 million to US$4 million and introduced a new Highly Expedited Arbitration procedure, where parties have the option of receiving an arbitral award within three months.
+59.&nbsp;&nbsp;Similarly, the International Chamber of Commerce (ICC) Court of Arbitration's new 2026 Rules, which took effect in June, raised the threshold for automatic expedited procedure from US$3 million to US$4 million and introduced a new Highly Expedited Arbitration procedure, where parties have the option of receiving an arbitral award within three months.
 
 **Conclusion**
 
+{:start="60"}
+60.&nbsp;&nbsp;These responses are proof of the power of process. Today, there are, perhaps more than any time in history, a great many unknowns, but these are, with right mechanisms, knowable. We do not know how disputes may arise, we do not know how they will end, but we can know one thing – we can know how they will be resolved.
+
+{:start="61"}
+61.&nbsp;&nbsp;Through reason, good faith and commitment to process, we can underwrite a strong dispute resolution system, one that is able to provide binding awards and judgments, even in areas such as climate change and trade, where there is a lack of international consensus.
+
+{:start="62"}
+62.&nbsp;&nbsp;Through this, we, as a dispute resolution community, can inspire wider societies, and governments that lead them, to make common cause in addressing the challenges that define our generation and those many yet to come.
+
 {:start="63"}
-63.&nbsp;&nbsp;These responses are proof of the power of process. Today, there are, perhaps more than any time in history, a great many unknowns, but these are, with right mechanisms, knowable. We do not know how disputes may arise, we do not know how they will end, but we can know one thing – we can know how they will be resolved.
-
-{:start="64"}
-64.&nbsp;&nbsp;Through reason, good faith and commitment to process, we can underwrite a strong dispute resolution system, one that is able to provide binding awards and judgments, even in areas such as climate change and trade, where there is a lack of international consensus.
-
-{:start="65"}
-65.&nbsp;&nbsp;Through this, we, as a dispute resolution community, can inspire wider societies, and governments that lead them, to make common cause in addressing the challenges that define our generation and those many yet to come.
-
-{:start="66"}
-66.&nbsp;&nbsp;I wish everyone an insightful session. Thank you.
+63.&nbsp;&nbsp;I wish everyone an insightful session. Thank you.
 
 
 <p class="right-side-updated">Last updated on 26 August 2026</p>
