@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 {:start=“1”}
 1.&nbsp;From 1 September 2026, residents across Singapore will have stronger support to resolve neighbour disputes more effectively and at an earlier stage through mediation. The Mediation Direction framework, which allows disputing neighbours to be required to attend mediation, and Community Relations Unit (CRU) deployment, will be expanded nationwide. This means that neighbours involved in disagreements can be directed to attend mediation early to resolve their differences amicably.
 
