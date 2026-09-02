@@ -49,7 +49,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 September 2026 (Thurs) 1930 hrs to 3 September 2026 (Thurs) 2100 hrs</p>
+<p>21 August 2026 (Fri) 2300 hrs to 22 August 2026 (Sat) 1200 hrs</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 September 2026 (Thurs) 1930 hrs to 3 September 2026 (Thurs) 2100 hrs</p>
+<p>21 August 2026 (Fri) 2300 hrs to 22 August 2026 (Sat) 1200 hrs</p>
 </td>
 </tr>
 <tr>
