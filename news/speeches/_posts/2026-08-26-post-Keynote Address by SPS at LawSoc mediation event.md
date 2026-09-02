@@ -1,6 +1,6 @@
 ---
-title: Keynote Address by SPS at LawSoc mediation event
-permalink: /keynote-address-by-sps-at-lawsoc-mediation-event/
+title: Keynote Address by Senior Parliamentary Secretary, Ministry of Law and Ministry of Social and Family Development, Mr Eric Chua at the ‘Mediation Through Asian Perspectives: Building Trust in Commercial Dispute Resolution’ Seminar by The Law Society of Singapore
+permalink: /keynote-address-by-sps-eric chua-at-law-society-mediation-seminar/
 date: 2026-08-26
 layout: post
 description: ""
