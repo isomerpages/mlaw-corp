@@ -1,5 +1,7 @@
 ---
-title: Remarks by Senior Minister of State, Ministry of Law & Ministry of Transport, Mr Murali Pillai SC at the Book Launch of The Singapore Torrens System After Baalman
+title: Remarks by Senior Minister of State, Ministry of Law & Ministry of
+  Transport, Mr Murali Pillai SC at the Book Launch of The Singapore Torrens
+  System After Baalman
 permalink: /remarks-by-senior-minister-of-state-mr-murali-pillai-sc-at-the-book-launch-of-the-singapore-torrens-system-after-baalman/
 date: 2026-09-04
 layout: post
@@ -70,11 +72,11 @@ Ladies and gentlemen,
 {:start="13"}
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Torrens system addressed this directly. **At its heart is the indefeasibility of title, backed by three key principles:** &nbsp;
 
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp; First, the mirror principle — which means that our land titles register should accurately reflect all interests in the land;
+<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp; First, the mirror principle — which means that our land titles register should accurately reflect all interests in the land;</p>
 
-</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp; Second, the curtain principle — a purchaser need not look behind the register; and
+<p></p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp; Second, the curtain principle — a purchaser need not look behind the register; and</p>
 
-</p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp; Third, the insurance principle — where the system causes loss, there is a mechanism for compensation.
+<p></p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp; Third, the insurance principle — where the system causes loss, there is a mechanism for compensation.</p>
 
 {:start="14"}
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Section 46 of the Land Titles Act 1993 (“**the Act**”) provides that the registered proprietor of land holds that title free from all encumbrances, liens, estates, and interests whatsoever, except those recorded on the register and the overriding interests specified in the Act.
@@ -182,4 +184,4 @@ Ladies and gentlemen,
 {:start="45"}
 45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.
 
-</p><p class="right-side-updated">Last updated on 4 September 2026</p>
+<p></p><p class="right-side-updated">Last updated on 4 September 2026</p>
