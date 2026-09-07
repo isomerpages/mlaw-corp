@@ -1,6 +1,6 @@
 ---
-title: Remarks by Senior Minister of State Mr Murali Pillai SC at the Book Launch
-permalink: /remarks-by-senior-minister-of-state-mr-murali-pillai-sc-at-the-book-launch/
+title: Remarks by Senior Minister of State, Ministry of Law & Ministry of Transport, Mr Murali Pillai SC at the Book Launch of The Singapore Torrens System After Baalman
+permalink: /remarks-by-senior-minister-of-state-mr-murali-pillai-sc-at-the-book-launch-of-the-singapore-torrens-system-after-baalman/
 date: 2026-09-04
 layout: post
 description: ""
