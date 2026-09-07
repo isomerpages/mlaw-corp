@@ -1,6 +1,5 @@
 ---
-title: Opening Address by Minister Edwin Tong SC at SMU Yong Pung How School of
-  Law’s Badge Pinning Ceremony
+title: Opening Address by Minister for Law and Second Minister Edwin Tong SC at SMU Yong Pung How School of Law’s Badge Pinning Ceremony
 permalink: /opening-address-by-minister-edwin-tong-sc-at-smu-yong-pung-how-school-of-law-badge-pinning-ceremony/
 date: 2026-08-04
 layout: post
