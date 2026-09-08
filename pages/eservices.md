@@ -49,6 +49,8 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>9 September 2026 (Wed) 1800 hrs to 9 September 2026 (Wed) 2200 hrs</p>
+<p></p>
 <p>11 September 2026 (Fri) 1630 hrs to 11 September 2026 (Fri) 1900 hrs</p>
 </td>
 </tr>
