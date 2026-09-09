@@ -30,7 +30,7 @@ impact on lawyer wellbeing.</p>
 </p>
 <p>To ask the Minister for Law whether the Ministry intends to issue guidelines
 or implement statutory rules on the usage of artificial intelligence (AI)
-tools in legal practice. XX</p>
+tools in legal practice. </p>
 <p><strong><u>Written Answer</u></strong>
 </p>
 {:start="1"}
