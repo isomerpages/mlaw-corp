@@ -1,5 +1,6 @@
 ---
-title: Opening Remarks by Senior Minister of State for Law and Transport Mr Murali Pillai SC at TechLawFest 2026
+title: Opening Remarks by Senior Minister of State for Law and Transport Mr
+  Murali Pillai SC at TechLawFest 2026
 permalink: /opening-remarks-by-sms-murali-at-techlawfest-2026/
 date: 2026-09-09
 layout: post
@@ -103,7 +104,7 @@ Ladies and gentlemen,
 
 35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And here is what is new, some of it as recently as today.
 
-36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, supporting sustainable adoption more broadly. We will launch a new initiative, LegalTech OnDemand, or LTOD, this is a one-stop marketplace that brings together legaltech users, buyers, and providers. So that good AI tools are easier to find and cheaper to adopt. Join the mailing list if you are in practice. And come forward if you are a provider who wants to be listed on LTOD.
+36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, supporting sustainable adoption more broadly. We will launch a new initiative, LegalTech OnDemand, or LTOD, this is a one-stop marketplace that brings together legaltech users, buyers, and providers. So that good AI tools are easier to find and cheaper to adopt. Join the [mailing list](https://form.gov.sg/6a9fe3866c619ec18cd6de83) if you are in practice. And come forward if you are a provider who wants to be listed on LTOD.
 
 37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, enabling responsible innovation. Tomorrow, right here at TechLaw.Fest, MinLaw and the Law Society of Singapore (“LawSoc”) will be hosting The Lion’s Pit. This is a legaltech innovation competition to tackle real industry challenges, which we launched as part of our LegalTech GoWhere effort with the Singapore Academy of Law (“Academy”).
 
