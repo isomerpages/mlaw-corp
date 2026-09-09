@@ -52,6 +52,8 @@ the following dates:</p>
 <p>9 September 2026 (Wed) 1800 hrs to 9 September 2026 (Wed) 2200 hrs</p>
 <p></p>
 <p>11 September 2026 (Fri) 1630 hrs to 11 September 2026 (Fri) 1900 hrs</p>
+<p></p>
+<p>12 September 2026 (Sat) 0900 hrs to 12 September 2026 (Sat) 1700 hrs</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +65,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 August 2026 (Fri) 2300 hrs to 22 August 2026 (Sat) 1200 hrs</p>
+<p>12 September 2026 (Sat) 0900 hrs to 12 September 2026 (Sat) 1700 hrs</p>
 </td>
 </tr>
 <tr>
