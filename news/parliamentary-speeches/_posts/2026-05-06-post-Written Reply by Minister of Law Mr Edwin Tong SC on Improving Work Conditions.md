@@ -19,7 +19,7 @@ variant: markdown
 <p><strong><u>Written Answer</u></strong>
 </p>
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp; This statistic to which the Member refers was derived from media reports following a survey conducted by the Singapore Academy of Law (SAL) before this year’s mass admission ceremony. The survey asked the respondents (all of whom were about to be newly qualified lawyers) whether they were likely to remain in the current organisation, or move to a new law firm; judicial service / legal service / public defender’s office; in-house role / academia; alternate legal service provider, or move out of the profession entirely in the next three years.
+1.&nbsp;&nbsp;&nbsp; This statistic to which the Member refers was derived from media reports following a survey conducted by the Singapore Academy of Law (SAL) before this year’s mass admission ceremony. The survey asked the respondents (all of whom were about to be newly qualified lawyers) whether they were likely to remain in the current organisation, or move to a new law firm; judicial service / legal service / public defender’s office; in-house role / academia; alternate legal service provider, or move out of the profession entirely in the next three years. XX
 
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp; Respondents could select more than one option. 85 of the 289 respondents (or 29%) in employment selected the option that they would move out of the profession entirely. However, of these 85, only 8 (or under 3%) of them selected that option as their sole option, whilst the rest selected another option as well, to stay within the profession. The survey findings have to be considered in the context of this information as well.
