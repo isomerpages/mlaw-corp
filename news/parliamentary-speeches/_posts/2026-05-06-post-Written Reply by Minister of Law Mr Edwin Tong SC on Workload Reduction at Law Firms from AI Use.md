@@ -1,7 +1,7 @@
 ---
-title: Written Reply by Minister of Law Mr Edwin Tong SC on Workload Reduction
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Workload Reduction
   at Law Firms from AI Use and Guidelines for Such Use
-permalink: /written-reply-by-minister-of-law-mr-edwin-tong-sc-on-workload-reduction-at-law-firms-from-ai-use-and-Guidelines-for-Such-Use/
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-workload-reduction-at-law-firms-from-ai-use-and-Guidelines-for-Such-Use/
 date: 2026-05-06
 layout: post
 description: ""
@@ -30,7 +30,7 @@ impact on lawyer wellbeing.</p>
 </p>
 <p>To ask the Minister for Law whether the Ministry intends to issue guidelines
 or implement statutory rules on the usage of artificial intelligence (AI)
-tools in legal practice.</p>
+tools in legal practice. </p>
 <p><strong><u>Written Answer</u></strong>
 </p>
 {:start="1"}
