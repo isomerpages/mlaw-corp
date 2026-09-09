@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Increasing Frequency of Inspection on Trees in Dempsey Area
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Increasing
+  Frequency of Inspection on Trees in Dempsey Area
 permalink: /written-reply-by-minister-edwin-tong-sc-on-frequency-of-inspection-on-trees-in-dempsey-area/
 date: 2026-09-08
 layout: post
@@ -13,8 +14,7 @@ variant: markdown
 <b>Ms Hany Soh (Member of Parliament for the Marsiling-Yew Tee GRC) </b>
 
 <b><u>Question</u></b><br>
-To ask the Minister for Law (a) whether the Ministry has been
-informed of the findings and outcomes of the inquiry into allegations made in September 2025 of workplace issues at the Law Society of Singapore; (b) if so, what are they; and (c) what actions does the Ministry intend to take in response.
+To ask the Minister for Law (a) what is the frequency of checks conducted on trees located on land in the Dempsey area managed by the Singapore Land Authority (SLA); and (b) whether SLA will increase the frequency of checks on these trees to detect trees at risk of falling as early as possible.
 
 <b><u>Written Answer by Minister Edwin Tong SC:</u></b><br>
 
