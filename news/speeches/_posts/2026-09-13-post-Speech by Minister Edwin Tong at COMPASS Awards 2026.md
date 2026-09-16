@@ -9,17 +9,12 @@ variant: markdown
 ---
 26 August 2026 Posted in [Speeches](/news/speeches)
 
-Professor Jeremy Monteiro, Chairman of COMPASS
-
-Board of Directors of COMPASS
-
-Dr Edmund Lam, CEO and Executive Director of COMPASS
-
-All members of COMPASS
-
-Distinguished guests
-
-ladies and gentlemen
+Professor Jeremy Monteiro, Chairman of COMPASS<br>
+Board of Directors of COMPASS<br>
+Dr Edmund Lam, CEO and Executive Director of COMPASS<br>
+All members of COMPASS<br>
+Distinguished guests<br>
+ladies and gentlemen<br>
 
 **Introduction**
 
