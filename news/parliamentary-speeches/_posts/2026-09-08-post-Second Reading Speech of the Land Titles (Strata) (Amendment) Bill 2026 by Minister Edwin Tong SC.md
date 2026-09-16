@@ -176,9 +176,9 @@ variant: markdown
 {:start=“50”}
 50. To support renewal, we propose to recalibrate the consent thresholds for collective sales in older developments. The Bill introduces two new tiers:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for developments aged 40 to 59 years, a new threshold of 70%;
+<p style="margin-left: 40px"> i. for developments aged 40 to 59 years, a new threshold of 70%;</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for developments aged 60 years and older, a new threshold of 65%.
+<p style="margin-left: 40px"> ii. for developments aged 60 years and older, a new threshold of 65%.</p>
 
 {:start=“51”}
 51. The existing 90% and 80% consent thresholds that you see today in the legislation will continue to apply to newer developments, those below 10 years old and those from 10 to 39 years old, respectively.
@@ -243,33 +243,34 @@ variant: markdown
 68. The Strata Titles Board can invalidate a collective sale application if it is satisfied that there has been non-compliance with the requirements in the Land Titles (Strata) Act that prejudices the interest of any person. This can include conduct that approximates what a collective sale process would involve, such as setting up a pro tem committee or by any other name, a committee equivalent to a CSC, or doing something similar to a CSC, without obtaining the requisite thresholds prescribed in legislation.
 
 **_Increased Limit on Court-Ordered Increases for Objectors_**
+
 {:start=“69”}
-
 69. Finally, the Bill also raises the limit on Court-ordered increases to the sale proceeds paid to objectors, from 0.25% to 0.5% of the sale proceeds for each unit, or $2,000 for each unit, whichever is higher.
+
 {:start=“70”}
-
 70. Sir, this provision was first introduced in 2007 as a protection for objectors. It applies where objectors' circumstances are such that the General Division of the High Court is satisfied that it would be just and equitable to order an increase in the proceeds of sale to be received by the objectors.
-{:start=“71”}
 
+{:start=“71”}
 71. Raising this limit provides greater protection to non-consenting owners in such cases, for example, an objector who had invested significantly in renovation works just prior to the collective sale exercise.
 
+
 **THE BALANCE STRUCK**
+
 {:start=“72”}
-
 72. Sir, the two sets of amendments that I have just outlined form an integrated package that facilitates the renewal of older developments, whilst at the same time, providing greater certainty and also stronger protections for non-consenting owners.
+
 {:start=“73”}
-
 73. The lower consent thresholds make broad-based renewal more accessible for genuinely ageing developments where there is support amongst the owners. At the same time, the higher initiation threshold, shorter signature window and extended restriction period ensure that the framework cannot be used to mount repeated, disruptive attempts in developments for which there is really insufficient majority support.
-{:start=“74”}
 
+{:start=“74”}
 74. These two sets of measures are meant to be taken together, as a whole, for balance.
 
 **Extending the Collective Sale Regime to Additional Developments**
+
 {:start=“75”}
-
 75. The amendments also build on the existing substantive protections in the regime – the good faith requirements, the financial loss safeguards, the oversight of the Strata Titles Board as well as the General Division of the High Court, all of which remain fully intact. What this Bill does is add on to the existing framework.
-{:start=“76”}
 
+{:start=“76”}
 76. Sir, in addition to the two broad areas of change, this Bill also makes amendments to expand the collective sale regime for non-strata-titled private residential developments. Specifically, the new section 84FC will allow collective sales when the consent thresholds based on the age of the development are met for private wholly residential non-strata-titled developments, where flat owners hold a leasehold tenure of less than 850 years in their units, but do not own the underlying land.
 
 {:start=“77”}
@@ -283,8 +284,8 @@ variant: markdown
 
 {:start=“80”}
 80. These were developments that were sold as public sector staff benefits many decades ago or owned by Government for security reasons. These five are: Neptune Court, Townhouse Apartments, Orchard Court, One Tree Hill Mansions and Paterson Court. They are all older developments, above 40 years old. MOF (Inc) is prepared to divest its interest in these developments at fair market value.
-{:start=“81”}
 
+{:start=“81”}
 81. At this point, Sir, I would like to declare that Neptune Court falls within my own constituency at Joo Chiat and I have been engaging with residents there over a period of time, including on the subject of collective sale, and have also reflected their views and suggestions to the Government.
 
 {:start=“82”}
