@@ -1,5 +1,6 @@
 ---
-title: Speech by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC at COMPASS Awards Presentation 2026
+title: Speech by Minister for Law and Second Minister for Home Affairs Mr Edwin
+  Tong SC at COMPASS Awards Presentation 2026
 permalink: /speech-by-minister-edwin-tong-at-compass-awards-2026/
 date: 2026-09-13
 layout: post
@@ -132,16 +133,16 @@ ladies and gentlemen<br>
 
 [\[1\]](#_ftnref1) [‘Harder to sing’: Music industry veterans Dick Lee and Jeremy Monteiro weigh in on NDP 2026 songs debate - CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/entertainment/ndp-2026-songs-debate-dick-lee-jeremy-monteiro-587326)
 
-[\[2\]](#_ftnref2) [Jazz pianist Jeremy Monteiro laments stagnant $150 a gig wage for musicians in Singapore | The Straits Times](https://www.straitstimes.com/life/entertainment/jazz-pianist-jeremy-monteiro-laments-stagnant-150-per-gig-wage-for-musicians-in-singapore)
+[\[2\]](#_ftnref2) [Jazz pianist Jeremy Monteiro laments stagnant $150 a gig wage for musicians in Singapore - The Straits Times](https://www.straitstimes.com/life/entertainment/jazz-pianist-jeremy-monteiro-laments-stagnant-150-per-gig-wage-for-musicians-in-singapore)
 
 [\[3\]](#_ftnref3) [AI Music Tops 50% of Daily Uploads on Deezer](https://newsroom-deezer.com/2026/07/ai-music-exceeds-50-percent-daily-uploads-deezer/)
 
 [\[4\]](#_ftnref4) [Deezer and Ipsos study: AI fools 97% of listeners](https://newsroom-deezer.com/2025/11/deezer-ipsos-survey-ai-music/)
 
-[\[5\]](#_ftnref5) [Breaking Rust: AI artist tops US chart for first time as study reveals alarming recognition stats | Euronews](https://www.euronews.com/culture/2025/11/14/breaking-rust-ai-artist-tops-us-chart-for-first-time-as-study-reveals-alarming-recognition)
+[\[5\]](#_ftnref5) [Breaking Rust: AI artist tops US chart for first time as study reveals alarming recognition stats - Euronews](https://www.euronews.com/culture/2025/11/14/breaking-rust-ai-artist-tops-us-chart-for-first-time-as-study-reveals-alarming-recognition)
 
-[\[6\]](#_ftnref6) [AI isn’t art, and certainly not music | The Straits Times](https://www.straitstimes.com/opinion/ai-isn-t-art-and-certainly-not-music)
+[\[6\]](#_ftnref6) [AI isn’t art, and certainly not music - The Straits Times](https://www.straitstimes.com/opinion/ai-isn-t-art-and-certainly-not-music)
 
-[\[7\]](#_ftnref7) https://www.straitstimes.com/opinion/forum/forum-ai-innovation-must-respect-the-rights-of-music-creators
+[\[7\]](#_ftnref7) [https://www.straitstimes.com/opinion/forum/forum-ai-innovation-must-respect-the-rights-of-music-creators](https://www.straitstimes.com/opinion/forum/forum-ai-innovation-must-respect-the-rights-of-music-creators)
 
 <p class="right-side-updated">Last updated on 13 September 2026</p>
