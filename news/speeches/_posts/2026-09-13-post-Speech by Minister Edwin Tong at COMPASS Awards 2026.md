@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister Edwin Tong at COMPASS Awards 2026
+title: Speech by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC at COMPASS Awards Presentation 2026
 permalink: /speech-by-minister-edwin-tong-at-compass-awards-2026/
 date: 2026-09-13
 layout: post
