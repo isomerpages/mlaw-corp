@@ -45,7 +45,7 @@ variant: markdown
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is with these objectives in mind that the collective sale regime under the Land Titles (Strata) Act was introduced, some 27 years ago. Sir, property rights are a very important fundamental right. But in a strata development, ownership is not only about the individual strata title owner.
 
 {:start=“11”}
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As explained in this House when the Bill was moved in 1998 to introduce the collective sale regime for the first time: "Strata developments, unlike landed developments, are founded on the concept of community living, shared ownership of common property in designated values, and individual ownership of strata title which is essentially air space. All these distinguishing features of strata developments support the new approach based on majority consent for en-bloc sales."
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As explained in this House when the Bill was moved in 1998 to introduce the collective sale regime for the first time: "Strata developments, unlike landed developments, are founded on the concept of community living, shared ownership of common property in designated values, and individual ownership of strata title which is essentially air space. All these distinguishing features of strata developments support the new approach based on majority consent for en-bloc sales."<sup><a href="#fn1" id="ref1">1</a></sup>
 
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you own a unit in a condominium, you own your unit, but you are also a co-owner of the common property, together with every other unit owner. Responsibility for the upkeep and for the maintenance of the common property, the shared infrastructure, rests not with any one owner, but with all owners, collectively.
 
@@ -240,5 +240,7 @@ variant: markdown
 92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These amendments recalibrate the framework accordingly – making renewal more accessible where there is genuine majority support, whilst at the same time, ensuring that owners are protected from repeated and disruptive attempts where there is not.
 
 93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Deputy Speaker, Sir, I beg to move.
+
+<p><sup id="fn1"> Source[Source](https://sprs.parl.gov.sg/search/#/topic?reportid=019_19980731_S0003_T0008)</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
 <p></p><p class="right-side-updated">Last updated on 8 September 2026</p>
