@@ -176,9 +176,9 @@ variant: markdown
 {:start=“50”}
 50. To support renewal, we propose to recalibrate the consent thresholds for collective sales in older developments. The Bill introduces two new tiers:
 
-<p style="margin-left: 40px"> i. for developments aged 40 to 59 years, a new threshold of 70%;</p>
+<p style="margin-left: 40px">i.&nbsp;&nbsp;&nbsp; for developments aged 40 to 59 years, a new threshold of 70%;</p>
 
-<p style="margin-left: 40px"> ii. for developments aged 60 years and older, a new threshold of 65%.</p>
+<p style="margin-left: 40px">ii.&nbsp;&nbsp;&nbsp; for developments aged 60 years and older, a new threshold of 65%.</p>
 
 {:start=“51”}
 51. The existing 90% and 80% consent thresholds that you see today in the legislation will continue to apply to newer developments, those below 10 years old and those from 10 to 39 years old, respectively.
