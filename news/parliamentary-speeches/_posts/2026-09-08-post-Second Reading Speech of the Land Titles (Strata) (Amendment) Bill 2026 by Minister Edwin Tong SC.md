@@ -18,158 +18,218 @@ variant: markdown
 {:start=“2”}
 2.&nbsp;&nbsp;&nbsp; Sir, Singapore is one of the most land-scarce cities in the world. Within our small island, we must accommodate housing, industry, commerce, transport, defence, green spaces, water catchment and more – all of the infrastructure necessary for a modern city-state.
 
+{:start=“3”}
 3.&nbsp;&nbsp;&nbsp; Singapore's land constraints shape our approach towards the use of land and property in a very fundamental way. Land in Singapore is a scarce and finite national resource. It is therefore critical that we facilitate the renewal and rejuvenation of our urban environment so that our tight land resources can accommodate the evolving needs of Singaporeans.
 
+{:start=“4”}
 4.&nbsp;&nbsp;&nbsp; Buildings, like all physical things, they age. And as they age, the maintenance and upkeep becomes increasingly pressing: in the early years of a development, maintenance is more manageable and costs, perhaps, more predictable.
 
+{:start=“5”}
 5.&nbsp;&nbsp;&nbsp; But over time, major components reach the end of their service lives; repair bills grow larger and more frequent; and the fabric of the building – its structure, its systems, its common areas – will require even greater investment, simply to remain functional and liveable.
 
+{:start=“6”}
 6.&nbsp;&nbsp;&nbsp; There comes a point, in the life of any ageing development, where the question is: whether it is feasible or sustainable to continue investing in major renovations and upkeep; or whether the land can be put to better use through renewal and redevelopment. Sir, that is the question at the heart of this Bill.
 
+{:start=“7”}
 7.&nbsp;&nbsp;&nbsp; As many examples from around the world show, older developments that cannot be renewed do not simply stay as they are. Unless effort is put in to properly maintain such developments, they are likely to enter a gradual cycle of decline. Practically, maintenance becomes harder to fund and harder to agree upon collectively. The physical environment deteriorates and this impacts quality of life for both the residents as well as occupants.  
   
-
+{:start=“8”}
 8.&nbsp;&nbsp;&nbsp; The vibrancy of the surrounding area declines. Owners often find themselves stuck, unable to maintain their properties adequately, but also unable to move forward with renewal. That is not a good outcome for residents and it is also not a good outcome for Singapore.
 
+{:start=“9”}
 9.&nbsp;&nbsp;&nbsp; This Bill builds upon previous efforts to ensure that our framework for urban renewal remains fit for purpose – to cater for ageing developments a viable pathway forward where there is support amongst owners for redevelopment and allow for Singapore's urban landscape to continue to renew itself in an orderly and sustainable fashion.
 
 **THE ORIGIN AND PRINCIPLES OF THE COLLECTIVE SALE REGIME**
 
+{:start=“10”}
 10. It is with these objectives in mind that the collective sale regime under the Land Titles (Strata) Act was introduced, some 27 years ago. Sir, property rights are a very important fundamental right. But in a strata development, ownership is not only about the individual strata title owner.
 
+{:start=“11”}
 11. As explained in this House when the Bill was moved in 1998 to introduce the collective sale regime for the first time: "Strata developments, unlike landed developments, are founded on the concept of community living, shared ownership of common property in designated values, and individual ownership of strata title which is essentially air space. All these distinguishing features of strata developments support the new approach based on majority consent for en-bloc sales."
 
+{:start=“12”}
 12. When you own a unit in a condominium, you own your unit, but you are also a co-owner of the common property, together with every other unit owner. Responsibility for the upkeep and for the maintenance of the common property, the shared infrastructure, rests not with any one owner, but with all owners, collectively.
 
+{:start=“13”}
 13. This collective character of strata ownership means that the rights of individual owners, whilst real and important, cannot be viewed entirely in isolation. These rights exist within a framework of shared ownership, shared responsibility and shared decision-making, and must be balanced against the collective interest.
 
+{:start=“14”}
 14. When a significant majority of owners in a development reach a view about the future of that development, including to pursue collective sale, that majority view carries legitimate weight.
 
+{:start=“15”}
 15. Prior to 1999, however, the law did not reflect this. A collective sale could only proceed with the unanimous agreement of all owners. Every single owner had to consent. A single holdout – for whatever reason, whether principled or otherwise – could thwart the wishes of all the other owners and prevent the sale from proceeding entirely.
 
+{:start=“16”}
 16. This held back the much-needed rejuvenation and renewal of many developments. Buildings could not take advantage of enhanced plot ratios to realise their full development potential. Older developments that could have been rejuvenated through the collective sale process were unable to do so. And there was uncertainty, delay and, in some cases, acrimony, whilst the property aged. The Government had received many appeals from frustrated owners whose desires to sell en bloc had been thwarted.  
   
-
+{:start=“17”}
 17. The law was therefore changed. In 1999, Parliament amended the Land Titles (Strata) Act to allow collective sales if: 80% consent was obtained for developments aged 10 years or more, and 90% for those less than 10 years old.  
   
-
+{:start=“18”}
 18. This was a significant policy choice. It recognised that in a strata development, the rights of the collective must be weighed against the rights of the individual.  
   
-
+{:start=“19”}
 19. The Select Committee that examined the Bill in 1998 before it was passed made an observation that is directly relevant to what we are doing today. It noted that the consent threshold should be pegged to the age of the development, because older developments are more likely to be sub-optimally utilised, have a higher repair bill and are more likely to have more unit owners in favour of en bloc sales. That principle – that age matters, and that the framework should reflect it – has been embedded in the regime from the very beginning.
 
+{:start=“20”}
 20. In land-scarce Singapore, the 1999 amendments were, as explained to this House, "even more imperative" than they might have been elsewhere in the world. Removing the unanimity requirement would make available more prime land for higher-intensity development and that rationale has not diminished. If anything, today, that has grown stronger.
 
+{:start=“21”}
 21. The regime has, over the past 27 years, delivered real and tangible benefits for owners, for the urban landscape and for Singapore. Collective sales have enabled the renewal of ageing developments and the creation of new homes in established, well-connected locations. They have refreshed neighbourhoods and also improved liveability. They have allowed Singapore's limited land resources to keep pace with a growing economy and the housing needs of successive generations.
 
+{:start=“22”}
 22. Some notable examples include the Golden Mile Complex, which I am sure Members would be familiar with. It was sold collectively in 2022. It is being conserved and adaptively reused, preserving an architecturally significant building, whilst at the same time, unlocking its development potential and delivering new homes in the heart of the city.
 
+{:start=“23”}
 23. Another example is Gillman Heights, a former Housing and Urban Development Company (HUDC) estate with 607 homes. Sold collectively in 2007, the site was renewed and intensified, giving rise to The Interlace, a modern, architecturally iconic development with 1,040 new homes.
 
+{:start=“24”}
 24. These two are examples where owners were able to unlock the value and potential of their older developments, intensify them, and that has also facilitated the renewal of our urban landscape.
 
 **AN AGEING STOCK — AND A GROWING CHALLENGE**
 
+{:start=“25”}
 25. When the regime was introduced in 1999, Singapore's stock of private strata developments were, on the whole, still relatively young. The oldest then were, on average, about two to three decades old.
 
+{:start=“26”}
 26. The picture today, however, is different, and it will be increasingly so. Approximately one in 20 non-landed private residential units are now aged 40 years or older, and that is around 20,000 dwelling units in close to 250 developments. That is the number today.
 
+{:start=“27”}
 27. This number will only grow due to the developments that took place during Singapore's rapid urbanisation in the 1970s, 1980s and 1990s. Over time, more owners will have to deal with the question of whether it remains feasible or sustainable to invest in the maintenance and upkeep of their property.
 
+{:start=“28”}
 28. To understand why, it is useful to know what ageing means for a reinforced concrete building, which is typical of most high-rise residential developments in Singapore.
 
+{:start=“29”}
 29. Buildings do not have expiry dates. A well-maintained reinforced concrete building can continue to stand and function relatively safely beyond any age. What changes over time is the nature and the cost of what is required to keep that building in good condition.
 
+{:start=“30”}
 30. Whilst ageing is more of a gradual process than a cliff edge, professional engineering and structural design standards – including Singapore's own – recognise that beyond a certain point, a building begins to require more than just routine maintenance.
 
+{:start=“31”}
 31. Cracking and spalling of concrete become more frequent. Structural repairs become more extensive. The building continues to stand, but the cost and the complexity of keeping it in genuinely good condition will rise significantly, and the returns on continued investments just to upkeep and maintain it, will begin to diminish. It is this trajectory of rising cost and diminishing returns that frames the challenges that this Bill seeks to address.
 
+{:start=“32”}
 32. Major building components also have their own lifecycle costs that compound this picture. Take lifts as an example. The Building and Construction Authority's (BCA's) guidelines on lift modernisation recommends building owners to start assessing their lifts' condition and planning for modernisation programmes around the 15th year of operation, so that upgrading needs can be anticipated and budgeted for in advance.
 
+{:start=“33”}
 33. The estimated cost of modernising a single lift starts from $120,000. Full replacement costs lie somewhere between $200,000 and $300,000 per lift. For a development with multiple lift shafts, that is a significant capital outlay – and it is one that recurs, because even a modernised lift has a finite service life.
 
+{:start=“34”}
 34. And lifts, as Members know, are just one component of many. Repainting works can cost several millions in larger developments. The cost of mandatory façade inspections, spalling concrete repairs, waterproofing and structural inspections will all need to be factored in as well.
 
+{:start=“35”}
 35. As a development ages, the demands of all these works on the sinking fund and the management corporation grow larger and more frequent. To fund this, it is only logical for maintenance fees and sinking fund contributions to be raised significantly as developments age – in some cases by as much as 50%.
 
+{:start=“36”}
 36. For the owners, this represents a real and growing burden. At some stage, continued investment in upkeep yields diminishing returns and owners who wish to pursue renewal may nonetheless find themselves unable to do so under the existing framework.
 
 **THE INTERNATIONAL EXPERIENCE — AND WHAT IT TELLS US**
 
+{:start=“37”}
 37. When we do a horizon scan internationally, we see that Singapore is not alone in grappling with this challenge. Hong Kong, Japan, many states in Australia, have similar legislative frameworks that deal with the issue of ageing multi-owner developments that cannot be renewed.
 
+{:start=“38”}
 38. Hong Kong is an example of a land-scarce city which faces a similar challenge as we do. Their equivalent of the collective sale regime is the compulsory sale regime for redevelopment – the Land (Compulsory Sale for Redevelopment) Ordinance – that, like Singapore's collective sale regime, came into effect in 1999.
 
+{:start=“39”}
 39. While there are, of course, broad differences between Singapore's framework and Hong Kong's, broadly speaking, Hong Kong's framework originally required an applicant to have assembled no less than 90% of all undivided shares for all classes of lots, before making a compulsory sale application.
 
+{:start=“4”}
 40. Hong Kong first lowered its thresholds in 2010 for certain specified classes of lots, including lots where each building was issued with an occupation permit of at least 50 years. The thresholds were more recently further lowered in 2024, under a new framework that takes into account both age as well as, in their case, geographic location, with buildings aged 50 to 59 years within certain designated areas requiring 70%, and buildings aged 60 years or more within certain designated areas requiring 65%. So, broadly, a framework that is not dissimilar to what we have proposed in this Bill.
 
+{:start=“41”}
 41. Like Singapore, Hong Kong is a densely populated and land-scarce jurisdiction. They have had to grapple seriously with the renewal of old developments. And they have found that their framework needed to be recalibrated as their building stock ages.
 
+{:start=“42”}
 42. There have been similar shifts in other jurisdictions, where in those cases, land might not be as scarce as in Singapore. In Australia, both New South Wales as well as Queensland have also updated their legislation in recent years, to provide new pathways for collective sale, redevelopment or termination of multi-owner developments without requiring unanimity. And Japan has also recently revised legislation to relax the rules for collective sale or rebuilding of condominium buildings.
 
+{:start=“43”}
 43. These are jurisdictions that do not face the same land constraints as we do, at least not as acutely as we do in Singapore. But they too have found it necessary to introduce lower thresholds, to expand pathways, to deal with the issue of renewal.
 
 **THE CASE FOR REVIEW**
 
+{:start=“44”}
 44. Sir, it was against this backdrop of both ageing stock as well as the increasingly rising maintenance costs that we undertook a very careful review and also extensive consultation. Over the years, there have been quite extensive feedback that we have received from individual property owners on their experiences as well as giving their suggestions on the collective sale regime.
 
+{:start=“45”}
 45. Since 2023, we have also actively engaged a broad range of other stakeholders to better understand the issues with the current framework and what possible enhancements might look like. Two clear threads emerged from the views shared with us.
 
+{:start=“46”}
 46. The first was a call to update the consent thresholds to facilitate the renewal of older developments. Let me just read to you verbatim, feedback from an owner which I think sums up the issue quite succinctly: "while the existing two-tiered consent thresholds were novel, innovative and necessary in 1999, conditions have changed since then. It cannot be right that a 10-year-old development and a 44-year-old development continue to face the same threshold."
 
+{:start=“47”}
 47. The second thread which emerged from these consultations came from owners in developments who worry about being subjected to repeated and protracted collective sale attempts that disrupt the harmony of the community that is in the condominium and create prolonged uncertainty.
 
 **THE AMENDMENTS — TWO BROAD AREAS**
 
+{:start=“48”}
 48. Sir, the Bill therefore proposes amendments in two broad areas.
 
+{:start=“49”}
 49. First, supporting the renewal of ageing developments; and second, strengthening safeguards for non-consenting owners. Let me take Members through each bucket of changes in turn.
 
 **Supporting the Renewal of Ageing Developments**
 
 **_Recalibrated Consent Thresholds_**
 
+{:start=“50”}
 50. To support renewal, we propose to recalibrate the consent thresholds for collective sales in older developments. The Bill introduces two new tiers: for developments aged 40 to 59 years, a new threshold of 70%; for developments aged 60 years and older, a new threshold of 65%.
 
+{:start=“51”}
 51. The existing 90% and 80% consent thresholds that you see today in the legislation will continue to apply to newer developments, those below 10 years old and those from 10 to 39 years old, respectively.
 
+{:start=“52”}
 52. In summary, Sir, we are not adjusting the consent thresholds for these newer developments. We are introducing two additional tiers to facilitate the renewal of older developments.
 
+{:start=“53”}
 53. The rationale behind the age bands is quite straightforward. As I have explained, the older a development, the more acute its maintenance challenges are likely to be and the stronger the case for enabling renewal. This is consistent with the principle that Parliament endorsed in 1999, that the consent threshold should reflect the age and the circumstances of the development.
 
+{:start=“54”}
 54. At the same time, we have been careful to ensure that even for the oldest developments, those aged 60 years and above, a significant majority is still required before any sale can proceed. Collective sale remains a majority choice and the framework respects the owners who choose not to sell.
 
 **Strengthening Safeguards for Non-Consenting Owners**
 
+{:start=“55”}
 55. The second set of amendments, therefore, deals with strengthening of safeguards for non-consenting owners. For a non-consenting owner, a collective sale exercise is not an abstract legal process. It is a period of real uncertainty, unfolding in the place where they call home.
 
+{:start=“56”}
 56. The existing regime already contains procedural and substantive protections for non-consenting owners, including the requirement for a sale to be approved by a Strata Titles Board or the General Division of the High Court, which must be satisfied that the transaction is in good faith, taking into account factors like the method of apportionment of sale proceeds.
 
+{:start=“57”}
 57. In addition, a sale cannot proceed if an objector will suffer financial loss, or if the proceeds of sale to be received by any objector are insufficient to redeem any mortgage or charge in respect of his or her unit. These are protections which currently exist in our legislation today and they remain fully in place.
 
+{:start=“58”}
 58. Our proposed amendments build on this foundation. We will introduce three additional safeguards that directly address the concerns we heard during the consultations, about the ease with which collective sale attempts can be initiated, the duration of the process and the potential for repeated attempts in developments for which there is really no genuine majority support.
 
 **_Higher Requisition Threshold_**
 
+{:start=“59”}
 59. First, we are raising the threshold to initiate a collective sale attempt. Currently, a requisition to convene an Extraordinary General Meeting (EGM) for the formation of a Collective Sale Committee (CSC) must be signed by 20% of owners by share value, or 25% of owners by number of units. The Bill raises this to 35% of owners by share value or number of units.
 
+{:start=“60”}
 60. This ensures that collective sale exercises are only initiated where there is serious intent and support, reducing the risk of owners being subjected to a prolonged and disruptive process that is not likely to succeed.
 
 **_Shorter Signature Collection Window_**
 
+{:start=“61”}
 61. Second, we are reducing the time period that CSCs have to obtain signatures to the Collective Sale Agreement, from 12 months to six months. The duration of the signature collection window is not simply about how long proponents have to collect signatures. It is also about how long owners should be expected to live with uncertainty.
 
+{:start=“62”}
 62. This is a period where owners can be subject to significant pressure, either from fellow owners; or sometimes, from professionals appointed in the collective sale, to sign the Collective Sale Agreement. Non-consenting owners who have made their position clear sometimes find themselves subject to persistent lobbying throughout this entire period. And I am sure some of my colleagues in this House would have read reports or have had personal experiences in your own constituencies of such instances over the years. Shortening the window will help to mitigate this.
 
+{:start=“63”}
 63. Based on feedback received as well as the data that we have collected from recent successful collective sale exercises, we have assessed that six months is a reasonable period for owners to consider and decide on whether to sign and this includes in the case of larger developments as well.
 
+{:start=“64”}
 64. A shorter signing window will provide greater certainty to all owners, who will know sooner whether there is sufficient support for the sale. It also reduces the gap between the start of signature collection and the launch of the development for collective sale, which, in turn, then reduces the likelihood of market fluctuations after owners have started committing to the Collective Sale Agreement.
 
 **_Extended Restriction Period After a Failed Sale_**
 
+{:start=“65”}
 65. Third, we are extending the restriction period after a failed collective sale attempt from two years to three years. Where support is insufficient, owners should not be subjected to repeated attempts for a collective sale soon after. During the three-year restriction period, any attempt to convene a general meeting to form a new CSC will be subject to heightened requisition thresholds.
 
+{:start=“66”}
 66. As with the current legislation, the first attempt during the restriction period will continue to require support from at least 50% of owners by share value or number of units. For any second or subsequent attempt, the requisition threshold will be aligned to the applicable overall consent threshold based on the age of the development. So, in this case, 70% for developments aged 40 to 59 years old, and 65% for developments aged 60 years and above.
 
 67. The new restriction period of three years, therefore, gives owners a longer window of certainty whilst preserving a route forward if sufficient support genuinely subsequently emerges. The intention is that owners should honour not just the letter of these requirements, but also the spirit.
