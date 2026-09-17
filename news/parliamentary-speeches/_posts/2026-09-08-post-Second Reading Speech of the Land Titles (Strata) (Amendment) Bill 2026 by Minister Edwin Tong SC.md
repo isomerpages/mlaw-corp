@@ -10,30 +10,41 @@ variant: markdown
 ---
 8 September 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
+{:start=“1”}
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Deputy Speaker, Sir, I move, "That the Bill be now read a Second time."
 
 **WHY URBAN RENEWAL MATTERS IN LAND-SCARCE SINGAPORE**
 
+{:start=“2”}
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sir, Singapore is one of the most land-scarce cities in the world. Within our small island, we must accommodate housing, industry, commerce, transport, defence, green spaces, water catchment and more – all of the infrastructure necessary for a modern city-state.
 
+{:start=“3”}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore’s land constraints shape our approach towards the use of land and property in a very fundamental way. Land in Singapore is a scarce and finite national resource. It is therefore critical that we facilitate the renewal and rejuvenation of our urban environment so that our tight land resources can accommodate the evolving needs of Singaporeans.
 
+{:start=“4”}
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Buildings, like all physical things, they age. And as they age, the maintenance and upkeep becomes increasingly pressing: in the early years of a development, maintenance is more manageable and costs, perhaps, more predictable.
 
+{:start=“5”}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But over time, major components reach the end of their service lives; repair bills grow larger and more frequent; and the fabric of the building – its structure, its systems, its common areas – will require even greater investment, simply to remain functional and liveable.
 
+{:start=“6”}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There comes a point, in the life of any ageing development, where the question is: whether it is feasible or sustainable to continue investing in major renovations and upkeep; or whether the land can be put to better use through renewal and redevelopment. Sir, that is the question at the heart of this Bill.
 
+{:start=“7”}
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As many examples from around the world show, older developments that cannot be renewed do not simply stay as they are. Unless effort is put in to properly maintain such developments, they are likely to enter a gradual cycle of decline. Practically, maintenance becomes harder to fund and harder to agree upon collectively. The physical environment deteriorates and this impacts quality of life for both the residents as well as occupants.
 
+{:start=“8”}
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The vibrancy of the surrounding area declines. Owners often find themselves stuck, unable to maintain their properties adequately, but also unable to move forward with renewal. That is not a good outcome for residents and it is also not a good outcome for Singapore.
 
+{:start=“9”}
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Bill builds upon previous efforts to ensure that our framework for urban renewal remains fit for purpose – to cater for ageing developments a viable pathway forward where there is support amongst owners for redevelopment and allow for Singapore's urban landscape to continue to renew itself in an orderly and sustainable fashion.
 
 **THE ORIGIN AND PRINCIPLES OF THE COLLECTIVE SALE REGIME**
 
+{:start=“10”}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is with these objectives in mind that the collective sale regime under the Land Titles (Strata) Act was introduced, some 27 years ago. Sir, property rights are a very important fundamental right. But in a strata development, ownership is not only about the individual strata title owner.
 
+{:start=“11”}
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As explained in this House when the Bill was moved in 1998 to introduce the collective sale regime for the first time: "Strata developments, unlike landed developments, are founded on the concept of community living, shared ownership of common property in designated values, and individual ownership of strata title which is essentially air space. All these distinguishing features of strata developments support the new approach based on majority consent for en-bloc sales."
 
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you own a unit in a condominium, you own your unit, but you are also a co-owner of the common property, together with every other unit owner. Responsibility for the upkeep and for the maintenance of the common property, the shared infrastructure, rests not with any one owner, but with all owners, collectively.
