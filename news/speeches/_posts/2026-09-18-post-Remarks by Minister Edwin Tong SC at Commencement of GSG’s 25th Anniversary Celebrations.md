@@ -1,5 +1,5 @@
 ---
-title: Remarks by Minister Edwin Tong SC at Commencement of GSG’s 25th
+title: Remarks by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at Commencement of Global Schools Group’s 25th
   Anniversary Celebrations
 permalink: /remarks-by-minister-edwin-tong-sc-at-commencement-of-gsg-s-25th-anniversary-celebrations/
 date: 2026-09-18
