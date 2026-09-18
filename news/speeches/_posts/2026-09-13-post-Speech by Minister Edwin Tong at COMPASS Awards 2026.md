@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-26 August 2026 Posted in [Speeches](/news/speeches)
+13 September 2026 Posted in [Speeches](/news/speeches)
 
 Professor Jeremy Monteiro, Chairman of COMPASS<br>
 Board of Directors of COMPASS<br>
