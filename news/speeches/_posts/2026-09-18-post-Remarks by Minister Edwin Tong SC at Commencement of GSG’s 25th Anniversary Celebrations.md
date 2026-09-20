@@ -1,6 +1,7 @@
 ---
-title: Remarks by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at Commencement of Global Schools Group’s 25th
-  Anniversary Celebrations
+title: Remarks by Minister for Law and Second Minister for Home Affairs Edwin
+  Tong SC at Commencement of Global Schools Group’s 25th Anniversary
+  Celebrations
 permalink: /remarks-by-minister-edwin-tong-sc-at-commencement-of-gsg-s-25th-anniversary-celebrations/
 date: 2026-09-18
 layout: post
@@ -68,7 +69,7 @@ Ladies and gentlemen
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In many ways, this story reflects the larger relationship between Singapore and India as well. GSG, of course, has strong Indian roots. But its global journey began here in Singapore, and over the past 25 years, it has grown alongside the deepening friendship between our two countries.
 
 {:start="14"}
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last year, Singapore and India marked 60 years of diplomatic relations. In fact, we are bound by history. Shortly after we were discovered by Sir Stamford Raffles in 1819, Singapore was administered from Kolkata for nearly five decades after that. After our independence in 1965, India was one of the first to recognise the status of Singapore.
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last year, Singapore and India marked 60 years of diplomatic relations. In fact, we are bound by history. Shortly after we were discovered by Sir Stamford Raffles in 1819, Singapore was administered from Calcutta for nearly five decades after that. After our independence in 1965, India was one of the first to recognise the status of Singapore.
 
 {:start="15"}
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So it is a very deep relationship that we have, bound by history and working across many areas – from trade and investment, to technology, skills, sustainability, connectivity and defence.
