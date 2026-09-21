@@ -1,5 +1,6 @@
 ---
-title: Opening Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC at the Global Forum on Intellectual Property 2026
+title: Opening Address by Minister for Law and Second Minister for Home Affairs,
+  Mr Edwin Tong SC at the Global Forum on Intellectual Property 2026
 permalink: /speech-by-minister-edwin-tong-at-the-global-forum-on-ip-2026/
 date: 2026-08-26
 layout: post
@@ -85,9 +86,9 @@ Ladies and gentlemen
 
 24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So the question is no longer simply: Can AI create? Because clearly, it can. The questions are increasingly:
 
-Who created it?
+<p style="margin-left: 40px">Who created it?</p>
 
-Can the human prompter be considered the author of this graphic design or song? Should the developer of the AI model be considered as a co-creator?
+<p style="margin-left: 40px">Can the human prompter be considered the author of this graphic design or song? Should the developer of the AI model be considered as a co-creator?</p>
 
 25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Courts as well as IP offices around the world broadly agree that an author must be a human being. But where do we draw the line? What kinds of acts or decisions made by human prompters demonstrate sufficient creativity? And that line and that spectrum will change as technology evolves.
 
