@@ -20,7 +20,6 @@ variant: markdown
 
 {:start="3"}
 3.&nbsp;And perhaps that breadth of issues tells us something important about family practice itself. <b>Family law is never quite only about the law.</b> It is, at its heart, about people, often at some of the most difficult and emotionally charged moments of their lives.   
-
 {:start="4"}
 4.&nbsp;A family going through a difficult period rarely faces just one problem at a time. There may be a legal dispute to resolve. But there may also be concerns involving children, finances, housing, caregiving, sometimes domestic violence, health, or other vulnerabilities. 
 
@@ -143,7 +142,7 @@ variant: markdown
 {:start="41"}
 41.&nbsp;<b>So, transformation is not something that the Government can do alone to the family justice system. It is something that we must do together.</b>
 
-<b><u>Responding to new forms of harm</u></b>
+<b><u>Responding to New Forms of Harm</u></b>
 
 {:start="42"}
 42.&nbsp;And that partnership will become even more important as family life continues to change. Some risks are becoming more visible. Others are taking new forms.
