@@ -41,8 +41,6 @@ and</p>
 and to reintegrating the secondee into ESG work upon return</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Host organisations:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -58,8 +56,6 @@ legal, compliance, procurement); and</p>
 overseas exposure if relevant</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Secondees (lawyers):</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -76,22 +72,19 @@ experience; and</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
 <p>The full programme factsheet can be accessed <a href="https://staging.d3txmprwlgxy68.amplifyapp.com/files/ESG_Legal_Secondment_Programme__Programme_Factsheet_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p><strong><u>ENGAGE WITH US!</u></strong>
 </p>
 <p>Applications for the first phase of the ESG LSP have closed. Please visit
 this page for further updates.</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:MLAW_IndustryEngagements@mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p></p>
 <p><strong><u>FIND OUT MORE ABOUT ESG</u></strong>
 </p>
