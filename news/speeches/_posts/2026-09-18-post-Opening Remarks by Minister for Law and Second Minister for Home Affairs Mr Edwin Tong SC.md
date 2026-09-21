@@ -1,7 +1,6 @@
 ---
-title: Opening Remarks by Minister for Law and Second Minister for Home Affairs
-  Mr Edwin Tong SC
-permalink: /opening-remarks-by-minister-for-law-and-second-minister-for-home-affairs-mr-edwin-tong-sc/
+title: Opening Remarks by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the Dell InnovateFest 2026
+permalink: /opening-remarks-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc-dell-innovatefest-2026/
 date: 2026-09-18
 layout: post
 description: ""
