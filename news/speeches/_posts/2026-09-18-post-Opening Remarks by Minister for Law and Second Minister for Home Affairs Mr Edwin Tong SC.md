@@ -60,7 +60,7 @@ Ladies and gentlemen,
 11.&nbsp;For Singapore, this is of course disruptive. I think people are worried, and perhaps rightfully so, as we confront and navigate these new challenges. But I think it also presents us with enormous opportunities.  
 
 {:start="12"}
-12.&nbsp;We are ourselves a small country, and we have always been a small country. We do not have a large domestic market that we can count on like our bigger neighbours, or vast natural resources that we can tap into. But we have always overcome our constraints innovatively through people, talent, creativity and ideas. And I think our special ability is the ability to comvene, to bring people together and to aggregate, so that the power of “one plus one” is well more than two.
+12.&nbsp;We are ourselves a small country, and we have always been a small country. We do not have a large domestic market that we can count on like our bigger neighbours, or vast natural resources that we can tap into. But we have always overcome our constraints innovatively through people, talent, creativity and ideas. And I think our special ability is the ability to convene, to bring people together and to aggregate, so that the power of “one plus one” is well more than two.
 
 {:start="13"}
 13.&nbsp;That is Singapore’s secret strength. And that same approach must guide us in the use of AI.  
