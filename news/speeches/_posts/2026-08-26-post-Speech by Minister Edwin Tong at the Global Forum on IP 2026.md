@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister Edwin Tong at the Global Forum on IP 2026
+title: Opening Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC at the Global Forum on Intellectual Property 2026
 permalink: /speech-by-minister-edwin-tong-at-the-global-forum-on-ip-2026/
 date: 2026-08-26
 layout: post
