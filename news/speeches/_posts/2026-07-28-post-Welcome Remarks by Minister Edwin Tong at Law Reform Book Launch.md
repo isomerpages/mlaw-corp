@@ -9,7 +9,6 @@ variant: markdown
 ---
 28 July 2026 Posted in [Speeches](/news/speeches)
 
-
 Senior Minister **Lee Hsien Loong**<br>
 Senior Minister **Shanmugam**<br>
 The Honourable Chief Justice **Sundaresh Menon**<br>
