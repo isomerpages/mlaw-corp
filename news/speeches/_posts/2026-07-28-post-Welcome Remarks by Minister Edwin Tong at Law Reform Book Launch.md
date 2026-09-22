@@ -1,5 +1,5 @@
 ---
-title: Welcome Remarks by Minister Edwin Tong at Law Reform Book Launch
+title: Welcome Remarks by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC at the Launch of "25 Years of Legal Reform in Singapore" Book Series
 permalink: /welcome-remarks-by-minister-edwin-tong-at-law-reform-book-launch/
 date: 2026-07-28
 layout: post
