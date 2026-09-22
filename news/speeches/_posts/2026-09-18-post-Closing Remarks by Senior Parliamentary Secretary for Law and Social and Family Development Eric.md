@@ -1,7 +1,7 @@
 ---
 title: Closing Remarks by Senior Parliamentary Secretary for Law and Social and
-  Family Development Eric
-permalink: /closing-remarks-by-senior-parliamentary-secretary-for-law-and-social-and-family-development-eric/
+  Family Development Eric Chua at the Law Society of Singapore Family Conference 2026
+permalink: /closing-remarks-by-senior-parliamentary-secretary-for-law-and-social-and-family-development-eric-chua-law-society-of-singapore-family-conference-2026/
 date: 2026-09-18
 layout: post
 description: ""
