@@ -6,7 +6,12 @@ notification: <p>Government officials will <b>NEVER</b> ask you to transfer
   money or disclose bank log-in details over a phone call. Call the 24/7
   ScamShield Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.</p>
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.</p>  <br>  <p>The
+  Legal Aid Bureau (“LAB”) will be conducting its annual Customer Satisfaction
+  Survey from September to December 2026. You may be contacted if you have
+  completed a case with LAB in the past year. The survey does not require
+  respondents to transfer money or disclose any bank details. If in doubt, call
+  the Ministry of Law Services Centre hotline at 1800 2255 529.</p>
 sections:
   - hero:
       title: Ministry of Law Singapore
