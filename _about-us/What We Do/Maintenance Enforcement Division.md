@@ -9,15 +9,15 @@ third_nav_title: What We Do
 <p>The Maintenance Enforcement Division (MED) enhances access to justice
 by improving the process for enforcing maintenance orders.</p>
 <p></p>
-<p>The MED is set up as a division under the Insolvency &amp; Public Trustee's
-Office. An application to enforce maintenance arrears may be referred to
-the Maintenance Enforcement Officers (MEOs), who will conduct conciliation
-sessions between the two parties with a view to facilitating sustainable
-solutions, conduct fact-finding on parties’ financial circumstances, refer
-suitable parties to financial assistance, and submitting information to
-the court.</p>
+<p>MED is a division under the Insolvency &amp; Public Trustee’s Office.
+To enforce maintenance arrears, an application must first be filed with
+the Family Justice Courts via <a href="https://ifams.judiciary.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://ifams.judiciary.gov.sg</a>.
+The Court may refer the matter to Maintenance Enforcement Officers (MEOs),
+who facilitate conciliation, conduct fact-finding into the parties’ financial
+circumstances, refer suitable parties for financial assistance, and provide
+relevant information to the Court.</p>
 <p></p>
 <p>For more information about the MED, please click <a href="https://med.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p><em>Last updated 6 October 2025</em>
+<p><em>Last updated 24 September 2026</em>
 </p>
