@@ -7,27 +7,29 @@ description: ""
 image: ""
 variant: markdown
 ---
+30 September 2026 Posted in [Speeches](/news/speeches)
+
 **Welcome**
 
-1.    Good morning, everyone.
+1.&nbsp;&nbsp;&nbsp; Good morning, everyone.
 
-2.    First of all, a very warm welcome to GeoEngage 2026. To our partners from social services, healthcare, community organisations, academia as well as the technology sector, thank you for being here this morning.
+2.&nbsp;&nbsp;&nbsp; First of all, a very warm welcome to GeoEngage 2026. To our partners from social services, healthcare, community organisations, academia as well as the technology sector, thank you for being here this morning.
 
-3.    Whether you are joining us for the first time or returning from last year, I am glad that we are all here to be a part of this conversation today.
+3.&nbsp;&nbsp;&nbsp; Whether you are joining us for the first time or returning from last year, I am glad that we are all here to be a part of this conversation today.
 
-4.    I am also pleased to see my colleagues from MSF and NCSS joining SLA as co-organisers this year. This work brings two parts of my portfolio – in Law, as well as Social and Family Development – together, that share a practical concern. And that is the question of how we help people live better in their communities.
+4.&nbsp;&nbsp;&nbsp; I am also pleased to see my colleagues from MSF and NCSS joining SLA as co-organisers this year. This work brings two parts of my portfolio – in Law, as well as Social and Family Development – together, that share a practical concern. And that is the question of how we help people live better in their communities.
 
 **Making everyday journeys easier**
 
-5.    When we want to get somewhere, many of us will reach for our phones, open our maps and then key in our destination. We look at the suggested routes and ask ourselves: “Which way is the fastest way to get to where we want to get to?”
+5.&nbsp;&nbsp;&nbsp; When we want to get somewhere, many of us will reach for our phones, open our maps and then key in our destination. We look at the suggested routes and ask ourselves: “Which way is the fastest way to get to where we want to get to?”
 
-6.    But for somebody using a wheelchair, the first question might be more basic: “Is there a route I can use?”
+6.&nbsp;&nbsp;&nbsp; But for somebody using a wheelchair, the first question might be more basic: “Is there a route I can use?”
 
-7.    I previously joined wheelchair users to test OneMap’s barrier-free routing, including an indoor wayfinding segment at Plaza Singapura.
+7.&nbsp;&nbsp;&nbsp; I previously joined wheelchair users to test OneMap’s barrier-free routing, including an indoor wayfinding segment at Plaza Singapura.
 
-8.    A route must work for the person making the journey, all the way to the destination.
+8.&nbsp;&nbsp;&nbsp; A route must work for the person making the journey, all the way to the destination.
 
-9.    A place may look quite close on a map; I am sure we commit that error from time to time. But if the journey involves steps, an inaccessible entrance or a long detour to find a lift, sometimes “nearby” can actually feel quite far away.
+9.&nbsp;&nbsp;&nbsp; A place may look quite close on a map; I am sure we commit that error from time to time. But if the journey involves steps, an inaccessible entrance or a long detour to find a lift, sometimes “nearby” can actually feel quite far away.
 
 10. Being able to get _out and about_ is important for a good quality of life and feeling included.
 
@@ -142,3 +144,5 @@ variant: markdown
 60. On that note, I wish everybody a good two days of learning, exchange, and amazing discoveries. Let us find more partners in this journey, talk to people you do not already know, and hopefully in these two days we can have some good solutions emerging that will help change lives for the better, in Singapore.
 
 61. Thank you very much.
+
+<p class="right-side-updated">Last updated on 30 September 2026</p>
