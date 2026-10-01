@@ -1,5 +1,5 @@
 ---
-title: Opening Address by Senior Parliamentary Secretary for Law and Social and Family Development Eric Chua at the Opening Session of GeoEngage 2026: Socio-Healthcare Edition
+title: Opening Address by Senior Parliamentary Secretary for Law and Social and Family Development Eric Chua at the Opening Session of GeoEngage 2026 Socio-Healthcare Edition
 permalink: /opening-address-by-sps-eric-chua-at-the-opening-session-of-geoengage-2026/
 date: 2026-09-30
 layout: post
