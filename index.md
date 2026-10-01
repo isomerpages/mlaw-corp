@@ -11,7 +11,11 @@ notification: <p>Government officials will <b>NEVER</b> ask you to transfer
   Survey from September to December 2026. You may be contacted if you have
   completed a case with LAB in the past year. The survey does not require
   respondents to transfer money or disclose any bank details. If in doubt, call
-  the Ministry of Law Services Centre hotline at 1800 2255 529.</p>
+  the Ministry of Law Services Centre hotline at 1800 2255 529.</p>  <br>  <p>We
+  are refreshing the Ministry of Law websites. The refreshed site will feature a
+  new look and bring together information from some of our current microsites in
+  one place for easier access and a more seamless experience. Watch this space
+  for updates.</p>
 sections:
   - hero:
       title: Ministry of Law Singapore
