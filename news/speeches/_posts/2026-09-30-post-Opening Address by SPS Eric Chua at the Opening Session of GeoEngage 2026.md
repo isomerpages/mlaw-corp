@@ -23,7 +23,7 @@ variant: markdown
 
 **Making everyday journeys easier**
 
-5.&nbsp;&nbsp;&nbsp; When we want to get somewhere, many of us will reach for our phones, open our maps and then key in our destination. We look at the suggested routes and ask ourselves: "Which way is the fastest way to get to where we want to get to?"
+5.&nbsp;&nbsp;&nbsp; When we want to get somewhere, many of us will reach for our phones, open our apps and then key in our destination. We look at the suggested routes and ask ourselves: "Which way is the fastest way to get to where we want to get to?"
 
 6.&nbsp;&nbsp;&nbsp; But for somebody using a wheelchair, the first question might be more basic: "Is there a route I can use?"
 
@@ -33,11 +33,11 @@ variant: markdown
 
 9.&nbsp;&nbsp;&nbsp; A place may look quite close on a map; I am sure we commit that error from time to time. But if the journey involves steps, an inaccessible entrance or a long detour to find a lift, sometimes "nearby" can actually feel quite far away.
 
-10.&nbsp;&nbsp;&nbsp; Being able to get \_out and about\_ is important for a good quality of life and feeling included.
+10.&nbsp;&nbsp;&nbsp; Being able to get *out and about* is important for a good quality of life and feeling included.
 
 11.&nbsp;&nbsp;&nbsp; That is why this work matters to me.
 
-\*\*Keeping our seniors connected\*\*
+**Keeping our seniors connected**
 
 12.&nbsp;&nbsp;&nbsp; In the course of my work, I meet many seniors in Queenstown, the constituency that I serve. Some use wheelchairs or personal mobility aids to get around their neighbourhoods.
 
@@ -61,7 +61,7 @@ variant: markdown
 
 22.&nbsp;&nbsp;&nbsp; By making these journeys easier, we help keep relationships and mutual support alive.
 
-23.&nbsp;&nbsp;&nbsp; \*\*By helping our seniors stay connected, we can add life to their years, and in doing so, help add years to their lives.\*\*
+23.&nbsp;&nbsp;&nbsp; **By helping our seniors stay connected, we can add life to their years, and in doing so, help add years to their lives.**
 
 24.&nbsp;&nbsp;&nbsp; This gives real meaning to the progress that we have made since last year's GeoEngage.
 
@@ -141,7 +141,7 @@ variant: markdown
 
 58.&nbsp;&nbsp;&nbsp; Then ask: what can we do together to make that a little bit easier for them?
 
-59.&nbsp;&nbsp;&nbsp; \*\*Through that, let us help more people reach the support they need, and the everyday lives they want to lead.\*\*
+59.&nbsp;&nbsp;&nbsp; **Through that, let us help more people reach the support they need, and the everyday lives they want to lead.**
 
 60.&nbsp;&nbsp;&nbsp; On that note, I wish everybody a good two days of learning, exchange, and amazing discoveries. Let us find more partners in this journey, talk to people you do not already know, and hopefully in these two days we can have some good solutions emerging that will help change lives for the better, in Singapore.
 
