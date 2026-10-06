@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister Edwin Tong on Simplifying Music Permit Processes
+title: Written Reply by Minister Edwin Tong SC on Simplifying Music Permit Processes for Government-Sponsored Programmes at Selected Venues
 permalink: /written-reply-by-minister-edwin-tong-on-simplifying-music-permit-processes/
 date: 2026-10-06
 layout: post
