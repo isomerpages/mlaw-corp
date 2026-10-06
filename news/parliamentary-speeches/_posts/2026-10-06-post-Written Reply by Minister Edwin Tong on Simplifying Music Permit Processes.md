@@ -10,7 +10,7 @@ variant: markdown
 6 October 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <b><u>Name and Constituency of Member of Parliament</u></b><br>
-<b>Dr Wan Rizal (Non-Constituency Member of Parliament) </b>
+<b>Dr Wan Rizal (Member of Parliament for the Jalan Besar GRC)</b>
 
 <b><u>Question</u></b><br>
 To ask the Minister for Law whether the Intellectual Property Office of Singapore can work with venue owners that are Government agencies to simplify the process and cost of obtaining permit for the use of licensed music to reduce impact on freelance coaches when conducting classes under programmes
