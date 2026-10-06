@@ -16,7 +16,7 @@ variant: markdown
 
 
 {:start=“3”}
-3.&nbsp;This means that the total amount to be repaid by the borrower will be (a) the remaining principal amount of the loan disbursed to the borrower (after deduction of the loan approval fee upfront), and (b) the portion of the loan approval fee which the LML will be allowed to retain (see Annex for illustrations). There will not be any interest charged, and the total amount to be repaid by the borrower cannot exceed the principal amount of the 
+3.&nbsp;This means that the total amount to be repaid by the borrower will be (a) the remaining principal amount of the loan disbursed to the borrower (after deduction of the loan approval fee upfront), and (b) the portion of the loan approval fee which the LML will be allowed to retain (see Annex for illustrations). There will not be any interest charged, and the total amount to be  repaid by the borrower cannot exceed the principal amount of the loan. 
 
 {:start=“4”}
 4.&nbsp;The framework for this cooling-off period was developed by MinLaw, in consultation with the Credit Association of Singapore, which is the professional association representing LMLs. It seeks to strike a balance between affording borrowers an opportunity to reconsider their need for credit, which may sometimes be made on impulse, and ensuring that LMLs are still compensated for the work done when granting a loan.  
@@ -34,7 +34,7 @@ variant: markdown
 <p></p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage LMLs to put in place arrangements to proactively assist distressed borrowers by restructuring the loan repayment to one that will suit the borrower’s financial situation, and/or referring them to a Social Service Agency for assistance.</p>
 
 {:start=“7”}
-7.&nbsp;MinLaw will continue to maintain a balance between protecting borrowers and ensuring that there is reasonable access to credit from licensed sources..
+7.&nbsp;MinLaw will continue to maintain a balance between protecting borrowers and ensuring that there is reasonable access to credit from licensed sources.
 
 <b>MINISTRY OF LAW</b><br>
 <b>31 AUGUST 2026</b>
