@@ -46,7 +46,7 @@ To ask the Minister for Law in respect of freelance interpreters engaged by the 
 9.&nbsp;The quality of the interpretation provided by freelance interpreters may be assessed by the court’s in-house interpreters and through feedback from judges, court officers and embassy officials who may be observing the proceedings.
 
 {:start="10"}
-10.&nbsp;The total number of court events from 2021 to 2025 where freelance interpreters were engaged is set out in Table 1. The breakdown of the top five foreign languages requiring interpretation for each year is set out in Tables 2 to 6.
+10.&nbsp;The total number of court events from 2021 to 2025 where freelance interpreters were engaged is set out in [Table 1](/files/Table_1_Total_number_of_court_events_from_2021_to_2025_where_freelance_interpreters_were_engaged.pdf). The breakdown of the top five foreign languages requiring interpretation for each year is set out in [Tables 2 to 6](/files/Tables_2_to_6_for_Written_Answer_on_Qualifications_and_Accreditation__Court_Procedure_Training_and_Quality_Assessment_for_Freelance_Interpreters_Engaged_by_Singapore_Courts.pdf).
 
 {:start="11"}
 11.&nbsp;Between 2021 and 2025, the courts received two requests for a change of freelance interpreter. In both cases, the requests were made by embassies on behalf of their nationals at an early stage of the proceedings during mentions, and acceded to promptly. No re-interpretation or adjournment was required in either case, and there was no further feedback after the replacement interpreters were appointed.
