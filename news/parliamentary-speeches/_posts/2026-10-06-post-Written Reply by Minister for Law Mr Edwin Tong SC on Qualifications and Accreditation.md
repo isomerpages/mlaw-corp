@@ -1,7 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Qualifications and
-  Accreditation
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-qualifications-and-accreditation/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Qualifications and Accreditation, Court Procedure Training and Quality Assessment for Freelance Interpreters Engaged by Singapore Courts
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-qualifications-accreditation-court-procedure-training-quality-assessment-freelance-interpreters-engaged-by-singapore-courts/
 date: 2026-10-06
 layout: post
 description: ""
