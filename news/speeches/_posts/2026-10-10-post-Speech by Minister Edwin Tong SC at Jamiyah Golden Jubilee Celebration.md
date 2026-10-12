@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister Edwin Tong SC at Jamiyah Golden Jubilee Celebration
+title: Speech by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at Jamiyah Singapore Free Legal Clinic’s Golden Jubilee Celebration
 permalink: /speech-by-minister-edwin-tong-sc-at-jamiyah-golden-jubilee-celebration/
 date: 2026-10-10
 layout: post
