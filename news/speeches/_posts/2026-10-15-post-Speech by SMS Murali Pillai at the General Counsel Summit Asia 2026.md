@@ -1,5 +1,5 @@
 ---
-title: Speech by SMS Murali Pillai at the General Counsel Summit Asia 2026
+title: Keynote Address by Senior Minister of State for Law and Transport Mr Murali Pillai SC at the General Counsel Summit Asia 2026 by Economist Impact
 permalink: /speech-by-sms-murali-pillai-at-the-general-counsel-summit-asia-2026/
 date: 2026-10-15
 layout: post
