@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-15 September 2026 Posted in [Speeches](/news/speeches)
+15 October 2026 Posted in [Speeches](/news/speeches)
 
 **Moral Anchors and Business Value: The GC in Asia’s Legal Future**
 
@@ -98,4 +98,4 @@ variant: markdown
 36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.
 
 
-<p class="right-side-updated">Last updated on 15 September 2026</p>
+<p class="right-side-updated">Last updated on 15 October 2026</p>
