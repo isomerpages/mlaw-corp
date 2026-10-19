@@ -9,7 +9,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-30 September 2026 Posted in \[Speeches\](/news/speeches)
+30 September 2026 Posted in [Speeches](/news/speeches)
 
 **Welcome**
 
