@@ -1,5 +1,5 @@
 ---
-title: Speech by SPS Eric Chua at Hainan FTP Legal Week 2026
+title: Speech by Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development, Mr Eric Chua, at Hainan Free Trade Port Legal Week 2026 Opening Ceremony
 permalink: /speech-by-sps-eric-chua-at-hainan-ftp-legal-week-2026/
 date: 2026-10-16
 layout: post
