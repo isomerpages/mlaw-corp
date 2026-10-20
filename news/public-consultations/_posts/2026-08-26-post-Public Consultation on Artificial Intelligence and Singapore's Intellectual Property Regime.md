@@ -9,10 +9,10 @@ image: ""
 variant: tiptap
 ---
 <p><strong>Consultation Period:</strong> 
-<br>26 August 2026 to 22 October 2026</p>
+<br>26 August 2026 to 5 November 2026*</p>
 <p>MinLaw and IPOS are seeking views on the impact of artificial intelligence
 ("AI") on Singapore's intellectual property ("IP") regime. The public consultation
-period is from 26 August 2026 to 22 October 2026.</p>
+period is from 26 August 2026 to 5 November 2026.*</p>
 <h4><strong>Executive Summary</strong></h4>
 <p>AI is changing how people create, invent, research and do business. Singapore’s
 IP regime is anchored on a careful balance: protecting the rights and incentives
@@ -84,8 +84,11 @@ for innovation as AI-generated material becomes more publicly available
 </li>
 </ul>
 <h4><strong>Providing feedback</strong></h4>
-<p>Please provide your feedback by 22 October 2026, 5 PM. Feedback may be
-submitted via either FormSG or via email to MinLaw:</p>
+<p>Please provide your feedback by 22 October 2026, 5 PM.*</p>
+<p>*Following feedback from the public, the consultation exercise will be
+extended. It will now close on <strong>5 November 2026</strong> instead.
+We invite all interested parties to provide responses by then.</p>
+<p>Feedback may be submitted via either FormSG or via email to MinLaw:</p>
 <p><strong>By FormSG:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -121,4 +124,6 @@ not be considered. As far as possible, parties should limit any request
 for confidential treatment of information submitted. We will not accept
 any submission that requests confidential treatment of all, or a substantial
 part, of the submission.</p>
+<p><em>Last updated on 20 October 2026</em>
+</p>
 <p></p>
