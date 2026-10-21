@@ -1,6 +1,5 @@
 ---
-title: Continued Designation of Credit Bureau (Singapore) Pte Ltd as the Operator of the
-Moneylenders Credit Bureau under the Moneylenders Act 2008
+title: Continued Designation of Credit Bureau (Singapore) Pte Ltd as the Operator of the Moneylenders Credit Bureau under the Moneylenders Act 2008
 permalink: /continued-designation-of-cbs-as-the-operator-of-the-moneylenders-credit-bureau/
 date: 2026-10-21
 layout: post
