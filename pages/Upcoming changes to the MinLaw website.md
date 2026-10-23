@@ -4,6 +4,9 @@ permalink: /upcoming-changes-to-the-minlaw-website/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Preview of the refreshed MinLaw website homepage" src="/images/website_refresh_hero_image.png">
+</div>
 <h3><strong>Experience a better and more user-friendly MinLaw website</strong></h3>
 <p>As part of the Ministry’s effort to enhance our digital touchpoints and
 your user experience, our website (<a href="http://www.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.mlaw.gov.sg</a>) is getting a new look
@@ -86,7 +89,7 @@ have previously saved the URLs as bookmarks, do update them.</p>
 <p>Registry of Moneylenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://rom.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rom.mlaw.gov.sg</a> 
+<p><a href="http://rom.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rom.mlaw.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +101,7 @@ have previously saved the URLs as bookmarks, do update them.</p>
 <p>Registry of Pawnbrokers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://rop.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rop.mlaw.gov.sg</a> 
+<p><a href="http://rop.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rop.mlaw.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
