@@ -49,7 +49,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 October 2026 (Fri) 1800 hrs to 18 October 2026 (Sun) 1200 hrs</p>
+<p>23 October 2026 (Fri) 2300 hrs to 24 October 2026 (Sat) 1100 hrs</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 October 2026 (Fri) 1800 hrs to 18 October 2026 (Sun) 1200 hrs</p>
+<p>23 October 2026 (Fri) 2300 hrs to 24 October 2026 (Sat) 1100 hrs</p>
 </td>
 </tr>
 <tr>
