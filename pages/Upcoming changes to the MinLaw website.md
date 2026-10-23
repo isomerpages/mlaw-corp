@@ -83,26 +83,61 @@ have previously saved the URLs as bookmarks, do update them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Registry of Moneylenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://rom.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rom.mlaw.gov.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mlaw.gov.sg/services/moneylending-and-pawnbroking-matters/moneylending-matters</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Registry of Pawnbrokers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://rop.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rop.mlaw.gov.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mlaw.gov.sg/services/moneylending-and-pawnbroking-matters/pawnbroking-matters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Insight MinLaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://insight.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">insight.mlaw.gov.sg/</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mlaw.gov.sg/newsroom/insight-minlaw/</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>The following website URLs will continue to be accessible via their existing
+URLs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anti-Money Laundering / Countering the Financing of Terrorism Division
+(<a href="http://acd.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">acd.mlaw.gov.sg</a>)</p>
+</li>
+<li>
+<p>Legal Aid Bureau (<a href="https://lab.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">lab.mlaw.gov.sg</a>)</p>
+</li>
+<li>
+<p>Community Mediation Centre (<a href="https://cmc.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">cmc.mlaw.gov.sg</a>)</p>
+</li>
+<li>
+<p>Public Defender's Office (<a href="https://pdo.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">pdo.mlaw.gov.sg</a>)</p>
+</li>
+<li>
+<p>Online Safety Resources (<a href="http://onlinesafety.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">onlinesafety.mlaw.gov.sg</a>)</p>
+</li>
+</ul>
 <p></p>
