@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister at MACAD
+title: Welcome Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the Mediators’ Appointment Ceremony and Appreciation Dinner 2026
 permalink: /speech-by-minister-at-macad/
 date: 2026-10-21
 layout: post
