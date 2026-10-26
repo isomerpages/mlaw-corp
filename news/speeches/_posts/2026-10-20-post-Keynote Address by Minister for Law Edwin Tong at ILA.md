@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister for Law Edwin Tong at ILA
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC at the 4th International Law Association Singapore Symposium
 permalink: /keynote-address-by-minister-for-law-edwin-tong-at-ila/
 date: 2026-10-20
 layout: post
