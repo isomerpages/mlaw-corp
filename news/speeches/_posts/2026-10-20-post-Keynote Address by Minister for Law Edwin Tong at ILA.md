@@ -63,7 +63,7 @@ variant: markdown
 
 25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The larger ambition is to be useful: to help develop workable rules, support trusted institutions and bring different perspectives together. If we do that well, we strengthen the international order on which we depend. We also deepen the expertise and trust that makes our legal community relevant globally.
 
-**International law under strain, but not irrelevant*
+**International law under strain, but not irrelevant**
 
 26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me turn to the state of international law itself.
 
