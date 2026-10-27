@@ -20,7 +20,7 @@ variant: markdown
 
 5.&nbsp;&nbsp;&nbsp; The findings of these inquiries will be assessed by the relevant Government agencies and the Attorney-General’s Chambers.&nbsp;
 
-6.&nbsp;&nbsp;&nbsp; Meanwhile other regulatory agencies in Singapore, including MAS and NEA are following up on the issues that have been identified. Further details will be released next week.
+6.&nbsp;&nbsp;&nbsp; Meanwhile other regulatory agencies in Singapore, including MAS and NEA are following up on this matter too. Further details will be released next week.
 
 
 <b>MINISTRY OF LAW</b><br>
