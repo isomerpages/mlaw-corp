@@ -1,5 +1,6 @@
 ---
-title: Minister Edwin Tong to Visit New York to Reaffirm Singapore's Commitment to International Law and Strengthen Legal Partnerships
+title: Minister Edwin Tong to Visit New York to Reaffirm Singapore's Commitment
+  to International Law and Strengthen Legal Partnerships
 permalink: /minister-edwin-tong-to-visit-new-york/
 date: 2026-10-28
 layout: post
