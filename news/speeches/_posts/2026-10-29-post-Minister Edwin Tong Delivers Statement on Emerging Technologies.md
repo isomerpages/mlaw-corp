@@ -1,5 +1,5 @@
 ---
-title: Minister for Law and Second Minister for Home Affairs Edwin Tong Delivers Statement on Emerging Technologies and Maritime Security: Implications for Peace and Security, to the United Nations Security Council
+title: "Minister for Law and Second Minister for Home Affairs Edwin Tong Delivers Statement on Emerging Technologies and Maritime Security: Implications for Peace and Security, to the United Nations Security Council"
 permalink: /minister-edwin-tong-delivers-statement-on-emerging-technologies/
 date: 2026-10-29
 layout: post
