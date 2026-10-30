@@ -8,8 +8,8 @@ notification: <p>Government officials will <b>NEVER</b> ask you to transfer
   more information, visit <a target="_blank"
   href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>.</p> <br>
   <p>Expect a better experience when our new website goes live on 30 November
-  2026. <a target="_blank" href="https://www.mlaw.gov.sg/">Find out more
-  here</a>.</p>
+  2026. Find out more <a target="_blank"
+  href="https://www.mlaw.gov.sg/">here</a>.</p>
 sections:
   - hero:
       title: Ministry of Law Singapore
