@@ -1,5 +1,5 @@
 ---
-title: Minister Edwin Tong Delivers Singapore's Statement on the Report of the ICJ
+title: Minister for Law and Second Minister for Home Affairs Edwin Tong Delivers Singapore's Statement on the Report of the International Court of Justice to the United Nations General Assembly
 permalink: /minister-edwin-tong-delivers-singapore-s-statement-on-the-report-of-the-icj/
 date: 2026-10-29
 layout: post
