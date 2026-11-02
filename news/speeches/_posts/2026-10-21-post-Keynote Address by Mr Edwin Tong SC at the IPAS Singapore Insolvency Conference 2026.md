@@ -171,7 +171,7 @@ Let me start by tracing through the last few decades and how the framework
 has evolved. I will start, of course, with Pan-El, which you discussed
 yesterday.</p>
 <p>&nbsp;</p>
-<p><strong>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>From liquidation to corporate rescue</u></strong>
+<p><strong><u>C. From liquidation to corporate rescue</u></strong>
 </p>
 <p></p>
 <p>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -260,7 +260,7 @@ and industries will go through periods of growth and decline.</p>
 We need a strong restructuring framework to allow businesses to recover,
 and to absorb the shocks of that ebb and flow cycle.</p>
 <p>&nbsp;</p>
-<p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Growth of Restructuring Practice</u></strong>
+<p><strong><u>D. Growth of Restructuring Practice</u></strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
