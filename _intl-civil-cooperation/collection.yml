@@ -1,4 +1,5 @@
 collections:
   intl-civil-cooperation:
     output: true
-    order: []
+    order:
+      - Overview of International Civil Cooperation in Singapore.md
