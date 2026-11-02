@@ -21,8 +21,10 @@ across borders.</p>
 </p>
 <p><strong>(b) Serving legal documents across borders:</strong>
 </p>
-<p>i. Service of Foreign Legal Documents in Singapore</p>
-<p>ii. Service of Singapore Court Documents Overseas</p>
+<p>i. <a href="https://www.mlaw.gov.sg/service-of-foreign-process-in-singapore/" rel="noopener nofollow" target="_blank">Service of Foreign Process in Singapore</a>
+</p>
+<p>ii. <a href="https://www.mlaw.gov.sg/service-out-of-singapore-of-singapore-court-documents/" rel="noopener nofollow" target="_blank">Service out of Singapore of Singapore Court Documents</a>
+</p>
 <p>All Singapore legislation referred to on this site may be found at <a href="https://sso.agc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Statutes Online</a>.</p>
 <p>Please note that the Singapore Government is not in a position to provide
 legal advice, including in relation to any underlying proceedings.</p>
