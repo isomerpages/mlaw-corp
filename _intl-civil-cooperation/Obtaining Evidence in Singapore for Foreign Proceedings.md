@@ -30,9 +30,7 @@ please refer to the page “<strong>Obtaining Voluntary Evidence Remotely from a
 <p><strong><u>Seeking Judicial Assistance</u></strong>
 </p>
 <p>The procedures for seeking judicial assistance to obtain evidence in Singapore
-for use in foreign court or tribunal proceedings are governed by the
-<a href="https://sso.agc.gov.sg/Act/ECPOJA1979" rel="noopener nofollow" target="_blank">Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</a>and
-<a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO55-#P12-PO55-pr2-" rel="noopener nofollow" target="_blank">Order 55 of the Rules of Court 2021</a>.</p>
+for use in foreign court or tribunal proceedings are governed by the <strong><a href="https://sso.agc.gov.sg/Act/ECPOJA1979" rel="noopener nofollow" target="_blank">Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</a></strong> and <strong><a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO55-#P12-PO55-pr2-" rel="noopener nofollow" target="_blank">Order 55 of the Rules of Court 2021</a></strong>.</p>
 <p>There are two principal means of doing so:</p>
 <p>(i) <strong><u>Court application</u></strong>: A duly authorised person
 may apply, on behalf of the relevant foreign court or tribunal, to the
@@ -54,5 +52,5 @@ from Singapore under the Hague Evidence Convention, please refer to:
 <a href="https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence" rel="noopener noreferrer nofollow" target="_blank">https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence</a>.</p>
 <p>2. The bilateral Civil Procedure Conventions set out in the <a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO70-Sc3-#P12-PO70-Sc3-" rel="noopener nofollow" target="_blank">Third Schedule of the Rules of Court 2021</a>.
 Online copies of these bilateral Civil Procedure Conventions can be found
-here.</p>
+<a href="https://www.mlaw.gov.sg/bilateral-civil-procedure-conventions/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
