@@ -1,6 +1,6 @@
 ---
-title: Keynote Address by Minister for Law Mr Edwin Tong SC at the IPAS Singapore Insolvency
-  Conference 2026
+title: Keynote Address by Minister for Law Mr Edwin Tong SC at the IPAS
+  Singapore Insolvency Conference 2026
 permalink: /keynote-address-by-mr-edwin-tong-sc-at-the-ipas-singapore-insolvency-conference-2026/
 date: 2026-10-21
 layout: post
@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>29 October 2026 Posted in <a href="https://www.mlaw.gov.sg/news/speeches/" rel="noopener nofollow" target="_blank">Speeches</a>
+<p>21 October 2026 Posted in <a href="https://www.mlaw.gov.sg/news/speeches/" rel="noopener nofollow" target="_blank">Speeches</a>
 </p>
 <p></p>
 <p>Distinguished guests, colleagues and friends,</p>
