@@ -32,12 +32,12 @@ please refer to the page “<strong>Obtaining Voluntary Evidence Remotely from a
 <p>The procedures for seeking judicial assistance to obtain evidence in Singapore
 for use in foreign court or tribunal proceedings are governed by the <strong>Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</strong> and <strong>Order 55 of the Rules of Court 2021</strong>.</p>
 <p>There are two principal means of doing so:</p>
-<p>(i)	<strong><u>Court application</u></strong>: A duly authorised person
+<p>(i) <strong><u>Court application</u></strong>: A duly authorised person
 may apply, on behalf of the relevant foreign court or tribunal, to the
 General Division of the High Court of Singapore, pursuant to Order 55,
 rule 2 of the Rules of Court 2021. Parties may wish to engage qualified
 Singapore lawyers to make this application.</p>
-<p>(ii)	<strong><u>Letter of Request</u></strong>: Where no person has been
+<p>(ii) <strong><u>Letter of Request</u></strong>: Where no person has been
 duly authorised on behalf of the foreign court or tribunal to make the
 above application, and where a Civil Procedure Convention is applicable,
 a letter of request may be transmitted by the relevant foreign authorities
