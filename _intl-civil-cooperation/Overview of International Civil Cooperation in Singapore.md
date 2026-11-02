@@ -14,4 +14,12 @@ across borders.</p>
 <p><strong>(a) Obtaining evidence across borders:</strong>
 </p>
 <p>i. Obtaining Evidence in Singapore for Foreign Proceedings</p>
-<p>ii.</p>
+<p>ii. Obtaining Voluntary Evidence Remotely From a Person in Singapore for
+Foreign Proceedings</p>
+<p>iii. Obtaining Evidence Overseas for Singapore Court Proceedings</p>
+<p>(b) Serving legal documents across borders:</p>
+<p>i. Service of Foreign Legal Documents in Singapore</p>
+<p>ii. Service of Singapore Court Documents Overseas</p>
+<p>All Singapore legislation referred to on this site may be found at <a href="https://sso.agc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Statutes Online</a>.</p>
+<p>Please note that the Singapore Government is not in a position to provide
+legal advice, including in relation to any underlying proceedings.</p>
