@@ -30,7 +30,9 @@ please refer to the page “<strong>Obtaining Voluntary Evidence Remotely from a
 <p><strong><u>Seeking Judicial Assistance</u></strong>
 </p>
 <p>The procedures for seeking judicial assistance to obtain evidence in Singapore
-for use in foreign court or tribunal proceedings are governed by the <strong>Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</strong> and <strong>Order 55 of the Rules of Court 2021</strong>.</p>
+for use in foreign court or tribunal proceedings are governed by the
+<a href="https://sso.agc.gov.sg/Act/ECPOJA1979" rel="noopener nofollow" target="_blank">Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</a>and
+<a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO55-#P12-PO55-pr2-" rel="noopener nofollow" target="_blank">Order 55 of the Rules of Court 2021</a>.</p>
 <p>There are two principal means of doing so:</p>
 <p>(i) <strong><u>Court application</u></strong>: A duly authorised person
 may apply, on behalf of the relevant foreign court or tribunal, to the
