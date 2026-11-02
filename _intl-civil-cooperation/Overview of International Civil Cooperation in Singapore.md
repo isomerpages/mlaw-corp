@@ -13,10 +13,12 @@ across borders.</p>
 <p>More information is available at the following pages:</p>
 <p><strong>(a) Obtaining evidence across borders:</strong>
 </p>
-<p>i. Obtaining Evidence in Singapore for Foreign Proceedings</p>
-<p>ii. Obtaining Voluntary Evidence Remotely From a Person in Singapore for
-Foreign Proceedings</p>
-<p>iii. Obtaining Evidence Overseas for Singapore Court Proceedings</p>
+<p>i. <a href="https://www.mlaw.gov.sg/obtaining-evidence-in-singapore-for-foreign-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Evidence in Singapore for Foreign Proceedings</a>
+</p>
+<p>ii. <a href="https://www.mlaw.gov.sg/obtaining-voluntary-evidence-remotely-from-a-person-in-singapore-for-foreign-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Voluntary Evidence Remotely From a Person in Singapore for Foreign Proceedings</a>
+</p>
+<p>iii. <a href="https://www.mlaw.gov.sg/obtaining-evidence-overseas-for-singapore-court-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Evidence Overseas for Singapore Court Proceedings</a>
+</p>
 <p><strong>(b) Serving legal documents across borders:</strong>
 </p>
 <p>i. Service of Foreign Legal Documents in Singapore</p>
