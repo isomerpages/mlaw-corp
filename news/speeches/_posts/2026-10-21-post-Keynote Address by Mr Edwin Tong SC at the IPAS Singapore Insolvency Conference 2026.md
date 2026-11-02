@@ -574,7 +574,7 @@ in nature, but I think they are also important. This morning, I will end
 my speech by speaking about three of the reforms that we will be introducing
 in the coming months.</p>
 <p></p>
-<p><strong>G.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Strengthening our restructuring framework</u></strong>
+<p><strong><u>G. Strengthening our restructuring framework</u></strong>
 </p>
 <p></p>
 <p>82.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
