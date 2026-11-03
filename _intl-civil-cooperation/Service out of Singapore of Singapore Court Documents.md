@@ -28,7 +28,7 @@ service out of Singapore, as set out in Order 8, Rule 2 of the Rules of
 Court 2021 or the equivalent provisions in the Singapore International
 Commercial Court Rules 2021 and Family Justice Rules 2014. The objections
 made by Contracting States to transmission channels for service abroad
-may be found at this <a href="https://www.hcch.net/en/instruments/conventions/authorities1/?cid=82" rel="noopener nofollow" target="_blank">status table</a> on
+may be found at this <a href="https://www.hcch.net/en/instruments/conventions/status-table/?cid=17" rel="noopener nofollow" target="_blank">status table</a> on
 the website of the Hague Conference on Private International Law.</p>
 <p>(c) If another Civil Procedure Convention applies, through the channel
 provided under that Convention, if the serving party so elects. The list
