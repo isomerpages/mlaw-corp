@@ -1,7 +1,7 @@
 ---
 title: Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan and Minister for Law and Second Minister for Home Affairs Edwin Tong SC to New York for the International Court of Justice Elections
 
-  permalink: /visit-of-minister-vivian-balakrishnan-and-minister-edwin-tong-to-new-york-for-icj/
+permalink: /visit-of-minister-vivian-balakrishnan-and-minister-edwin-tong-to-new-york-for-icj/
 date: 2026-11-02
 layout: post
 description: ""
