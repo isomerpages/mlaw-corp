@@ -60,4 +60,4 @@ here: <a href="https://www.mlaw.gov.sg/bilateral-civil-procedure-conventions/" r
 Procedure Convention are applicable, the relevant party may elect to use
 channels prescribed in either Convention.</p>
 <p><sup>4</sup> See footnote 2 above regarding the list of Civil Procedure
-Conventions that Singapore is a party to</p>
+Conventions that Singapore is a party to.</p>
