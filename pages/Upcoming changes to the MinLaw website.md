@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Refreshed MinLaw website homepage" src="/images/refreshed_mlaw_website.png">
+<img style="width: 100%" height="auto" width="100%" alt="Refreshed MinLaw website homepage" src="/images/refreshed_mlaw_website_updated.png">
 </div>
 <h4><strong>Experience a better and more user-friendly MinLaw website</strong></h4>
 <p>As part of the Ministry’s effort to enhance our digital touchpoints and
