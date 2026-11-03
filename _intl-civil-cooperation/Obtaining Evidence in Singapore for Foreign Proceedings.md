@@ -11,9 +11,10 @@ in Singapore, obtain evidence from persons in Singapore for the purpose
 of foreign non-criminal proceedings, even where the evidence taken is voluntary.
 In that regard, Singapore has entered a reservation to disapply Chapter
 II of the <a href="https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence" rel="noopener nofollow" target="_blank">Hague Convention on the Taking of Evidence Abroad in Civil or Commercial Matters 1970</a> (the
-“Hague Evidence Convention”). Evidence may instead be taken through (a)
-judicial assistance from the Singapore courts, or (b) remote means with,
-where required, prior permission from the Singapore Government.</p>
+“<strong>Hague Evidence Convention</strong>”). Evidence may instead be
+taken through (a) judicial assistance from the Singapore courts, or (b)
+remote means with, where required, prior permission from the Singapore
+Government.</p>
 <p><u>Taking of evidence involving legal compulsion requires judicial assistance</u>.
 Where the obtaining of evidence in Singapore for use in foreign non-criminal
 proceedings involves legal compulsion, judicial assistance from the Singapore
@@ -26,11 +27,13 @@ to be obtained, without legal compulsion, from a person in Singapore through
 remote means (i<em>.e</em>. via video and/or audio link), for the purpose
 of foreign court or tribunal proceedings in non-criminal matters, judicial
 assistance from the Singapore courts may not be required. For further information,
-please refer to the page “<strong>Obtaining Voluntary Evidence Remotely from a Person in Singapore for Foreign Proceedings”</strong>.</p>
+please refer to the page “<a href="https://www.mlaw.gov.sg/obtaining-voluntary-evidence-remotely-from-a-person-in-singapore-for-foreign-proceedings/" rel="noopener nofollow" target="_blank">Obtaining Voluntary Evidence Remotely from a Person in Singapore for Foreign Proceedings</a>”.</p>
 <p><strong><u>Seeking Judicial Assistance</u></strong>
 </p>
 <p>The procedures for seeking judicial assistance to obtain evidence in Singapore
-for use in foreign court or tribunal proceedings are governed by the <strong><a href="https://sso.agc.gov.sg/Act/ECPOJA1979" rel="noopener nofollow" target="_blank">Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</a></strong> and <strong><a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO55-#P12-PO55-pr2-" rel="noopener nofollow" target="_blank">Order 55 of the Rules of Court 2021</a></strong>.</p>
+for use in foreign court or tribunal proceedings are governed by the
+<a href="https://sso.agc.gov.sg/Act/ECPOJA1979" rel="noopener nofollow" target="_blank">Evidence (Civil Proceedings in Other Jurisdictions) Act 1979</a>and
+<a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO55-#P12-PO55-pr2-" rel="noopener nofollow" target="_blank">Order 55 of the Rules of Court 2021</a>.</p>
 <p>There are two principal means of doing so:</p>
 <p>(i) <strong><u>Court application</u></strong>: A duly authorised person
 may apply, on behalf of the relevant foreign court or tribunal, to the
@@ -44,12 +47,11 @@ a letter of request may be transmitted by the relevant foreign authorities
 to the Registrar of the Supreme Court, pursuant to Order 55, rule 3(b)
 of the Rules of Court 2021.</p>
 <p>Singapore is a party to the following Civil Procedure Conventions:</p>
-<p>1. The Hague Convention on the Taking of Evidence Abroad in Civil or Commercial
-Matters 1970 (the “<strong>Hague Evidence Convention</strong>”). The Supreme
-Court of Singapore serves as Singapore's Central Authority under the Hague
-Evidence Convention. For further information on seeking judicial assistance
-from Singapore under the Hague Evidence Convention, please refer to:
-<a href="https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence" rel="noopener noreferrer nofollow" target="_blank">https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence</a>.</p>
+<p>1. The <a href="https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence" rel="noopener nofollow" target="_blank">Hague Convention on the Taking of Evidence Abroad in Civil or Commercial Matters 1970</a> (the
+“<strong>Hague Evidence Convention</strong>”). The Supreme Court of Singapore
+serves as Singapore's Central Authority under the Hague Evidence Convention.
+For further information on seeking judicial assistance from Singapore under
+the Hague Evidence Convention, please refer to: <a href="https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence" rel="noopener noreferrer nofollow" target="_blank">https://www.hcch.net/en/instruments/conventions/specialised-sections/evidence</a>.</p>
 <p>2. The bilateral Civil Procedure Conventions set out in the <a href="https://sso.agc.gov.sg/SL/scja1969-s914-2021?ProvIds=P12-PO70-Sc3-#P12-PO70-Sc3-" rel="noopener nofollow" target="_blank">Third Schedule of the Rules of Court 2021</a>.
 Online copies of these bilateral Civil Procedure Conventions can be found
 <a href="https://www.mlaw.gov.sg/bilateral-civil-procedure-conventions/" rel="noopener nofollow" target="_blank">here</a>.</p>
