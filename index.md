@@ -29,7 +29,7 @@ sections:
           description: Stat Boards and Departments
           url: /about-us/what-we-do
         - title: Trusts under Singapore Law
-          description: Including Trustees’ AML Duties
+          description: Including Trustees' AML Duties
           url: /trusts/trusts-and-trust-like-arrangements-in-singapore/
         - title: Singapore Convention Week 2026
           description: Find Out More
