@@ -22,7 +22,7 @@ channels:<sup>1</sup>
 Convention. Information on the procedure and requirements for utilising
 this channel are set out&nbsp;<a href="https://www.hcch.net/en/states/authorities/details3/?aid=1200" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>(b) If another Civil Procedure Convention applies,<sup>2</sup> through
-the channels provided under that convention, if the serving party so elects.<sup>3</sup> 
+the channels provided under that convention, if the serving party so elects.<sup>3</sup>
 </p>
 <p>These channels include the sending of a letter of request from a consular
 or other authority of the sending jurisdiction to the Registrar of the
@@ -50,3 +50,12 @@ person in Singapore.</p>
 <hr>
 <p><sup>1 </sup>Singapore has entered declarations against certain transmission
 channels. These declarations may be found here: <a href="https://www.hcch.net/en/instruments/conventions/status-table/notifications/?csid=1512&amp;disp=resdn" rel="noopener noreferrer nofollow" target="_blank">https://www.hcch.net/en/instruments/conventions/status-table/notifications/?csid=1512&amp;disp=resdn</a>.</p>
+<p><sup>2</sup> The list of Civil Procedure Conventions that Singapore is
+a party to is set out in the Third Schedule of the Rules of Court 2021.
+Online copies of the bilateral Civil Procedure Conventions can be found
+here:</p>
+<p><sup>3</sup> Where both the Hague Service Convention and another Civil
+Procedure Convention are applicable, the relevant party may elect to use
+channels prescribed in either Convention.</p>
+<p><sup>4</sup> See footnote 2 above regarding the list of Civil Procedure
+Conventions that Singapore is a party to</p>
