@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4>Experience a better and more user-friendly MinLaw website </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Refreshed MinLaw website homepage" src="/images/refreshed_mlaw_website.png">
+</div>
+<h4>Experience a better and more user-friendly MinLaw website</h4>
 <p>As part of the Ministry’s effort to enhance our digital touchpoints and
 your user experience, our website (<a href="http://www.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.mlaw.gov.sg</a>) is getting a new look
 on 30 November 2026.</p>
