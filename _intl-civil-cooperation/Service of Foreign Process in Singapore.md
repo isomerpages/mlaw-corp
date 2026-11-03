@@ -47,6 +47,7 @@ the Hague Service Convention) applies, service pursuant to a letter of
 request from a consular or other authority of the Contracting State to
 the Registrar of the Supreme Court of Singapore requesting service on a
 person in Singapore.</p>
+<p></p>
 <hr>
 <p><sup>1 </sup>Singapore has entered declarations against certain transmission
 channels. These declarations may be found here: <a href="https://www.hcch.net/en/instruments/conventions/status-table/notifications/?csid=1512&amp;disp=resdn" rel="noopener noreferrer nofollow" target="_blank">https://www.hcch.net/en/instruments/conventions/status-table/notifications/?csid=1512&amp;disp=resdn</a>.</p>
