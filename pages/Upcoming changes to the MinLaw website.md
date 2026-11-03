@@ -93,6 +93,17 @@ have previously saved the URLs as bookmarks, do update them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Registry of Pawnbrokers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rop.mlaw.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mlaw.gov.sg/services/moneylending-and-pawnbroking-matters/pawnbroking-matters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Insight MinLaw</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +123,7 @@ URLs:</p>
 (<a href="http://acd.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">acd.mlaw.gov.sg</a>)</p>
 </li>
 <li>
-<p>Legal Aid Bureau (<a href="http://lab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lab.mlaw.gov.sg</a>)</p>
+<p>Legal Aid Bureau (<a href="http://lab.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lab.mlaw.gov.sg</a>)</p>
 </li>
 <li>
 <p>Community Mediation Centre (<a href="http://cmc.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cmc.mlaw.gov.sg</a>)</p>
