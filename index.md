@@ -30,7 +30,7 @@ sections:
           url: /about-us/what-we-do
         - title: International Civil Cooperation
           description: Find Out More
-          url: https://www.mlaw.gov.sg/overview-of-international-civil-cooperation-in-singapore/
+          url: /intl-civil-cooperation/overview-of-international-civil-cooperation-in-singapore/
         - title: Singapore Convention Week 2026
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
