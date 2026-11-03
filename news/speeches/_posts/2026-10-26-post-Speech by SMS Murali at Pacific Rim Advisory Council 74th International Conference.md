@@ -1,6 +1,5 @@
 ---
-title: Speech by SMS Murali at Pacific Rim Advisory Council 74th International
-  Conference
+title: Transcript of Keynote Address by Mr Murali Pillai SC, Senior Minister of State for Law and Transport, at the Pacific Rim Advisory Council 74th International Conference
 permalink: /speech-by-sms-murali-at-pacific-rim-advisory-council-74th-international-conference/
 date: 2026-10-26
 layout: post
