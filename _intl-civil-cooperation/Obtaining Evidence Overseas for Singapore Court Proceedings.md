@@ -26,3 +26,5 @@ prior to taking evidence for Singapore court proceedings.</p>
 <p>In respect of the obtaining of evidence through remote means, information
 on the requirements of specified foreign jurisdictions that must be complied
 with can be found <a href="https://www.singaporelawwatch.sg/About-Singapore-Law/Civil-Practice-ADR/requirements-of-foreign-jurisdictions-on-the-taking-of-evidence-given-voluntarily-by-way-of-live-video-link-from-a-witness-located-in-their-jurisdiction-in-civil-proceedings-before-s" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please note that the Ministry of Law is not involved in outgoing requests
+to foreign jurisdictions to obtain evidence.</p>
