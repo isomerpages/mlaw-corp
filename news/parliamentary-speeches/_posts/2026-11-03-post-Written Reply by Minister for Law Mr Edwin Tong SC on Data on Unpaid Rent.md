@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Data on Unpaid Rent
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-on-unpaid-rent/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Data on Unpaid Rent for Corporate Residential Leases
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-on-unpaid-rent-for-corporate-residential-leases/
 date: 2026-11-03
 layout: post
 description: ""
