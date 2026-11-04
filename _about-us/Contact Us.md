@@ -5,6 +5,65 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<h3><strong>Closure of Ministry of Law Services Centre</strong></h3>
+</blockquote>
+<p>The video call counters at the Ministry of Law Services Centre and the
+Public Defender's Office Counter at the State Courts, Help Centre at Basement
+1, will close for staff events on the following dates:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closure period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resumption date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 November 2026 (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From 12:30 pm onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 November 2026 (Thursday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 November 2026 (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:00 pm to 1:30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From 1:30pm onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 November 2026 (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From 12:30 pm onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 November 2026 (Wednesday)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
