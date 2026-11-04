@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on LAB data
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Data on Applicants Reviewed by Legal Aid Bureau Means Test Panel and Successful Legal Aid Grants Since 2024 Criteria Review
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-lab-data/
 date: 2026-11-03
 layout: post
