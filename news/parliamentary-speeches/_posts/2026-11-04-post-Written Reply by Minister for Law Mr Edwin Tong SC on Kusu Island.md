@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Kusu Island
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-kusu-island/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Improving Barrier-Free Accessibility on Kusu Island
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-barrier-free-accessibility-on-kusu-island/
 date: 2026-11-04
 layout: post
 description: ""
