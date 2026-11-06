@@ -1,5 +1,5 @@
 ---
-title: Speech by Senior Parliamentary Secretary Mr Eric Chua at 10th IMS
+title: Speech by Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development, Mr Eric Chua at 10th International Mediation Summit
 permalink: /speech-by-senior-parliamentary-secretary-mr-eric-chua-at-10th-ims/
 date: 2026-11-04
 layout: post
