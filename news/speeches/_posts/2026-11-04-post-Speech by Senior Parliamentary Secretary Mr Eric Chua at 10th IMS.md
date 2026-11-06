@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-        
+4 November 2026 Posted in [Speeches](/news/speeches)
 
 中国贸促会 聂文慧副 会长,
 
