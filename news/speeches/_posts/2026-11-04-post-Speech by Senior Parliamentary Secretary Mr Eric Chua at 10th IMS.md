@@ -59,11 +59,11 @@ variant: markdown
 
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 展望未来，我期待双方从三个方面深化合作。
 
-一、&nbsp;&nbsp; 加强机构与人员交流，增进互信。
+<p style="margin-left: 40px">一、&nbsp;&nbsp; 加强机构与人员交流，增进互信。
 
-二、&nbsp;&nbsp; 携手支持中国企业“走出去”。
+</p><p style="margin-left: 40px">二、&nbsp;&nbsp; 携手支持中国企业“走出去”。
 
-三、&nbsp;&nbsp; 共同培养争议解决及涉外法律人才。
+</p><p style="margin-left: 40px">三、&nbsp;&nbsp; 共同培养争议解决及涉外法律人才。
 
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, please let me elaborate in English.
 
@@ -89,4 +89,4 @@ variant: markdown
 
 25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 愿新加坡与长沙的友谊历久弥新，法律合作不断深化，共同开创互利共赢的新篇章！也祝本届国际调解高峰论坛圆满成功！
 
-26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谢谢大家！
+26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谢谢大家！</p>
