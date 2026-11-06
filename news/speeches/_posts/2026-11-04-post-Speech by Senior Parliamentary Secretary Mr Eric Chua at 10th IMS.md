@@ -1,5 +1,7 @@
 ---
-title: Speech by Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development, Mr Eric Chua at 10th International Mediation Summit
+title: Speech by Senior Parliamentary Secretary, Ministry of Law & Ministry of
+  Social and Family Development, Mr Eric Chua at 10th International Mediation
+  Summit
 permalink: /speech-by-senior-parliamentary-secretary-mr-eric-chua-at-10th-ims/
 date: 2026-11-04
 layout: post
@@ -63,7 +65,7 @@ variant: markdown
 
 </p><p style="margin-left: 40px">二、&nbsp;&nbsp; 携手支持中国企业“走出去”。
 
-</p><p style="margin-left: 40px">三、&nbsp;&nbsp; 共同培养争议解决及涉外法律人才。
+</p><p style="margin-left: 40px">三、&nbsp;&nbsp; 共同培养争议解决及涉外法律人才。</p>
 
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, please let me elaborate in English.
 
@@ -89,4 +91,4 @@ variant: markdown
 
 25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 愿新加坡与长沙的友谊历久弥新，法律合作不断深化，共同开创互利共赢的新篇章！也祝本届国际调解高峰论坛圆满成功！
 
-26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谢谢大家！</p>
+26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谢谢大家！<p></p>
