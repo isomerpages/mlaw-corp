@@ -7,13 +7,15 @@ notification: <p>Government officials will <b>NEVER</b> ask you to transfer
   ScamShield Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
   href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.</p>  <br>  <p>The
-  Legal Aid Bureau (“LAB”) will be conducting its annual Customer Satisfaction
-  Survey from September to December 2026. You may be contacted if you have
-  completed a case with LAB in the past year. The survey does not require
-  respondents to transfer money or disclose any bank details. If in doubt, call
-  the Ministry of Law Services Centre hotline at 1800 2255
-  529.</p>  <br>  <p>Expect a better experience when our new website goes live
-  on 30 November 2026. Find out more <a target="_blank"
+  Ministry of Law is conducting the Legal Aid Bureau (“LAB”)’s Customer
+  Satisfaction Survey from September to December 2026 and the Ministry of Law’s
+  Public Perception Survey from October 2026 to January 2027. You may be
+  contacted for the LAB Customer Satisfaction Survey if you have completed a
+  case with LAB in the past year. The surveys do not require respondents to
+  transfer money or disclose any bank details. If in doubt, call the Ministry of
+  Law Services Centre hotline at 1800 2255 529.</p>  <br>  <p>Expect a better
+  experience when our new website goes live on 30 November 2026. Find out more
+  <a target="_blank"
   href="https://www.mlaw.gov.sg/upcoming-changes-to-the-minlaw-website">here</a>.</p>
 sections:
   - hero:
