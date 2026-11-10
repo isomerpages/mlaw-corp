@@ -1,5 +1,5 @@
 ---
-title: SPS Eric Chua Participates in 10th International Mediation Summit
+title: Senior Parliamentary Secretary Eric Chua Participates in 10th International Mediation Summit in Changsha, Strengthens Ties with CCPIT and Hunan
 permalink: /sps-eric-chua-participates-in-10th-international-mediation-summit/
 date: 2026-11-06
 layout: post
