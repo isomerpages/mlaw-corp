@@ -1,5 +1,5 @@
 ---
-title: Speech by Senior Minister of State for Law and Transport, Mr Murali Pillai SC
+title: Speech by Senior Minister of State for Law and Transport, Mr Murali Pillai SC, at the Credit Association of Singapore 20th Anniversary Celebration
 permalink: /speech-by-senior-minister-of-state-for-law-and-transport-mr-murali-pillai-sc/
 date: 2026-11-07
 layout: post
