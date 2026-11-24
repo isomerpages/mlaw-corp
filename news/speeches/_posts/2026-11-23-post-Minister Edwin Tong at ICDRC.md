@@ -1,6 +1,6 @@
 ---
-title: Minister Edwin Tong at ICDRC
-permalink: /minister-edwin-tong-at-icdrc/
+title: Opening Speech by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at 6th Singapore-China International Commercial Dispute Resolution Conference
+permalink: /opening-speech-by-minister-edwin-tong-at-6th-icdrc/
 date: 2026-11-23
 layout: post
 description: ""
