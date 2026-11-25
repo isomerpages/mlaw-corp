@@ -1,6 +1,6 @@
 ---
-title: MinLaw and CCPIT hold flagship Singapore–China ICDRC
-permalink: /minlaw-and-ccpit-hold-flagship-singapore-china-icdrc/
+title: Ministry of Law and China Council for the Promotion of International Trade hold flagship Singapore–China International Commercial Dispute Resolution Conference in western China for the first time
+permalink: /minlaw-and-ccpit-hold-flagship-singapore-china-icdrc-in-western-china-for-the-first-time/
 date: 2026-11-24
 layout: post
 description: ""
