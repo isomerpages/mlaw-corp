@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>27 November 2026 Posted in [<a href="https://www.mlaw.gov.sg/news/press-releases/" rel="noopener nofollow" target="_blank">Press Releases</a>]
+<p>27 November 2026 Posted in <a href="https://www.mlaw.gov.sg/news/press-releases/" rel="noopener nofollow" target="_blank">Press Releases</a> 
 <br>
 </p>
 <p><strong>Singapore Closes SGLaw200 with Launch of Commemorative Publication, "One People, One Nation, One Rule of Law"</strong>
